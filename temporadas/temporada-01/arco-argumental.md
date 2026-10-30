@@ -22,3 +22,12 @@ Una investigación sobre la autenticidad de pruebas en una ejecución revela fal
 
 ## Por definir
 POV único o coral; duración real de capítulos; tercer protagonista; episodio piloto; cronología causal de cada pista; quién ordenó la ejecución; mapa de relaciones; límites de la plataforma de distribución.
+
+
+## Documentos de planificación ampliada
+
+- [Sinopsis integral de la temporada — spoilers](sinopsis-integral.md)
+- [Mapa de 30 episodios — spoilers](mapa-30-episodios.md)
+- [Control de continuidad y producción](control-de-continuidad.md)
+
+**Nota:** el mapa de 30 episodios es una planificación editorial, no 30 guiones terminados.
