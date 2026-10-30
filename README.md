@@ -8,11 +8,11 @@
 
 En Eryndor, una civilización arcano-industrial desconoce la existencia de otros mundos. El Concilio de los Nueve regula la magia y custodia los registros históricos. Cuando una ejecución pública presenta una anomalía imposible, **Kael Veyran**, analista de integridad documental, descubre inconsistencias que apuntan a una conspiración institucional. Su investigación lo acerca a la Red de Convergencia, una infraestructura multiversal deteriorada cuya existencia ha sido borrada de la historia oficial.
 
-**Género:** fantasía, misterio, conspiración política. **Enfoque:** multiverso descubierto progresivamente, magia con reglas estrictas, protagonismo centrado inicialmente en Kael. **Formato propuesto:** ficción sonora por temporadas; la primera tiene una estructura exploratoria de 30 episodios (no es todavía un encargo ni una extensión definitiva).
+**Género:** fantasía, misterio, conspiración política. **Enfoque:** multiverso descubierto progresivamente, magia con reglas estrictas, protagonismo coral limitado (ensemble) aprobado, con Kael como eje. **Formato propuesto:** ficción sonora por temporadas; la primera tiene una estructura exploratoria de 30 episodios (no es todavía un encargo ni una extensión definitiva).
 
 ## Estado editorial
 
-Este repositorio documenta el desarrollo de la obra. La cosmología 0.2 y el diseño social 0.3 se encuentran en fase de consolidación; no hay guiones finales.
+Este repositorio documenta el desarrollo de la obra. La cosmología 0.2, el diseño social 0.3 y los personajes 0.4 están documentados como propuestas revisables; no hay guiones finales.
 
 - **Aprobado:** decisiones explícitas del creador y reglas derivadas sin alternativas pendientes.
 - **Provisional:** propuestas de desarrollo sujetas a validación.
@@ -28,6 +28,10 @@ Este repositorio documenta el desarrollo de la obra. La cosmología 0.2 y el dis
 - [Política y economía](biblia/04-politica-y-economia.md)
 - [Personajes](biblia/05-personajes.md)
 - [Cronología](biblia/06-cronologia.md)
+- [Red de relaciones](biblia/07-red-de-relaciones.md)
+- [Puntos de vista y voz](biblia/08-puntos-de-vista-y-voz.md)
+- [Decisiones de la Biblia 0.4](docs/decisiones-0.4.md)
+- [Matriz de conocimiento (spoilers)](secretos-del-autor/matriz-de-conocimiento-0.4.md)
 - [Conspiración central](secretos-del-autor/conspiracion-central.md)
 - [Proyecto Espejo](secretos-del-autor/proyecto-espejo.md)
 - [Temporada 1](temporadas/temporada-01/arco-argumental.md)
