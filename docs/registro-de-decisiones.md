@@ -15,6 +15,13 @@ Este registro distingue **decisiones expresas del creador** de **propuestas surg
 | D-009 | Civilización arcano-industrial | APROBADO | Elección del creador |
 | D-010 | Solo humanos habitan Eryndor | APROBADO | Elección del creador |
 | D-011 | Concilio supranacional con estados autónomos | APROBADO | Elección del creador |
+| D-012 | Estructura narrativa ensemble (coral limitada) | APROBADO | Elección del creador |
+| P-012 | Tres focalizadores prioritarios y distribución de escenas | PROPUESTO | Biblia 0.4 |
+| P-013 | Nuevos secundarios recurrentes y biografías | PROPUESTO | Biblia 0.4 |
+| P-014 | Objetivos y arcos T1 de Kael, Lyra y Maelor | PROPUESTO | Biblia 0.4 |
+| P-015 | Red de relaciones e hitos por actos | PROPUESTO | Biblia 0.4 |
+| P-016 | Protocolo de POV y diseño de voces en audio | PROPUESTO | Biblia 0.4 |
+| P-017 | Matriz inicial de conocimiento por personaje | PROPUESTO / SECRETO | Biblia 0.4 |
 | P-001 | Pulso y Trama como nociones físicas distintas; no viajes temporales | PROPUESTO | Biblia 0.2 |
 | P-002 | Cinco disciplinas: Cinética, Resonancia, Impronta, Vinculación y Tránsito | PROPUESTO | Biblia 0.1–0.2 |
 | P-003 | Tránsito con costo mnémico y anclajes | PROPUESTO | Biblia 0.1–0.2 |
@@ -25,7 +32,7 @@ Este registro distingue **decisiones expresas del creador** de **propuestas surg
 | P-008 | Alderyn, cinco regiones, Vael-Tir (~850.000 hab.) | PROPUESTO | Biblia 0.3 |
 | P-009 | Veyrita, Asterita, acumuladores de fase | PROPUESTO | Biblia 0.3–0.3.1 |
 | P-010 | Tratado de Contención, municipio de Vael-Tir, instituciones | PROPUESTO | Biblia 0.3–0.3.1 |
-| P-011 | 30 episodios / 12–18 min / protagonismo coral limitado | PROPUESTO | Diseño inicial |
+| P-011 | 30 episodios / 12–18 min | PROPUESTO | Diseño inicial |
 | X-001 | Procedimiento preciso de fabricación de dobles | PENDIENTE | Coherencia |
 | X-002 | Fechas y edades del Proyecto Espejo | PENDIENTE | Cronología |
 | X-003 | Por qué y cómo se organizó la ejecución | PENDIENTE | Trama |
