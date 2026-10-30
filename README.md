@@ -21,6 +21,7 @@ Este repositorio documenta el desarrollo de la obra. La cosmología 0.2, el dise
 ## Documentos
 
 - [Visión del proyecto](docs/vision-del-proyecto.md)
+- [Correcciones críticas 0.6](docs/correcciones-criticas-0.6.md)
 - [Registro de decisiones](docs/registro-de-decisiones.md)
 - [Cosmología](biblia/01-cosmologia.md)
 - [Magia](biblia/02-sistema-de-magia.md)
