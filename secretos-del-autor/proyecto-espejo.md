@@ -1,51 +1,72 @@
-# Proyecto Espejo — Biblia 0.5
+# Proyecto Espejo — modelo operativo consolidado
 
-> **SPOILERS EN UN REPOSITORIO PÚBLICO.** 
+> **SPOILERS.** El repositorio es público, por lo que este archivo no es confidencial.
 >
-> **APROBADO:** los dobles tienen origen artificial; Kael es uno de esos individuos; las credenciales antiguas requieren varios factores; un sujeto utilizado en la ejecución murió durante un ensayo de estabilización. **PROPUESTO:** nombres, fechas específicas, procedimientos y culpables individuales.
+> **Origen aprobado por el creador:** dobles artificiales; Kael es uno de ellos; autenticación de varios factores; un sujeto empleado en la ejecución murió en un ensayo de estabilización. **Diseño resuelto editorialmente (revisable en PR):** los mecanismos detallados de esta revisión. No se convierte en tecnología ilimitada ni en una capacidad nueva del Pulso.
 
-## Propósito histórico (propuesto)
+## 1. El problema original
 
-El Concilio perdió competencias necesarias para operar partes de la Red de Convergencia. Algunas instalaciones conservan autorizaciones vinculadas a operadores antiguos. Una comisión restringida de Investigación, Infraestructura y Custodia inicia Espejo para recuperar **capacidad de acceso y mantenimiento**, no para fabricar soldados ni resucitar muertos.
+Algunos reguladores antiguos de la Red de Convergencia fueron diseñados para impedir que un operador sin preparación modificara parámetros capaces de propagar una ruptura. Las credenciales de sus controladores combinan identificación viva y capacidad de respuesta técnica; el Concilio conserva procedimientos de mantenimiento parcial, pero perdió la secuencia completa de puesta en servicio de ciertos nodos.
 
-## Qué es un sujeto Espejo
+**Consecuencia:** es posible mantener una instalación en contención sin poder recalibrarla completamente. Tener acceso no significa poseer la solución.
 
-Un individuo con biología derivada de una matriz conservada y posible Impronta parcial transferida. Su conciencia es propia e irrepetible; no es continuidad mental del operador histórico. Crece durante años, desarrolla experiencias auténticas y posee derechos morales equivalentes a cualquier otra persona.
+## 2. Archivo de Continuidad Biológica
 
-El sistema **no** permite creación instantánea de un adulto, transferencia completa de conciencia, memoria infalible ni conocimiento técnico automático.
+La red antigua mantenía **depósitos médicos y forenses de continuidad** para atender accidentes, verificar identidades de operadores y estudiar exposiciones a Pulso. No eran bancos de clonación. Incluían pequeñas muestras viables, registros biométricos y algunas improntas registradas voluntariamente en contexto profesional.
 
-## Autorización multifactorial (APROBADO como principio)
+Las muestras se preservaron en contenedores sellados mediante **refrigeración convencional y Vinculación estabilizadora**. No permanecieron intactas sin energía: equipos y personal de continuidad mantuvieron una cadena de conservación durante generaciones, primero como servicio de emergencia y después bajo la Custodia del Concilio. Registros parciales de mantenimiento sobreviven; su clasificación permitió preservar muestras aunque se perdiera la finalidad original. Solo una fracción mantuvo viabilidad después de siglos; la pérdida de muchas muestras explica la escasez de matrices y el carácter excepcional del proyecto.
 
-Los sistemas antiguos pueden requerir de forma conjunta:
-1. **Patrón biológico vivo** reconocido por sensores específicos (una muestra inerte no basta).
-2. **Respuesta mnémica/impronta** ante desafíos variables (no equivale a leer toda una mente).
-3. **Secuencia técnica** realizada dentro de tolerancias operativas, con instrumentos y acceso material.
+La matriz propuesta de **Aren Veyran** procede de uno de esos depósitos, no de restos resucitados. Su procedencia y nombre exacto siguen **provisionales**. El Concilio en 571 EC comprueba viabilidad y correspondencia de identidad mediante documentos independientes antes del ensayo.
 
-Superar un factor no concede control total ni implica saber reparar la red. El desafío existe para dificultar suplantación por muestras o registros. **PENDIENTE:** tecnología precisa, tolerancias, conservación de muestras históricas y por qué no puede reconstruirse un operador puramente mecánico sin un sujeto humano.
+## 3. Autenticación multifactorial
 
-## Hipótesis cronológica, NO aprobada
+**Principio aprobado:** biología viva + Impronta + competencia técnica. Su implementación editorial se fija así:
 
-| Año EC | Hito propuesto |
+| Factor | Verificación | Por qué una muestra no basta | Límite |
+|---|---|---|---|
+| Biológico | Respuesta fisiológica dinámica a estímulos de Resonancia de baja potencia | Una muestra inerte no reproduce la interacción de un organismo vivo íntegro | Solo habilita la siguiente fase |
+| Mnémico | Respuesta a desafíos variables basada en patrones de habilidades y asociaciones conservados en registros de Impronta | Una grabación fija no responde coherentemente a desafíos nuevos | La impronta es incompleta y falible |
+| Técnico | Maniobra real sobre un simulador de control del nodo, dentro de límites seguros y en secuencia variable | No basta memorizar una contraseña | No demuestra conocimiento de reparación integral |
+
+**No es seguridad mágica perfecta.** En teoría podría diseñarse un simulador sofisticado que suplante factores, pero los especialistas actuales no poseen especificaciones, acceso a todos los desafíos ni capacidad para validarlo sin arriesgar la red. **La razón de fabricar sujetos es una decisión institucional costosa, discutible e inmoral, no una imposibilidad universal de ingeniería.** Sectores del Concilio eligieron experimentar con personas porque creyeron que era más rápido que reconstruir el sistema.
+
+El sistema antiguo **no usa «alma», conciencia transferida ni memoria absoluta**. Las respuestas son rasgos de un organismo entrenado más patrones de aprendizaje, no continuidad de la persona original.
+
+## 4. Qué produce Espejo
+
+A partir de una matriz viable, el proyecto crea un individuo de crecimiento aproximadamente natural. Las técnicas de Vinculación sostienen tratamientos y compatibilidad fisiológica, pero **no crean instantáneamente cuerpos adultos**. Impronta puede aportar destrezas parciales o condicionamientos, no implantar una vida completa sin contradicciones ni copiar la conciencia.
+
+Los sujetos tienen autonomía y derechos. Pueden rechazar entrenamiento; el programa intentó evitarlo mediante tutela controlada y ocultamiento de información, lo que constituye abuso. Ser creado para acceder a una máquina no genera obligación moral de operarla.
+
+## 5. Kael y otros sujetos
+
+**Aprobado:** Kael es un individuo artificial. Su infancia, crianza y formación fueron experiencias reales. La explicación preferida es que escogió una carrera documental y que funcionarios aprovecharon posteriormente su destino, no que cada decisión fuera programada.
+
+**Cronología editorial provisional:**
+
+| EC | Hito |
 |---|---|
-| 571 | Inicio de Espejo y desarrollo de un sujeto temprano |
-| 581 | Nace el Kael protagonista |
-| 592 | Fallece un sujeto distinto, origen de registro ambiguo |
-| 603 | Kael ingresa al Archivo Central por trayectoria propia, luego es observado |
-| 607–608 | Aumenta presión por fallas de estabilización |
-| 609 | Sujeto temprano (~38 años) muere en ensayo y su cuerpo es utilizado durante la ejecución |
+| 571 | Comienza Espejo; se inicia un sujeto temprano |
+| 581 | Nace Kael |
+| 592 | Muere un sujeto diferente; queda registro operativo ambiguo |
+| 603 | Kael entra al Archivo por una trayectoria profesional propia |
+| 609 | Un sujeto temprano, de unos 38 años, muere en ensayo y su cuerpo se utiliza en el cadalso |
 
-**No** es posible que un registro de 592 sea a la vez 17 años anterior al nacimiento del Kael de 581. Se reemplaza la formulación temprana por **17 años antes del inicio de la serie**. Este ajuste debe ratificarse con las fechas.
+El registro de 592 fue **17 años antes del inicio en 609**, no antes del nacimiento de Kael en 581. No sostener ambas formulaciones.
 
-## Muerte del sujeto temprano
+**Aren Veyran**, identificadores E-01/E-02 y número total de sujetos son detalles provisionales. Los sujetos no comparten conciencia ni necesariamente nombre civil.
 
-**APROBADO:** muere durante un ensayo de estabilización de la red; **no** muere instantáneamente durante la ejecución ni proviene de otra época. El ensayo deja registro técnico y médico. Un colaborador con acceso legítimo a conservación o traslado facilita el cuerpo a la célula reformista. La cadena de custodia y el consentimiento del sujeto se investigarán; **no presumir** que los reformistas quedan absueltos por su fin.
+## 6. Muerte del sujeto y responsabilidades
 
-La conservación y traslado requieren energía, tiempo, personal y documentos. La aparición del cuerpo puede ser investigada forensemente: diferencias entre hora de muerte y lesión escenificada son pistas legítimas.
+**Causa aprobada:** fallecimiento durante un ensayo de estabilización. Una maniobra exigió capacidad que el sujeto o la instalación no podían sostener; el registro de ensayo, las condiciones de seguridad y las lesiones permiten investigar responsabilidades. No se presupone asesinato deliberado, pero tampoco ausencia de negligencia.
 
-## Identidades
+Un colaborador autorizado para conservar o trasladar el cuerpo lo desvía hacia la célula reformista. **La persona concreta, consentimiento, documentos falsificados y delitos** siguen pendientes de asignación. La preservación del cadáver es temporal, consume recursos y deja registros de temperatura, traslados y tratamiento.
 
-**Aren Veyran** como operador antiguo y la identidad civil **Kael Veyran** son propuestas. Los sujetos restantes usan identificadores internos provisionales (E-01 etc.); no afirmar que todas las personas se llaman Kael ni que comparten alma. El primer sujeto de 571 podría ser el cadáver de 609; el sujeto muerto en 592 es distinto. Cantidad exacta de sujetos pendiente.
+## 7. Pruebas de prohibición
 
-## Conflicto ético
-
-Espejo plantea autonomía, consentimiento, derecho a conocer el origen, explotación de identidad y responsabilidad de cuidadores. Kael no está obligado a convertirse en operador de la red; su origen no determina su elección moral.
+- Ni Kael ni otro sujeto reciben conocimientos técnicos completos por nacimiento.
+- Ningún factor abre por sí solo la Red.
+- Los credenciales no permiten un portal arbitrario ni operan sin energía.
+- No se crea una conciencia o un adulto instantáneamente.
+- La impronta no recupera recuerdos perdidos sin soporte externo.
+- Si el Concilio dispone de alternativas técnicas viables, deberá justificarse por qué sus dirigentes las descartaron; Espejo no puede ser la única opción por decreto del autor.

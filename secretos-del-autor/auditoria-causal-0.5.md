@@ -1,37 +1,51 @@
-# Auditoría causal — Biblia 0.5
+# Auditoría de coherencia — correcciones críticas 0.6
 
-**Propósito:** identificar incompatibilidades y dependencias antes de escribir el piloto. Las decisiones marcadas APROBADO derivan de elecciones explícitas, no de la mera plausibilidad del borrador.
+**Esta revisión responde a los cinco problemas críticos detectados antes de la Biblia 1.0.** Los mecanismos son soluciones editoriales elegidas para respetar las decisiones del creador. Los detalles que siguen pendientes se distinguen de reglas operativas resueltas.
 
-| ID | Prueba | Resultado | Estado |
+| ID | Problema | Corrección elegida | Estado |
 |---|---|---|---|
-| A-01 | Fractura por negligencia no exige saboteador | Los dirigentes ignoran riesgo documentado | APROBADO |
-| A-02 | La Fractura respeta energía finita | Sobrecargas y transferencias, no generación ex nihilo | COMPATIBLE; métricas pendientes |
-| A-03 | Gran Silencio no borra memoria mundial de golpe | Reescritura institucional multigeneracional | PROPUESTO |
-| A-04 | El Concilio no conoce toda la verdad | Compartimentación e intereses divergentes | APROBADO como restricción |
-| A-05 | Kael es artificial, no «alma transferida» | Conciencia autónoma y crecimiento en años | APROBADO origen; mecanismo propuesto |
-| A-06 | La autorización antigua requiere tres factores | Biología viva + impronta + secuencia técnica | APROBADO principio; detalles pendientes |
-| A-07 | Edad del cadáver | Sujeto 571→609 = 38; Kael 581→609 = 28 | COMPATIBLE si fechas propuestas |
-| A-08 | Documento de muerte de 592 | Otro sujeto; 17 años antes de 609, no del nacimiento | CORRECCIÓN PROPUESTA |
-| A-09 | Causa de muerte del cadáver | Ensayo de estabilización | APROBADO; responsables pendientes |
-| A-10 | Ejecución con base legal excepcional | Sentencia civil; regulación arcana no dicta pena sola | APROBADO principio; legislación pendiente |
-| A-11 | Célula reformista organiza operación | No representa necesariamente a todos los Reformistas | APROBADO |
-| A-12 | Cadalso no permite teletransporte | Sustitución mecánica y ruta a Anclaje natural | PROPUESTO, precisa prueba espacial |
-| A-13 | La célula no predice elecciones de Kael | Expediente y vías de contingencia | PROPUESTO |
-| A-14 | La crisis se propaga por conexiones | No destruye todos los Dominios instantáneamente | COMPATIBLE |
-| A-15 | POV de Maelor no puede ocultar lo que sabe | Focalización sobre problemas genuinos sin engaño del narrador | REGLA EDITORIAL |
-| A-16 | Evidencia de la red es verificable | Inventarios, permisos, firmas energéticas, testimonios | PROPUESTO |
+| C-01 | ¿Por qué un individuo Espejo y no un dispositivo de spoofing? | Autenticación viva, mnémica y técnica; el camino biológico fue **una elección institucional**, no una imposibilidad universal del hardware | Diseño resuelto; validación editorial |
+| C-02 | ¿Cómo sobrevivieron muestras siglos? | Depósitos médicos pre-Fractura mantenidos con refrigeración y Vinculación, energía y personal; solo pocas muestras viables | Diseño resuelto; costos y responsables pendientes |
+| C-03 | Intercambio imposible a plena vista | Cámara de ejecución opaca y sustitución mecánica interior; se elimina la transformación visual instantánea | Diseño resuelto; plano/cronometraje pendientes |
+| C-04 | ¿Qué busca la célula reformista? | Evidencia admisible de experimentación humana clandestina; otros intereses individuales por definir | Motivación primaria resuelta; líderes pendientes |
+| C-05 | ¿Qué partes de Kael son auténticas? | Cuerpo de origen artificial, conciencia e infancia reales, elecciones profesionales propias; seguimiento posterior institucional | Diseño resuelto; cuidadores y registros pendientes |
 
-## Preguntas bloqueantes para guiones
-1. ¿Cómo se preservó la matriz biológica histórica durante siglos con costes y registros?
-2. ¿Cuál es la capacidad y el daño real del mecanismo de identificación? ¿Por qué no se puede simular todo sin sujetos?
-3. ¿Cuál es la ley penal, el tribunal y el procedimiento exacto de la ejecución?
-4. ¿Cómo funciona mecánicamente el intercambio sin ser advertido por ejecutor y custodios? Dibujar planta, horarios y posiciones.
-5. ¿Quién entregó el cuerpo y qué crimen comete?
-6. ¿Qué pruebas objetivas apuntan a culpabilidad histórica sin volverse exposición omnisciente?
-7. ¿Qué sabe cada facción y quién patrocina el encubrimiento actual?
-8. ¿Cuáles son los costos y consecuencias de conservar cada Anclaje?
-9. ¿Qué testigos sobreviven y cómo altera la operación su conocimiento?
-10. ¿Qué hace Kael si la evidencia incrimina a alguien a quien intenta proteger?
+## Coherencia cosmológica
 
-## Gate para Biblia 1.0
-La Biblia 0.5 puede documentar hipótesis consistentes. **No** autoriza aún un guion piloto definitivo. Para canon 1.0 deben cerrarse las dependencias críticas, los mapas de escenas y la secuencia de descubrimientos con evidencias.
+- **Conservación:** la preservación, los ensayos, el tránsito y la autentificación consumen recursos.
+- **Causalidad:** no se viaja al pasado ni se reescribe un resultado histórico.
+- **Tránsito:** Umbral natural con Anclaje fuera de la plaza; no hay portal arbitrario.
+- **Impronta:** memoria y habilidades parciales, no trasplante de conciencia.
+- **Identidad:** dos sujetos equivalentes biológicamente pueden desarrollar biografías y valores distintos.
+- **Jurisdicción:** la pena capital requiere tribunal civil; el Concilio solo interviene dentro de sus competencias.
+- **Conocimiento fragmentado:** Maelor no conoce la célula; los Reformistas no conocen toda la historia de la Fractura.
+
+## Auditoría por evidencias
+1. El cadáver tiene fecha de muerte anterior a la ceremonia: examen forense.
+2. Existe acceso oculto al subsuelo: planos y marcas de operación.
+3. Hubo logística de cuerpo y condenado: transportes, permisos, personal.
+4. Los registros de Espejo tienen correspondencias biológicas, no pruebas de una misma alma.
+5. La fuga por Anclaje tiene huella energética fuera del cadalso.
+6. La célula pretende que el expediente permita contrastar pruebas; no puede controlar quién creerá la denuncia.
+
+## Problemas que siguen abiertos
+
+**Bloqueantes antes del piloto, no de la cosmología:**
+- Plano de cámara, custodios, médico y tiempos.
+- Sentencia concreta y procedimiento penal.
+- Identidades y motivaciones de cómplices.
+- Razón jurídica de exhibir el cadáver.
+- Ruta a un Anclaje y costos del tránsito.
+
+**Bloqueantes antes de aprobar toda la Biblia 1.0:**
+- Costos y trazabilidad de los depósitos biológicos.
+- Prueba histórica de correspondencia entre Aren y sus muestras.
+- Límites cuantitativos del Pulso y de la red.
+- Matriz de conocimiento actualizada para nuevos hechos.
+- Nombres y fechas finales del Proyecto Espejo.
+
+## Cambios respecto a borradores anteriores
+
+La apertura donde una espada cae a la vista de todos y transforma instantáneamente al condenado **no es compatible** con el mecanismo resuelto. Debe reemplazarse en futuros guiones, sin reinterpretarla como un portal. La hipótesis de que el Proyecto Espejo es la única solución técnica concebible también se descarta: es una elección de gobernantes con consecuencias éticas.
+
+**Resultado:** no se detecta contradicción formal obligatoria entre las leyes del Pulso, el origen de Kael y el mecanismo corregido de la ejecución. Esto **no equivale a aprobar la Biblia 1.0**.

@@ -32,6 +32,11 @@ Este registro distingue **decisiones expresas del creador** de **propuestas surg
 | P-019 | Gran Silencio multigeneracional y cadena económica encubierta | PROPUESTO | Biblia 0.5 |
 | P-020 | Intercambio físico en plataforma y posterior tránsito por Anclaje | PROPUESTO | Biblia 0.5 |
 | P-021 | Taren Oss, Aren Veyran y colaboradores de la célula | PROPUESTO | Biblia 0.5 |
+| R-001 | Autenticación viva + mnémica + técnica; por elección institucional y sin invulnerabilidad absoluta | RESUELTO POR DISEÑO / REVISABLE | Auditoría 0.6 |
+| R-002 | Depósitos históricos mantenidos de continuidad biológica | RESUELTO POR DISEÑO / REVISABLE | Auditoría 0.6 |
+| R-003 | Cámara de ejecución opaca y sustitución mecánica; se retira la transformación visible instantánea | RESUELTO POR DISEÑO / REVISABLE | Auditoría 0.6 |
+| R-004 | Objetivo primario reformista: evidencia judicial verificable de experimentación humana | RESUELTO POR DISEÑO / REVISABLE | Auditoría 0.6 |
+| R-005 | Kael tuvo infancia y elecciones propias, aunque su cuerpo tenga origen artificial | RESUELTO POR DISEÑO / REVISABLE | Auditoría 0.6 |
 | P-001 | Pulso y Trama como nociones físicas distintas; no viajes temporales | PROPUESTO | Biblia 0.2 |
 | P-002 | Cinco disciplinas: Cinética, Resonancia, Impronta, Vinculación y Tránsito | PROPUESTO | Biblia 0.1–0.2 |
 | P-003 | Tránsito con costo mnémico y anclajes | PROPUESTO | Biblia 0.1–0.2 |

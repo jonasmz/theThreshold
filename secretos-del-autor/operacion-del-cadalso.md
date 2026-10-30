@@ -1,41 +1,73 @@
-# Operación del cadalso — hipótesis logística 0.5
+# Operación del cadalso — reconstrucción escénica verificable
 
-> **SPOILERS PÚBLICOS.** Célula reformista responsable: **APROBADO**. Detalles de ejecución, nombres y participantes: **PROPUESTOS**.
+> **SPOILERS EN REPOSITORIO PÚBLICO.**
+>
+> **Aprobado:** célula reformista responsable; ejecución excepcional bajo sentencia civil; sujeto del cadáver muerto durante ensayo. **Resuelto editorialmente (revisable):** ejecución en dispositivo cerrado con sustitución mecánica, sin desaparición a plena vista. La versión temprana de una espada visible que transforma instantáneamente al condenado **queda incompatible** con este mecanismo y no debe trasladarse al guion piloto.
 
-## Objetivo y marco
-El grupo necesita que evidencia sobre Espejo y operaciones ilegales ingrese a cadena de custodia judicial y al Archivo Central. No puede ordenar a Kael que investigue ni garantizar qué creerá. Existe una ejecución penal extraordinaria **judicialmente autorizada por autoridad civil**, no decretada unilateralmente por el Concilio (**principio APROBADO**).
+## 1. Condiciones jurídicas
 
-**Propuesta jurídica:** Protocolo de Excepción Arcana; exige sentencia firme, revisión especial y registro de testigos. Su articulado, vigencia, legitimidad y oposición civil están por desarrollar. La célula aprovecha fecha y lugar establecidos; no controla todo el tribunal.
+En Vael-Tir la pena capital es excepcional y políticamente discutida. Un tribunal civil, no el Concilio unilateralmente, autoriza la ejecución de una condena firme por delito arcano grave bajo procedimiento de excepción. La célula no inventa toda la sentencia; aprovecha fecha y ubicación ya determinadas. Nombre del condenado, texto legal, apelaciones, motivos de publicidad y órgano de supervisión siguen provisionales.
 
-## Condenado
-**Taren Oss** es un nombre propuesto para un técnico sentenciado por un incidente de seguridad arcana. Culpa y motivación real **NO están aprobadas**. Debe existir expediente judicial, defensa y motivación por la que el acto es público y criticado socialmente.
+## 2. Diseño físico
 
-## Preparación de la célula
-1. Obtiene información restringida acerca de la ejecución y rutas de mantenimiento.
-2. Consigue colaboración material para acceso al subsuelo; acceso no equivale a control de la policía.
-3. Un colaborador en instalación de investigación sustrae o desvía el cuerpo de sujeto Espejo muerto en un ensayo (**causa de muerte APROBADA**; identidad de cómplices pendiente).
-4. Lo preserva y transporta; tiempo de muerte, cadena de conservación y falsa documentación dejan rastros.
-5. Prepara un mecanismo de intercambio en la plataforma sobre galerías técnicas, prueba su viabilidad y establece señal con equipos de interferencia **limitados**.
-6. Acuerda una ruta de retirada hacia un **Anclaje ya existente**, con energía y operadores. No hay un Umbral espontáneo sobre el cadalso.
-7. Inserta o prepara discrepancias documentales aptas para un peritaje posterior; no todas las evidencias pueden ser falsas sin arruinar el misterio.
+La ejecución ocurre en una **cámara de ejecución cerrada**, instalada sobre galerías históricas de mantenimiento. La ceremonia es pública: la multitud ve la entrada del condenado, oye el mecanismo y presencia la presentación posterior del resultado, **pero no observa directamente el instante de muerte dentro de la cámara**. La apertura parcial y las barreras opacas son características habituales del aparato, no una pantalla improvisada a último momento.
 
-## Durante la ejecución
-Una interferencia visual/sonora breve y acotada interrumpe la visión del movimiento del condenado. Plataforma y acceso mecánico permiten retirar al condenado e introducir el cadáver. El golpe visible y la lesión del cuerpo **no deben fingirse perfectamente**: diferencias forenses son pistas. Algunos testigos pueden percibir anomalías; no se presupone que toda la multitud quedó cegada.
+La Cámara tiene:
+- puerta frontal vigilada para ingreso;
+- zona interior fuera de vista del público y de la mayoría de agentes externos;
+- un acceso de servicio oculto en el piso, utilizado para mantenimiento;
+- mecanismo de ejecución manipulable por un colaborador;
+- salida inferior a galerías, sin conexión directa a un mundo distinto.
 
-La salida del condenado por galerías hasta el Anclaje ocurre **después de la sustitución física**; activar la ruta tiene coste energético y posible desfase mnémico.
+Las dimensiones, posición de custodios y tiempos exactos quedan para **planta y ensayo de escena**. No se afirma aún una duración de segundos.
 
-## Cadena de evidencia
-| Elemento | Pista | Descubridor probable | Restricción |
-|---|---|---|---|
-| Cadáver | Hora de muerte previa, lesiones discordantes | Médico/Daren | Requiere autopsia válida |
-| Plataforma | Modificaciones y permisos | Daren | Cadena judicial |
-| Interferencia | Firma energética no ordinaria | Sera | No implica conocer Umbrales |
-| Permisos | Contratista y autorizaciones irregulares | Inara/Daren | No prueba culpabilidad del Concilio |
-| Registros | Identificadores Espejo y documentos inconsistentes | Kael | Acceso por peritaje |
-| Ruta | Uso de Anclaje y materiales | Lyra / investigación posterior | No proporciona portal libre |
+## 3. Acceso y cómplices mínimos
 
-## Contingencias
-Si Kael no recibe el expediente, periodistas e inspector mantienen líneas autónomas. Si el cuerpo se descubre antes, se activa una estrategia de denuncia distinta; no se exige infalibilidad. La célula desconoce el desenlace exacto y asume riesgos.
+La operación necesita **al menos tres funciones comprometidas**, que pueden corresponder a más personas:
+1. Encargado autorizado del dispositivo, capaz de modificar su operación y acceso de servicio.
+2. Colaborador de logística médica que desvía, conserva y traslada el cadáver.
+3. Operador de retirada y ruta clandestina que gestiona galerías, escolta y Anclaje existente.
 
-## Auditoría pendiente
-Ubicación del cadalso y arquitectura real; autoridad y supervisión de la ejecución; mecanismo físico de segundos y visibilidad; traslado del cuerpo; colaboradores; permisos; quién emite solicitud al Archivo; por qué nadie descubre cambios preparatorios. La operación se aprobará como escaleta **solo después de poder representarla espacialmente y minuto a minuto**.
+También necesita superar controles de cadena de custodia. El verificador médico o su documentación puede estar comprometido; **esto exige un cómplice adicional o una falsificación detectable**, no se puede dar por resuelto sin una escena.
+
+No se exige que el tribunal, todo el Cuerpo de Custodia o el Concilio conozcan el plan.
+
+## 4. Secuencia causal
+
+1. El sujeto Espejo muere en ensayo de estabilización, antes de la ceremonia.
+2. Se conserva su cuerpo y se traslada mediante una cadena de depósitos/vehículos que dejan registros.
+3. La célula prepara la cámara, el acceso inferior y un recorrido de salida independiente.
+4. El condenado ingresa vivo bajo custodia normal; los últimos agentes no comprometidos lo entregan a los responsables del procedimiento.
+5. La fase interior de la ejecución queda oculta a los asistentes. El colaborador intercepta la muerte, evacúa al condenado por el acceso inferior y coloca el cadáver previamente preparado.
+6. Se acciona el mecanismo para producir señal sonora y efectos verificables, pero el resultado forense no será perfecto.
+7. El cuerpo se presenta como resultado de la ejecución. Su aspecto más envejecido y otros rastros provocan la investigación.
+8. El condenado es trasladado por galerías hacia un Anclaje **preexistente**. La fuga entre Dominios requiere energía, operadores y puede producir desfase mnémico.
+9. Se redactan actas; sus inconsistencias y la cadena del cuerpo permiten a Daren y Kael reconstruir hechos.
+
+**La interferencia de Resonancia es opcional y secundaria**, útil como distracción de una guardia concreta, no como cegamiento mágico de una plaza entera.
+
+## 5. Pruebas que deben sobrevivir
+
+| Fuente | Rastro | Investigación |
+|---|---|---|
+| Médicos | Hora previa de muerte y lesión simulada o discordante | Autopsia independiente |
+| Cámara | Acceso de servicio, marcas de modificación, piezas cambiadas | Inspección judicial |
+| Guardias | Diferencias entre registro de entrada y supervisión interior | Testimonios cruzados |
+| Logística | Movimiento de un cuerpo fuera de ruta autorizada | Contratos, inventarios |
+| Energía | Picos de operación del Anclaje, no de un portal en la plaza | Ingeniería/Resonancia |
+| Archivo | Identificadores Espejo y discordancias de identidad | Kael |
+| Justicia | Firmas de entrega y certificación incompatibles | Daren |
+
+## 6. Motivación reformista
+
+La célula busca que evidencias de experimentación con personas ingresen a un **expediente legal y documental verificable**. Kael es un analista deseable, no un sujeto cuyas elecciones puedan predecirse. Si él no recibe el encargo, siguen disponibles canales judiciales y periodísticos. La célula se responsabiliza por el uso del cadáver y la exposición de terceros a peligro, aunque persiga una verdad legítima.
+
+## 7. Corrección obligatoria del piloto
+
+La antigua escena en la que el público ve descender una espada y el condenado se desvanece debe **reescribirse**: la multitud oye la ejecución tras un cierre opaco y ve un cuerpo distinto al abrirse la cámara. La percepción de imposibilidad surge del cambio de identidad y la edad, no de un portal visible.
+
+La razón exacta por la que se muestra el cuerpo públicamente debe estar prevista en el protocolo local, no elegida por la célula sin autoridad.
+
+## 8. Pendientes que no bloquean el modelo, pero sí el guion
+
+Plano y cronometraje; acceso real a la cámara; guardia y médico colaboradores o engañados; nombre del condenado; detalles de sentencia; identidad de logística del cadáver; ruta operativa hacia el Anclaje; cómo logra la célula influir en la remisión documental. **No escribir la escena definitiva hasta fijarlos.**
