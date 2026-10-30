@@ -58,6 +58,10 @@ Este registro distingue **decisiones expresas del creador** de **propuestas surg
 | X-004 | Geografía cartográfica, distancias, logística | PENDIENTE | Mundo |
 | X-005 | Definición operacional del presupuesto energético | PENDIENTE | Mundo |
 
+## Consolidación de consistencia 1.0
+
+La consolidación recopila sin sustituir las decisiones D-001 a D-018 y las correcciones R-001 a R-005. **No aprueba por implicación** nombres, cifras, fechas, topónimos o logística aún provisionales. Las reglas operativas de energía son una normalización editorial; los guiones deben declarar fuente, soporte, costo, jurisdicción y rastro. Véanse `docs/biblia-1.0.md` y `biblia/09-reglas-operativas.md`.
+
 ## Advertencia sobre cambios
 La premisa inicial hablaba de un registro de muerte de Kael anterior a su nacimiento. La revisión 0.2 propuso una muerte de un sujeto anterior en **592 EC**, 17 años antes del inicio (609 EC), no antes del nacimiento de Kael. **No usar ambas versiones simultáneamente.** La corrección cronológica se ha incorporado como propuesta de fechas en la Biblia 0.5; aún debe ratificarse el calendario.
 
