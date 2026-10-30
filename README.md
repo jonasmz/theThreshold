@@ -12,7 +12,7 @@ En Eryndor, una civilización arcano-industrial desconoce la existencia de otros
 
 ## Estado editorial
 
-Este repositorio documenta el desarrollo de la obra. La cosmología 0.2, el diseño social 0.3 y los personajes 0.4 están documentados como propuestas revisables; no hay guiones finales.
+Este repositorio documenta el desarrollo de la obra. La cosmología 0.2, el diseño social 0.3, los personajes 0.4 y la conspiración 0.5 están documentados con estados de decisión separados; no hay guiones finales.
 
 - **Aprobado:** decisiones explícitas del creador y reglas derivadas sin alternativas pendientes.
 - **Provisional:** propuestas de desarrollo sujetas a validación.
@@ -34,6 +34,9 @@ Este repositorio documenta el desarrollo de la obra. La cosmología 0.2, el dise
 - [Matriz de conocimiento (spoilers)](secretos-del-autor/matriz-de-conocimiento-0.4.md)
 - [Conspiración central](secretos-del-autor/conspiracion-central.md)
 - [Proyecto Espejo](secretos-del-autor/proyecto-espejo.md)
+- [Cronología secreta 0.5 (spoilers)](secretos-del-autor/cronologia-secreta-0.5.md)
+- [Operación del cadalso (spoilers)](secretos-del-autor/operacion-del-cadalso.md)
+- [Auditoría causal 0.5 (spoilers)](secretos-del-autor/auditoria-causal-0.5.md)
 - [Temporada 1](temporadas/temporada-01/arco-argumental.md)
 
 ## Método de trabajo
