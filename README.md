@@ -18,6 +18,12 @@ Este repositorio documenta el desarrollo de la obra. La cosmología 0.2, el dise
 - **Provisional:** propuestas de desarrollo sujetas a validación.
 - **Secreto de autor:** información destinada al equipo creativo, no a la audiencia; su inclusión en un repositorio **público** no implica confidencialidad.
 
+## Biblia consolidada
+
+- [Índice de la Biblia 1.0 (candidata en revisión)](docs/biblia-1.0.md)
+- [Reglas operativas de magia y energía](biblia/09-reglas-operativas.md)
+- [Concordancia causal (spoilers)](secretos-del-autor/consolidacion-causal-1.0.md)
+
 ## Documentos
 
 - [Visión del proyecto](docs/vision-del-proyecto.md)
