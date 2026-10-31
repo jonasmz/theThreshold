@@ -40,3 +40,14 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - Revelación prevista y consecuencias:
 - Estado: abierta / verificada / pagada / descartada
 ```
+
+### P-08 — Origen declarado de Asterita (episodio 11)
+- **Siembra:** contratos y sociedades del episodio 05; registros de transporte y suministros cotejados en el 11.
+- **Soporte:** guías públicas de transporte, boletín del gremio, telegramas registrados, acta de control municipal y síntesis de laboratorio de muestra testigo con patrones de referencia.
+- **Procedencia/custodia:** Inara consulta documentos accesibles; la muestra permanece con el laboratorio municipal, sin transferencia a la periodista. Resultado firmado y repetido.
+- **Interpretación de Inara:** el volumen atribuido no queda explicado por la producción y existencias declaradas, y una partida concreta muestra huella incompatible con los certificados que la acompañan.
+- **Verdad de autores:** la cadena comercial clandestina es parte del plan de temporada; los datos del episodio no demuestran procedencia de otro Dominio ni identidad de operadores.
+- **Conocimiento:** Inara conoce comparación limitada; Neris tiene facultades municipales; Ada conoce el alcance técnico del ensayo.
+- **Alternativas legítimas:** existencias privadas, errores de equivalencia, mezcla, reetiquetado o falsificación comercial; la caracterización no identifica por sí sola un yacimiento.
+- **Pago previsto:** episodios 12 y 14 (verificación industrial y cruce de cadenas), 19 y 29 (decisiones de custodia/publicación).
+- **Estado:** pista abierta; resultado técnico parcial verificado en borrador 11.
