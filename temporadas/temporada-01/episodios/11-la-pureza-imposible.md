@@ -423,6 +423,6 @@ Ahora sabía algo más limitado y más firme.
 
 Alguien había certificado como procedente de unas partidas concretas un material que el laboratorio podía distinguir de ellas.
 
-Y el lote ya estaba instalado en la ciudad.
+Y la ciudad llevaba días tratándolo como material de origen verificado.
 
 ***Fin del episodio 11.***
