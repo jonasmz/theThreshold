@@ -31,7 +31,7 @@ La autorización extraordinaria de Custodia y Energía permitía reducir la carg
 
 Sera tenía el permiso firmado delante.
 
-También tenía un parte de lesión laboral fechado hacía cuatro días.
+También tenía un parte reciente de lesión laboral.
 
 La quemadura de su antebrazo ya no necesitaba vendaje completo, pero cada vez que doblaba el codo recordaba por qué había solicitado el cierre parcial.
 
@@ -479,7 +479,7 @@ Iven la alcanzó cerca del tablero.
 
 Sera había pedido la relación de destinos del lote antes de que Ordan rechazara el informe. La gestión se había procesado como una consulta de seguridad ordinaria; nadie necesitaba una orden extraordinaria para saber dónde se habían instalado repuestos de su propia empresa.
 
-La hoja contenía cuatro movimientos.
+La hoja contenía cuatro movimientos adicionales al de su estación.
 
 Dos placas permanecían en depósitos. Una estaba retenida por otra estación para ensayo. La última figuraba como instalada durante un mantenimiento reciente.
 
