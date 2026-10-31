@@ -39,3 +39,13 @@ Cada nueva entrada debe incluir:
 - Estado y fuente:
 - Riesgos y acción:
 ```
+
+### C-11 — Volumen y caracterización de suministros
+- **Origen:** episodio 11, escenas de descarga, cotejo público y laboratorio.
+- **Hecho observable/documentado:** 57 cajones normalizados con atribución comercial a extracción de Kharven, cotejados sin duplicar trasbordos; referencias públicas de 42 unidades nuevas, 8 de saldo inicial y 2 recuperadas declaradas. Una muestra municipal testigo, examinada por laboratorio con patrones y repetición, no concuerda con las partidas concretas citadas en su certificado.
+- **Hipótesis:** sobredeclaración de procedencia o trazabilidad defectuosa; siguen siendo posibles inventario privado, mezcla, intermediación y errores de clasificación.
+- **Hecho de autores:** la economía clandestina está prevista en la sinopsis; no se convierte en conocimiento de Inara ni en atribución geográfica acreditada en el episodio 11.
+- **Quién sabe qué:** Inara conoce cifras públicas y síntesis no reservada del ensayo; Neris accede al control contractual municipal; Ada dispone de resultados técnicos.
+- **Consecuencia prevista:** investigación de seguridad industrial del episodio 12; cruce de contratistas del 14; decisiones posteriores de publicación.
+- **Estado/fuente:** confirmado en borrador 11, sujeto a revisión de equivalencias de unidades. `temporadas/temporada-01/episodios/11-la-pureza-imposible.md`.
+- **Riesgos:** no convertir un resultado negativo limitado en prueba de importación multiversal, ni pureza aceptable en garantía de seguridad de equipo.
