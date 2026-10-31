@@ -49,3 +49,13 @@ Cada nueva entrada debe incluir:
 - **Consecuencia prevista:** investigación de seguridad industrial del episodio 12; cruce de contratistas del 14; decisiones posteriores de publicación.
 - **Estado/fuente:** confirmado en borrador 11, sujeto a revisión de equivalencias de unidades. `temporadas/temporada-01/episodios/11-la-pureza-imposible.md`.
 - **Riesgos:** no convertir un resultado negativo limitado en prueba de importación multiversal, ni pureza aceptable en garantía de seguridad de equipo.
+
+### C-12 — Informe técnico y aceptación de repuestos
+- **Origen:** episodio 12, operación de estación, inspección física de piezas, ensayo y notificación.
+- **Hechos observables:** tras una reducción controlada de carga, la pieza retirada presenta daño que se mide y precinta; la pieza de reemplazo, identificada por su embalaje, número y certificado, arroja una discontinuidad reproducible en un ensayo de taller con patrones. El documento del proveedor declara núcleo continuo. Se mantiene la instalación en régimen restringido y se emite informe técnico con registro y acuses.
+- **Hipótesis del personaje:** defecto de fabricación, daño de transporte o certificado incorrectamente vinculado; no identifica falsificador ni procedencia mineral del material.
+- **Hecho de autores:** conflicto del sistema de certificación industrial previsto en la sinopsis del acto II; la imputación precisa se deja para una investigación y prueba posterior.
+- **Quién lo sabe:** Sera e integrantes del procedimiento conocen sus lecturas y soportes; Operaciones conoce la retención del repuesto; autoridad técnica/laboral recibe notificación. Inara no recibe automáticamente el informe.
+- **Consecuencia prevista:** sostener conflicto profesional de Sera y verificación comercial posterior; revisar en 14 y 24–28 conexiones que demuestren causalidad.
+- **Estado/fuente:** confirmado en borrador 12; requiere validación técnica en edición y análisis externo para descartar alternativas. `temporadas/temporada-01/episodios/12-el-informe-de-sera.md`.
+- **Riesgos:** no confundir ensayo de integridad estructural con huella de origen del episodio 11; no asumir que todas las piezas de partida son defectuosas ni que existe un culpable único.
