@@ -58,3 +58,17 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Duración:** sin fecha civil ni duración exacta del ensayo fijadas.
 - **Lugares:** muelles y depósito público → redacción y fuentes → Consejo Cívico → laboratorio, sin traslado instantáneo.
 - **Fuente:** `temporadas/temporada-01/episodios/11-la-pureza-imposible.md`; borrador revisable.
+
+### Sera Nhal — episodio 12
+- **Meta inmediata:** garantizar una intervención segura y registrar resultados de aceptación verificables.
+- **Presión / decisión:** reclamos por interrupción, pérdidas laborales y dirección empresarial que pide conformidad anticipada; retiene el repuesto y firma un informe no conforme.
+- **Cambio:** pasa de especialista consultada en episodio 10 a profesional responsable que documenta y limita una maniobra real.
+- **Costo:** riesgo laboral, restricción de servicio y presión sobre compañeros y usuarios.
+- **Qué sabe:** permisos y registros propios, piezas de estación, resultados de ensayos controlados e inventario operativo limitado; no sabe origen multiversal ni responsable del certificado.
+- **Qué cree erróneamente:** ninguna creencia falsa se fija sin prueba; considera alternativas técnicas.
+- **Consecuencia:** conservar evidencia industrial independiente y sostener trazabilidad de decisiones en episodios posteriores.
+
+### Marca de cronología — episodio 12
+- **Orden relativo:** después de la presentación de Sera (episodio 10) y del tramo narrativo del 11; ocurre mayormente durante una jornada operativa y su puesta en régimen nocturno.
+- **Duración y traslados:** se mantienen horas relativas de maniobra, enfriamiento, ensayo y notificación; sin desplazamientos instantáneos ni fecha civil cerrada.
+- **Fuente:** `temporadas/temporada-01/episodios/12-el-informe-de-sera.md`; borrador revisable.
