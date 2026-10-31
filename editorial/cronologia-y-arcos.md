@@ -43,3 +43,18 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Episodio 20:** comprobar arcos y cronología 01–20, y secuencia de revelaciones.
 - **Episodio 30:** auditoría integral, tabla de pistas pagadas y no pagadas, contradicciones, memorias y consecuencias.
 - El registro de arcos **no reemplaza** biografías de Biblia 0.4; actualizarlo solo ante cambios observables.
+
+### Inara Vel — episodio 11
+- **Meta inmediata:** contrastar la trazabilidad de suministros industriales desde fuentes independientes.
+- **Presión / decisión:** presión por publicar, costo de proteger fuentes y oportunidad de una portada de mayor impacto; decide separar el incidente comprobado de la hipótesis comercial incompleta.
+- **Cambio:** de nombres y transporte anómalos en episodio 05 a una comparación material limitada y firmada.
+- **Costo:** tiempo editorial y exposición profesional; el resguardo de fuentes impide el atajo de una acusación inmediata.
+- **Qué sabe:** documentos públicos, testimonios acotados y síntesis técnica formal; no conoce la explicación multiversal de autores.
+- **Qué cree erróneamente:** no se fija creencia errónea; considera alternativas comerciales.
+- **Consecuencia:** cotejos en episodios 12 y 14.
+
+### Marca de cronología — episodio 11
+- **Orden relativo:** después del bloque 01–10, en jornadas sucesivas de observación, telegramas, inspección, ensayo y respuesta.
+- **Duración:** sin fecha civil ni duración exacta del ensayo fijadas.
+- **Lugares:** muelles y depósito público → redacción y fuentes → Consejo Cívico → laboratorio, sin traslado instantáneo.
+- **Fuente:** `temporadas/temporada-01/episodios/11-la-pureza-imposible.md`; borrador revisable.
