@@ -51,3 +51,14 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Alternativas legítimas:** existencias privadas, errores de equivalencia, mezcla, reetiquetado o falsificación comercial; la caracterización no identifica por sí sola un yacimiento.
 - **Pago previsto:** episodios 12 y 14 (verificación industrial y cruce de cadenas), 19 y 29 (decisiones de custodia/publicación).
 - **Estado:** pista abierta; resultado técnico parcial verificado en borrador 11.
+
+### P-09 — Discrepancia de certificación industrial (episodio 12)
+- **Siembra:** fallo material y autorización limitada de mantenimiento, episodio 08; presentación de Sera y procedimientos de autenticidad técnica, episodio 10; conflicto de abastecimiento independiente, episodio 11.
+- **Soporte:** componente retirado y precintado, repuesto con guía y dos sellos, certificado individual, mediciones reproducidas con patrones y testigos, informe con acuses.
+- **Procedencia/custodia:** Sera no corta ni altera la pieza de reemplazo; la mantiene bajo retención técnica. La prueba destructiva y la atribución comercial quedan pendientes de orden y cadena específicas.
+- **Interpretación del personaje:** la placa no puede aceptarse con un certificado de núcleo continuo ante una discontinuidad física comprobada. Hipótesis alternativas: falla de transporte, fabricación distinta a declarada, certificado asociado incorrectamente.
+- **Verdad de autores:** la trama contempla un circuito de certificación fraudulento; el episodio permite sospechar y exige corroborar la responsabilidad real sin presentarla como demostrada.
+- **Quién sabe qué:** Sera y equipo técnico conocen el ensayo; Operaciones recibió información de retención; Inara/Kael no reciben acceso implícito ni conocimiento sin fuente.
+- **Interpretaciones alternativas:** daño sobrevenido, error administrativo de serie, defecto de medición residual, incumplimiento del fabricante no necesariamente deliberado.
+- **Pago previsto:** episodios 14 y 24–28, con apoyo de pruebas y competencias verificables.
+- **Estado:** evidencia física parcial confirmada en borrador 12, culpabilidad/circuito definitivo abierto.
