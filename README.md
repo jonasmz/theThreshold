@@ -46,6 +46,20 @@ Este repositorio documenta el desarrollo de la obra. La cosmología 0.2, el dise
 - [Auditoría causal 0.5 (spoilers)](secretos-del-autor/auditoria-causal-0.5.md)
 - [Temporada 1](temporadas/temporada-01/arco-argumental.md)
 
+## Continuidad entre agentes y sesiones
+
+La producción narrativa puede continuar desde una sesión nueva de Codex sin trasladar el historial de chat. La fuente de verdad es este repositorio:
+
+1. [AGENTS.md](AGENTS.md): reglas permanentes para el agente, incluido el compromiso de **no revelar spoilers al creador** hasta el cierre de la temporada.
+2. [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md): estado de producción al traspaso, fuentes y procedimiento para retomar.
+3. [Protocolo editorial](editorial/protocolo-de-produccion.md): pasos de escritura, controles, PR y definición de «temporada finalizada».
+4. [Estado de producción](editorial/estado-produccion.md): registro operativo vivo.
+5. [Continuidad y causalidad](editorial/registro-de-continuidad.md), [pistas y revelaciones](editorial/registro-de-pistas-y-revelaciones.md), [cronología y arcos](editorial/cronologia-y-arcos.md): registros de seguimiento.
+
+**Inicio sugerido en Codex:** «Leé AGENTS.md y PROJECT_CONTEXT.md. Verificá main y los PR abiertos. Continuá el siguiente episodio según la Biblia, la sinopsis y el protocolo editorial; generá un PR sin hacer merge y respondé sin spoilers».
+
+Los documentos internos contienen o pueden enlazar spoilers: **no abrirlos si se desea leer la historia por primera vez al terminar la temporada**.
+
 ## Método de trabajo
 
 Las nuevas decisiones se registran antes de propagarse a los documentos. Los cambios de canon se revisan por Pull Request. No se escriben episodios definitivos hasta verificar las reglas causales, la cronología y la matriz de conocimientos de los personajes.
