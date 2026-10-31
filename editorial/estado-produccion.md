@@ -4,14 +4,14 @@
 
 | Episodios | Escritura | Integración | Revisión |
 |---|---|---|---|
-| 01–09 | Borradores existentes | Integrados en `main` | Control individual registrado, revisión final pendiente |
-| 10 | Borrador y control editorial en PR #16 | **Pendiente** al momento del traspaso | Auditoría de bloque 01–10 incluida en PR |
-| 11–30 | No escritos | — | — |
+| 01–10 | Borradores existentes | Integrados en `main` (ep. 10 desde PR #16) | Controles individuales registrados; auditoría inicial 01–10; revisión final pendiente |
+| 11 | Borrador 0.1 (~3.440 palabras) | [PR #18](https://github.com/jonasmz/theThreshold/pull/18) abierto como borrador, sin merge | Control editorial incluido; revisión global y lectura cronometrada pendientes |
+| 12–30 | No escritos | — | — |
 
 ## Hitos
 - [x] Biblia, sinopsis integral, mapa de 30 episodios.
-- [x] Primeros nueve borradores integrados.
-- [ ] Confirmar estado y merge de [PR #16](https://github.com/jonasmz/theThreshold/pull/16) antes de episodio 11.
+- [x] Primeros diez borradores integrados.
+- [x] Confirmado el merge de [PR #16](https://github.com/jonasmz/theThreshold/pull/16).
 - [ ] Episodios 11–20 escritos e integrados.
 - [ ] Auditoría de segundo bloque (01–20) al cerrar episodio 20.
 - [ ] Episodios 21–30 escritos e integrados.
@@ -26,5 +26,5 @@ Agregar una fila o actualizar el bloque con número, estado **borrador / PR abie
 - Duraciones de episodios no cronometradas.
 - Varias escenas de investigación documental en episodios 06–10: diversificar dramaturgia en segundo bloque.
 - Nombres, topónimos, porcentajes y fechas de trabajo no son canon automáticamente.
-- El PR 16 no estaba fusionado al consultar; revalidar.
+- PR #16 fusionado; PR #18 (episodio 11) abierto como borrador, pendiente de revisión y merge autorizado.
 - Existe material secreto de autor en GitHub **público**: no es confidencial.
