@@ -77,3 +77,13 @@ Cada nueva entrada debe incluir:
 - **Consecuencia prevista:** episodio 26 y secuelas posteriores.
 - **Estado:** reforzado; fuente: episodios 02 y 13.
 - **Riesgos:** la pérdida posterior no puede restaurarse mediante simple relato ni reinterpretarse como memoria falsa.
+
+### C-15 — Identidad comercial y dos cadenas operativas (episodio 14)
+- **Origen:** episodio 14, contraste de registros públicos mercantiles y contratación; exhibición judicial de préstamo de herramientas y pago extraordinario.
+- **Hechos observables:** Arven consta como empresa legal vigente con líneas de montaje/transporte y código antiguo de activos vinculado a cesión de Rhal; en la causa judicial existen ficha de préstamo de una herramienta operada por Arven y certificación de pago extraordinario a Arven. La misma identidad aparece en cadena comercial industrial por soportes propios (ep. 11).
+- **Inferencia abierta:** compartir empresa, herramienta o centro contable no demuestra qué trabajador realizó el ajuste ni que una misma organización controlara las dos operaciones. El responsable que ordenó el gasto sigue sin certificar.
+- **Custodia:** documentos comerciales públicos de Inara; originales de fichas quedan en el establecimiento con constancia de exhibición judicial; copias certificadas y pago quedan en expediente penal, sin transferirse a prensa.
+- **Quién sabe qué:** Inara conoce identidad pública y cadena de suministros sin prueba penal reservada; Daren conoce ficha y pago judiciales; no recibe el informe privado de Sera ni fondos reservados de Kael.
+- **Consecuencia:** episodio 16 debe probar ejecución material con testimonios; episodio 15 mantiene hilo independiente de archivos; episodio 19 atiende integridad documental y publicación.
+- **Fuente:** `temporadas/temporada-01/episodios/14-contratos-de-sombra.md`, borrador; revisión de intervalos temporales pendiente.
+- **Estado y riesgos:** nexo comercial documentado; autoría, intención, ordenante, conexiones entre infraestructura y cámara **no resueltas**. No equiparar Rhal antigua con persona jurídica actual ni interpretar custodia como culpa.
