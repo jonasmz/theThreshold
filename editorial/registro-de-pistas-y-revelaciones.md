@@ -62,3 +62,17 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Interpretaciones alternativas:** daño sobrevenido, error administrativo de serie, defecto de medición residual, incumplimiento del fabricante no necesariamente deliberado.
 - **Pago previsto:** episodios 14 y 24–28, con apoyo de pruebas y competencias verificables.
 - **Estado:** evidencia física parcial confirmada en borrador 12, culpabilidad/circuito definitivo abierto.
+
+### P-10 — Autoridad de procedencia y custodia (episodio 13)
+- **Siembra:** episodios 02, 08–10; respuesta formal, permisos, cotejo y custodia en 13.
+- **Soporte:** oficio de Continuidad, manual publicado, extracto certificado, acta conjunta de cotejo, relación de reproducciones corregida y registro de movimiento bajo incidencia.
+- **Procedencia/custodia:** cotejo autorizado sin abrir fondo reservado; copias institucionales precintadas y depositadas en el Archivo. Ninguna copia se extrae para uso privado o entrega informal al tribunal.
+- **Interpretación de Kael:** hay vínculo de familia técnica y un circuito de derivación por esclarecer; un destino de traslado genérico no reemplaza a un custodio físico.
+- **Verdad de autores:** no identificar responsable ni causa última sin soporte posterior. No confundir compatibilidad con emisor original sobreviviente.
+- **Conocimiento:** Kael y Tessa conocen actas propias; Daren recibe aviso de incidencia, no copia de fondo. Autoridades conocen trámites de su competencia.
+- **Alternativas:** nomenclatura heredada, emulación de protocolo, movimientos legítimos con insuficiente registro, error de clasificación.
+- **Pago previsto:** investigación administrativa/tecnológica en episodios 15 y 18–19.
+- **Estado:** pista abierta con soporte administrativo y compatibilidad técnica acreditados en borrador 13.
+
+### P-06 — Nota de seguimiento (episodio 13)
+- Se refuerza la misma memoria personal sembrada en episodio 02 mediante escena sensorial concreta, sin nueva procedencia ni explicación sobrenatural; su cobro sigue previsto para 26–27.
