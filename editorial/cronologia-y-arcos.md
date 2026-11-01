@@ -72,3 +72,17 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden relativo:** después de la presentación de Sera (episodio 10) y del tramo narrativo del 11; ocurre mayormente durante una jornada operativa y su puesta en régimen nocturno.
 - **Duración y traslados:** se mantienen horas relativas de maniobra, enfriamiento, ensayo y notificación; sin desplazamientos instantáneos ni fecha civil cerrada.
 - **Fuente:** `temporadas/temporada-01/episodios/12-el-informe-de-sera.md`; borrador revisable.
+
+### Kael Veyran — episodio 13
+- **Meta inmediata:** obtener identificación verificable de la autoridad emisora y preservar documentos de procedencia.
+- **Presión / decisión:** responde al recurso formal, regulariza una omisión propia y evita devolución a destino material indeterminado; acepta consecuencias profesionales de su postura.
+- **Cambio:** pierde acceso ordinario a fondos y pasa a suspensión preventiva de funciones documentales con procedimiento disciplinario abierto.
+- **Costo:** carrera, habilitación y confianza institucional; las pruebas permanecen disponibles para controles formales, no ocultas en su casa.
+- **Qué sabe:** compatibilidad técnica acotada y actos administrativos que presenció; no conoce emisor original, causa del traslado ni motivos completos de sanción.
+- **Qué cree erróneamente:** ninguna sospecha se trata como hecho; considera hipótesis alternativas.
+- **Consecuencia:** episodios 15, 19 y arco de confianza; reforzada memoria doméstica de episodio 02.
+
+### Marca de cronología — episodio 13
+- **Orden relativo:** después de ep. 10, 11 y 12; actuaciones concentradas en dos jornadas consecutivas.
+- **Lugares:** Archivo Central, sala de cotejo de Delegación, hogar de Kael y reunión de Personal; traslados ordinarios y permisos limitados.
+- **Fuente:** `temporadas/temporada-01/episodios/13-la-llave-administrativa.md`; fechas civiles y duraciones administrativas exactas pendientes.
