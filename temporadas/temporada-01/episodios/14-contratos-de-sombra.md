@@ -525,8 +525,8 @@ Tomó una hoja nueva y preparó una pregunta para la persona que compareciera po
 
 Cuando terminó de escribir, otra constancia llegó desde el tribunal. La solicitud para identificar al responsable técnico del gasto había sido admitida.
 
-La autorización estaba firmada.
+El magistrado había firmado el requerimiento. Ahora una oficina tendría que responderlo bajo su propio nombre.
 
-El nombre del solicitante seguía vacío.
+La empresa que había cobrado estaba identificada. La autoridad que había encargado el trabajo, todavía no.
 
 ***Fin del episodio 14.***
