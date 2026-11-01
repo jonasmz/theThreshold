@@ -76,3 +76,13 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 
 ### P-06 — Nota de seguimiento (episodio 13)
 - Se refuerza la misma memoria personal sembrada en episodio 02 mediante escena sensorial concreta, sin nueva procedencia ni explicación sobrenatural; su cobro sigue previsto para 26–27.
+
+### P-11 — Contratista, herramienta y cuenta de intervención (episodio 14)
+- **Siembra:** ajustes mecánicos de cámara (episodio 04), guías y nombres comerciales (05), movimientos de mantenimiento (09–10), suministro de Asterita (11).
+- **Soportes:** contrato público y certificado mercantil de Arven; fichas de herramienta de un prestador; factura extraordinaria con certificación contable judicial; soportes de abastecimiento comercial revisables por separado.
+- **Custodia:** registro y documentos mercantiles disponibles públicamente para Inara; Daren incorpora copias certificadas por orden judicial acotada; no hay transferencia de material reservado entre investigadores y prensa.
+- **Observación:** misma persona jurídica en ficha de prestación y factura excepcional; está presente en otra cadena de suministro sin que quede acreditada una relación causal común.
+- **Interpretaciones abiertas:** proveedor ordinario multiuso, subcontratación lícita, imputación incorrecta del gasto, uso indebido de medios por un tercero, falsa certificación o actuación delictiva a probar.
+- **Quién conoce:** Inara, referencias mercantiles públicas; Daren, soporte judicial específico. Ni Sera ni Kael reciben automáticamente estas piezas.
+- **Pago previsto:** episodio 16 (testigos y prueba física), 19 (resguardo/publicación), 22–23 (reconstrucción según disponibilidad).
+- **Estado:** vínculo contractual verificable en borrador 14; atribución de autoría, ordenante y móvil permanece abierta.
