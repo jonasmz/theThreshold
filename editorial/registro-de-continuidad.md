@@ -59,3 +59,21 @@ Cada nueva entrada debe incluir:
 - **Consecuencia prevista:** sostener conflicto profesional de Sera y verificación comercial posterior; revisar en 14 y 24–28 conexiones que demuestren causalidad.
 - **Estado/fuente:** confirmado en borrador 12; requiere validación técnica en edición y análisis externo para descartar alternativas. `temporadas/temporada-01/episodios/12-el-informe-de-sera.md`.
 - **Riesgos:** no confundir ensayo de integridad estructural con huella de origen del episodio 11; no asumir que todas las piezas de partida son defectuosas ni que existe un culpable único.
+
+### C-13 — Recurso, permisos y custodia de reproducciones
+- **Origen:** episodio 13, cotejo limitado, notificación de permisos e incidencia de conservación.
+- **Hecho observable:** respuesta formal admite vía de recurso; cotejo autorizado acredita compatibilidad limitada de familias de validación; Kael registra incorporación tardía de un informe; sus credenciales quedan restringidas y se le notifica una suspensión preventiva de funciones documentales.
+- **Custodia:** reproducciones institucionales permanecen **en el Archivo** bajo acta e incidencia por destino de traslado no identificado; el tribunal no las recibe sin trámite ni autorización.
+- **Hipótesis:** una ruta de servicio podría reclamar los documentos sin custodia material identificable; no prueba robo ni participación de un asiento específico.
+- **Conocimiento:** Kael, Tessa y las oficinas que reciben actas conocen las partes de sus propios trámites; Daren conoce la incidencia por testimonio y puede pedir preservación judicial acotada.
+- **Consecuencia:** episodio 14 mantiene autonomía de investigación industrial; episodio 15 puede explorar clasificación; hilo de disciplina y conservación continúa en 19.
+- **Estado:** confirmado en borrador 13; derecho interno y mecanismo de traslado son decisiones editoriales revisables. Fuente: `temporadas/temporada-01/episodios/13-la-llave-administrativa.md`.
+- **Riesgos:** no confundir suspensión preventiva con sanción firme; no suponer que duplicar una referencia prueba identidad de autoridad; no usar documentos reservados como material privado trasladable.
+
+### C-14 — Recuerdo autobiográfico reforzado
+- **Origen:** episodio 02 (recuerdo inicial) y episodio 13 (escena doméstica).
+- **Hecho:** lluvia, sonidos diferenciados de gotas sobre madera/metal/vidrio, gajos de naranja y mujer que crió a Kael constituyen un mismo recuerdo sensorial. Se refuerza sin variar identidad, cronología ni características fundamentales.
+- **Conocimiento:** Kael lo recuerda como experiencia propia; no hay implicación sobrenatural.
+- **Consecuencia prevista:** episodio 26 y secuelas posteriores.
+- **Estado:** reforzado; fuente: episodios 02 y 13.
+- **Riesgos:** la pérdida posterior no puede restaurarse mediante simple relato ni reinterpretarse como memoria falsa.
