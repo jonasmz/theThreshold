@@ -86,3 +86,26 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden relativo:** después de ep. 10, 11 y 12; actuaciones concentradas en dos jornadas consecutivas.
 - **Lugares:** Archivo Central, sala de cotejo de Delegación, hogar de Kael y reunión de Personal; traslados ordinarios y permisos limitados.
 - **Fuente:** `temporadas/temporada-01/episodios/13-la-llave-administrativa.md`; fechas civiles y duraciones administrativas exactas pendientes.
+
+### Inara Vel — episodio 14
+- **Meta inmediata:** corroborar vínculos mercantiles sin perjudicar trabajadores ni atribuir culpa por coincidencia de nombre.
+- **Presión / decisión:** su director exige una nota; el proveedor responde con un descargo formal y su fuente advierte del riesgo para conductores. Decide corregir referencias societarias heredadas y aplazar afirmación no verificada.
+- **Cambio:** pasa de volumen/procedencia cuestionada (11) a examen de identidad societaria independiente con controles de atribución.
+- **Costo:** menor impacto editorial inmediato y deterioro de relación con la dirección; conserva confidencialidad de fuentes.
+- **Qué sabe:** extractos mercantiles, contratos públicos, antecedentes propios de transporte y ensayo público limitado; no conoce los documentos que Daren recibió bajo orden penal.
+- **Qué cree erróneamente:** no se fija error categórico; evita equiparar dos códigos con dos sociedades actuales.
+- **Consecuencia:** seguimiento de certificados y decisiones de publicación en episodio 19.
+
+### Daren Holt — episodio 14
+- **Meta inmediata:** demostrar de modo admisible quién intervino material y financieramente en los ajustes de la cámara.
+- **Presión / decisión:** tribunal limita investigación a documentos vinculados al hecho; rechaza inspeccionar cuentas comerciales indiscriminadamente y tramita oficio dirigido a una transacción.
+- **Cambio:** de referencias de empresas y ajustes en episodio 04 a soportes mercantiles y judiciales contrastables sin imputación definitiva.
+- **Costo:** nuevas citaciones y demora en determinar testimonios; no posee todavía prueba de fuga.
+- **Qué sabe:** ficha de herramienta, pago certificado, identidad jurídica; ignora quién realizó el ajuste y quién ordenó la imputación contable.
+- **Qué cree erróneamente:** hipótesis de intervención sometida a pruebas; no se atribuye culpa antes de declaración.
+- **Consecuencia:** episodio 16 debe conectar herramientas, testigos, guardias y acceso físico.
+
+### Marca cronológica — episodio 14
+- **Orden relativo:** después de episodio 13; jornadas consecutivas de investigación de contratos y actuaciones judiciales, sin fechas civiles absolutas.
+- **Trayectos:** puerto, redacción, Contrataciones, patio de herramientas, tribunal; las copias y respuestas requieren solicitudes y tiempos de gestión ordinarios.
+- **Fuente:** `temporadas/temporada-01/episodios/14-contratos-de-sombra.md`; revisión de horas y ventanas de contratación pendiente.
