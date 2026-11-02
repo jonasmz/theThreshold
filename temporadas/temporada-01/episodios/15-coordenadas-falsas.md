@@ -331,7 +331,7 @@ Lyra lo observó durante un largo momento.
 
 Ella soltó una risa inesperada.
 
-Después guardó las referencias en el bolsillo.
+Después le devolvió el cuaderno.
 
 —Vuelva al anochecer. Sin gente del Archivo ni del tribunal.
 
@@ -581,7 +581,7 @@ Kael conocía esa denominación.
 
 Cerró el catálogo y dejó las manos quietas sobre la mesa.
 
-Había llegado por un camino público hasta la misma frontera documental que lo había dejado sin empleo. Esta vez no había tocado una sola serie restringida y podía explicar cada consulta con su recibo correspondiente.
+Había llegado por un camino público hasta la misma frontera documental que lo había apartado de sus funciones. Esta vez no había tocado una sola serie restringida y podía explicar cada consulta con su recibo correspondiente.
 
 La referencia no le decía dónde estaba el punto.
 
