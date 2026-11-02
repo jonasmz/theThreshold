@@ -107,3 +107,13 @@ Cada nueva entrada debe incluir:
 - **Consecuencia:** investigación de galería y peritaje posterior (22), discusión de paradero y responsabilidades (23, 29). Episodio 17 conserva información independiente de Lyra.
 - **Estado/fuente:** constatado en borrador `temporadas/temporada-01/episodios/16-testigos-del-mecanismo.md`; cronometraje de operación y plano completo pendientes.
 - **Riesgos:** no convertir posibilidad geométrica en prueba del recorrido realizado; no imputar a guardias por zonas ausentes en plano; diferenciar cuerpo sustituido de supervivencia probada.
+
+### C-18 — Deuda logística y camino físico acotado (episodio 17)
+- **Origen:** episodio 07 (promesa de Lyra, Ema, encomienda médica, controles al norte), episodio 15 (colaboración limitada y placa), episodio 17 (entrega y sendero visible).
+- **Hechos observables:** Lyra resuelve una entrega demorada por ruta fluvial y terrestre declarada, con permisos, recibos y receptor identificado. Asume costo material y escucha el impacto de la espera. Posteriormente permite a Kael recorrer un **sendero público** hasta plataforma de mantenimiento y portón técnico cerrado, sin abrirlo.
+- **Interpretación abierta:** que ese sendero conduzca a la clase de infraestructura buscada por Lyra es conocimiento/hipótesis privada, no demostración para Kael; no se adjudica destino al patrón de tres números del 15.
+- **Conocimiento:** Lyra conserva su conocimiento parcial de operaciones de Tránsito y la laguna de memoria sembrada en ep. 07 sin recuerdos recuperados; Kael solo observa camino, puerta y avisos municipales.
+- **Jurisdicción y soporte:** el sendero es un paso municipal habilitado temporalmente, separado del sector judicial precintado del episodio 16. Cierre técnico por daño material sin causalidad persecutoria demostrada.
+- **Consecuencias:** relación Kael–Lyra cambia por consentimiento y riesgo compartido sin revelación multiversal del 20; pérdida de dinero y margen de contactos afecta a Lyra.
+- **Estado/fuente:** borrador `temporadas/temporada-01/episodios/17-lo-que-lyra-sabe.md`; topografía y tiempos de itinerario por armonizar en auditoría global.
+- **Riesgo:** no transformar tramo peatonal en acceso legal a Anclaje ni convertir coste previo en daño mágicamente reparado.
