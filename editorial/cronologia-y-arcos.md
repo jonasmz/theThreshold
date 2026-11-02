@@ -109,3 +109,17 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden relativo:** después de episodio 13; jornadas consecutivas de investigación de contratos y actuaciones judiciales, sin fechas civiles absolutas.
 - **Trayectos:** puerto, redacción, Contrataciones, patio de herramientas, tribunal; las copias y respuestas requieren solicitudes y tiempos de gestión ordinarios.
 - **Fuente:** `temporadas/temporada-01/episodios/14-contratos-de-sombra.md`; revisión de horas y ventanas de contratación pendiente.
+
+### Kael Veyran — episodio 15
+- **Meta inmediata:** analizar referencias técnicas históricas mediante fuentes públicas sin violar suspensión.
+- **Presión / decisión:** acceso laboral revocado, plazo de descargo; consulta materiales públicos, solicita consentimiento explícito para medir objeto privado y no traslada documentos reservados.
+- **Cambio:** amplía capacidad de investigación independiente y aprende a sostener la incertidumbre compartida con otros.
+- **Costo:** tiempo, tasas y tensión por el proceso administrativo; no recupera acceso profesional.
+- **Qué sabe:** lecturas concordantes y regla pública que exige un segundo marco; no conoce localización, operador, responsable o naturaleza de destino.
+- **Qué cree erróneamente:** no se fija creencia falsa; rechaza una localización sin transformación válida.
+- **Consecuencia:** episodio 20 debe interpretar con evidencia adicional, sin revelación anticipada.
+
+### Marca de cronología — episodio 15
+- **Orden:** después del episodio 13 y el trabajo paralelo del 14; consulta pública y visita al puerto en una jornada, examen disciplinario propio y biblioteca en la siguiente.
+- **Lugares:** sala pública municipal, comercio de Orven, muelle con Ema/Lyra, vivienda de Kael, Archivo para ejercicio de defensa, biblioteca ciudadana de Escuela de Topografía.
+- **Fuente:** `temporadas/temporada-01/episodios/15-coordenadas-falsas.md`; intervalos civiles aún no fijados.
