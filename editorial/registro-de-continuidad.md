@@ -97,3 +97,13 @@ Cada nueva entrada debe incluir:
 - **Consecuencia:** seguimiento cartográfico de episodio 20 y contrastes posteriores; no sustituye investigación penal del episodio 16.
 - **Estado y fuente:** corroboración preliminar en borrador 15; exige validación de método de medición y marco técnico. `temporadas/temporada-01/episodios/15-coordenadas-falsas.md`.
 - **Riesgos:** no confundir misma cadena de números con independencia de fuentes o localización física confirmada; no convertir un resultado negativo en cosmología revelada.
+
+### C-17 — Declaraciones del mecanismo y alcance de hipótesis (episodio 16)
+- **Origen:** episodios 01, 03–04, 14 y 16; testimonio, informe físico y forense.
+- **Hechos:** guardia frontal ratifica ingreso vivo de Taren sin observación interior; operadora de señales solo certifica avisos exteriores; peritaje revalida capacidad geométrica de una bandeja y acceso lateral ya descubiertos; auxiliar de montaje recuerda prueba previa del mecanismo, sin identificar su carga; la médico forense ratifica que el cadáver presentado no es Taren.
+- **Inferencia limitada:** tribunal autoriza investigar hipótesis fundada de salida con vida desde la cámara; no ha determinado vida actual, destino, identidad de operadores o traslado a Anclaje.
+- **Custodia:** declaraciones firmadas, hoja del panel, registros de turnos, medidas, fotografías y muestra física precintada; análisis de la tela pendiente. Sector inferior protegido; apertura ulterior requiere nueva autorización estructural/judicial.
+- **Competencias:** municipio y tribunal actúan sobre causa penal y cámara; controles arcanos o infraestructura histórica ajena requieren permisos propios. Kael permanece suspendido, no interviene.
+- **Consecuencia:** investigación de galería y peritaje posterior (22), discusión de paradero y responsabilidades (23, 29). Episodio 17 conserva información independiente de Lyra.
+- **Estado/fuente:** constatado en borrador `temporadas/temporada-01/episodios/16-testigos-del-mecanismo.md`; cronometraje de operación y plano completo pendientes.
+- **Riesgos:** no convertir posibilidad geométrica en prueba del recorrido realizado; no imputar a guardias por zonas ausentes en plano; diferenciar cuerpo sustituido de supervivencia probada.
