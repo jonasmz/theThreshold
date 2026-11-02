@@ -86,3 +86,14 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Quién conoce:** Inara, referencias mercantiles públicas; Daren, soporte judicial específico. Ni Sera ni Kael reciben automáticamente estas piezas.
 - **Pago previsto:** episodio 16 (testigos y prueba física), 19 (resguardo/publicación), 22–23 (reconstrucción según disponibilidad).
 - **Estado:** vínculo contractual verificable en borrador 14; atribución de autoría, ordenante y móvil permanece abierta.
+
+### P-12 — Referencia espacial no convertible (episodio 15)
+- **Siembra:** manual técnico de familia retirada y procedencia incierta (ep. 10); placa de Lyra y sus marcas de calibración (ep. 07).
+- **Soportes:** tabla de concordancia publicada, carta industrial privada bajo vista de Orven y pieza inerte medida con consentimiento de Lyra; catálogo público de sistemas de doble origen.
+- **Custodia:** ningún documento reservado se retira; Kael actúa como lector ciudadano bajo suspensión. Las tres fuentes pueden compartir estándar antecesor; no probar independencia absoluta.
+- **Interpretación de Kael:** secuencia numérica consistente sin marco convertible a coordenada territorial; busca regla faltante, no adjudica una región.
+- **Verdad de autores:** revelar rutas/destinos más adelante según mapa T1; la escena no confirma otro mundo ni hace que un instrumento doméstico abra un Umbral.
+- **Quién sabe qué:** Kael conoce lecturas y fuentes; Lyra conoce más sobre su pieza, no revela origen técnico ni rutas. Daren no recibe material sin sustento.
+- **Alternativas legítimas:** patrón de taller, marco móvil/fijo, código de embalaje o copia de especificación común.
+- **Pago previsto:** ep. 20 (interpretación oral limitada), 21–22 y acto III (comprobación material).
+- **Estado:** pista abierta con concordancia preliminar documentada; lectura y calibración pendientes de validación técnica.
