@@ -25,7 +25,7 @@ Lyra dejó el abrigo en el respaldo de una silla.
 
 —Eso es lo que decís cuando alguien necesita que dejes de trabajar.
 
-Ema señaló el sobre. La oficina de paso de Ribera Alta había transmitido una nota de la encargada del refugio, Niva Sen. Allí usaban un equipo convencional de asistencia respiratoria para pacientes que no podían ser trasladados fácilmente; la caja contenía válvulas y sellos de recambio. Ninguno producía energía. El equipo dependía de la instalación de la casa y de un pequeño respaldo cargado, y una pieza fatigada podía volverlo inútil aunque la electricidad siguiera llegando.
+Ema señaló el sobre. La oficina de paso de Ribera Alta había transmitido una nota de la encargada del refugio, Niva Arel. Allí usaban un equipo convencional de asistencia respiratoria para pacientes que no podían ser trasladados fácilmente; la caja contenía válvulas y sellos de recambio. Ninguno producía energía. El equipo dependía de la instalación de la casa y de un pequeño respaldo cargado, y una pieza fatigada podía volverlo inútil aunque la electricidad siguiera llegando.
 
 En el texto no pedían milagros.
 
@@ -313,7 +313,7 @@ Lyra no podía hacer que el camino fuera más corto por necesitarlo.
 
 ***
 
-El refugio de Ribera Alta ocupaba una casa de piedra junto a una vieja estación de descanso. Niva Sen esperaba en el puesto, tal como había convenido. Llevaba las manos ásperas por el lavado constante y una libreta donde había anotado el número del bulto antes de que llegaran.
+El refugio de Ribera Alta ocupaba una casa de piedra junto a una vieja estación de descanso. Niva Arel esperaba en el puesto, tal como había convenido. Llevaba las manos ásperas por el lavado constante y una libreta donde había anotado el número del bulto antes de que llegaran.
 
 —Tarde —dijo al ver a Lyra.
 
@@ -373,7 +373,7 @@ Regresaron a Vael-Tir sin la caja.
 
 En el trayecto Lyra permaneció junto al borde de la carreta, escuchando el choque regular de las ruedas. Había cumplido por fin una entrega que no necesitaba ser clandestina. Había pagado por una ruta verificable, expuesto su nombre comercial en un manifiesto y pedido a otros que aceptaran un riesgo descrito.
 
-Era un modo de trabajar que su vida anterior le habría parecido imprudente.
+Era un modo de trabajar que no hacía tanto le habría parecido imprudente.
 
 No porque los papeles fueran una garantía de justicia. Sabía mejor que la mayoría lo fácil que resultaba hacer figurar en un registro una operación distinta de la realizada. Pero la ausencia de registro tampoco era una forma de inocencia.
 
