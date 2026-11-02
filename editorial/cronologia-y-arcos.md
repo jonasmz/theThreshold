@@ -123,3 +123,18 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden:** después del episodio 13 y el trabajo paralelo del 14; consulta pública y visita al puerto en una jornada, examen disciplinario propio y biblioteca en la siguiente.
 - **Lugares:** sala pública municipal, comercio de Orven, muelle con Ema/Lyra, vivienda de Kael, Archivo para ejercicio de defensa, biblioteca ciudadana de Escuela de Topografía.
 - **Fuente:** `temporadas/temporada-01/episodios/15-coordenadas-falsas.md`; intervalos civiles aún no fijados.
+
+### Daren Holt — episodio 16
+- **Meta inmediata:** identificar qué fue y qué no fue observado dentro de la cámara y determinar si procede una búsqueda de paradero.
+- **Presión / decisión:** testigos temen perder empleo, empresa y guardias poseen competencias parciales; Daren solicita medidas proporcionales y no promete prueba de vida definitiva.
+- **Cambio respecto del 14:** ya no dispone solo de factura y herramienta, sino de testimonios, peritaje geométrico y dictamen forense integrados con limitaciones propias.
+- **Costo:** riesgo laboral de testigos y extensión de investigación bajo control judicial; preserva declaraciones sin imputar indiscriminadamente.
+- **Qué sabe:** ingreso vivo, señal exterior, cadáver no coincidente, paso lateral posible, protección del sector; desconoce destino, autores concretos, estado actual de Taren.
+- **Qué cree erróneamente:** ninguna hipótesis se trata como hecho terminado.
+- **Consecuencia:** posteriores investigaciones físicas en galería (22) y responsabilidades (23/29).
+
+### Marca de cronología — episodio 16
+- **Orden:** después del bloque 14–15; toma de declaraciones, retorno a plaza, consulta forense y actuaciones judiciales en varias jornadas sucesivas.
+- **Relación con ceremonia:** ingreso visible anterior a señal ~9:12, camilla presentada tras demora ~9:17; no se adjudica tiempo exacto a maniobra oculta.
+- **Rutas y jurisdicción:** tribunal, plaza bajo precinto, depósito médico, sala de guardias; sector antiguo protegido pero no excavado.
+- **Fuente:** `temporadas/temporada-01/episodios/16-testigos-del-mecanismo.md`; intervalos de peritaje y distancias exactas sujetos a revisión técnica.
