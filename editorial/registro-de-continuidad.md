@@ -87,3 +87,13 @@ Cada nueva entrada debe incluir:
 - **Consecuencia:** episodio 16 debe probar ejecución material con testimonios; episodio 15 mantiene hilo independiente de archivos; episodio 19 atiende integridad documental y publicación.
 - **Fuente:** `temporadas/temporada-01/episodios/14-contratos-de-sombra.md`, borrador; revisión de intervalos temporales pendiente.
 - **Estado y riesgos:** nexo comercial documentado; autoría, intención, ordenante, conexiones entre infraestructura y cámara **no resueltas**. No equiparar Rhal antigua con persona jurídica actual ni interpretar custodia como culpa.
+
+### C-16 — Triple referencia y doble origen (episodio 15)
+- **Origen:** episodio 15, consulta pública de cartografía, carta comercial, placa de Lyra y manual de la Escuela.
+- **Hechos observables:** secuencia técnica «catorce, ocho, tres» aparece en tabla impresa municipal (A), carta comercial antigua custodiada por Orven (B) y medición no destructiva de una placa privada ya introducida (C). Un catálogo público de marcos antiguos advierte que referencias de doble origen no admiten conversión territorial sin segundo marco.
+- **Hipótesis abierta:** coordenada de equipo o relación entre dos marcos; **no se determina destino, Dominio ni geografía ajena a Eryndor**.
+- **Procedencia y custodia:** A se consulta en sala abierta; B permanece con Orven; C permanece en poder de Lyra. Kael conserva sus notas personales y recibos, no copias de un fondo reservado. A y B podrían proceder de estándar común; la independencia es parcial.
+- **Conocimiento y límites:** Kael conoce solo lecturas y avisos públicos; Lyra conserva información propia y no revela rutas. Kael sigue suspendido preventivamente, sin acceso laboral.
+- **Consecuencia:** seguimiento cartográfico de episodio 20 y contrastes posteriores; no sustituye investigación penal del episodio 16.
+- **Estado y fuente:** corroboración preliminar en borrador 15; exige validación de método de medición y marco técnico. `temporadas/temporada-01/episodios/15-coordenadas-falsas.md`.
+- **Riesgos:** no confundir misma cadena de números con independencia de fuentes o localización física confirmada; no convertir un resultado negativo en cosmología revelada.
