@@ -138,3 +138,17 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Relación con ceremonia:** ingreso visible anterior a señal ~9:12, camilla presentada tras demora ~9:17; no se adjudica tiempo exacto a maniobra oculta.
 - **Rutas y jurisdicción:** tribunal, plaza bajo precinto, depósito médico, sala de guardias; sector antiguo protegido pero no excavado.
 - **Fuente:** `temporadas/temporada-01/episodios/16-testigos-del-mecanismo.md`; intervalos de peritaje y distancias exactas sujetos a revisión técnica.
+
+### Lyra Saren — episodio 17
+- **Meta inmediata:** cumplir entrega médica retrasada desde episodio 07 sin exponer a transportistas no verificados; decidir qué mostrarle a Kael.
+- **Presión / decisión:** receptor reclama una fecha, Ema cuestiona el derecho de Lyra a decidir por los demás; Lyra paga vía logística más cara y luego ofrece un recorrido verificable con consentimiento y límites.
+- **Cambio:** de utilizar al archivista como medio a aceptar un acto de confianza parcial donde él puede rechazar/observar sin obediencia; costo real en dinero y refugio social.
+- **Costo:** demora previa no se borra, recursos destinados a otra búsqueda se gastan, un sendero viejo puede quedar temporalmente inaccesible.
+- **Qué sabe:** riesgos de rutas/Anclajes, límites de memoria, hechos de su entrega y de camino público; no identifica el origen completo de la placa.
+- **Qué cree erróneamente:** evita atribuir inspección municipal a perseguidores sin soporte.
+- **Consecuencia:** información graduada para el 20, decisiones más onerosas para 25 y memoria/promesa en 27.
+
+### Marca de cronología — episodio 17
+- **Orden relativo:** después de la consulta cartográfica de Kael (15) y de la investigación de Daren (16), en jornadas sucesivas: verificación de ruta, salida/entrega, regreso y paseo con Kael.
+- **Lugares:** muelle tercero, canal sur, compuertas y sendero de sirga público, Ribera Alta, sala pública de cartografía. No se cruzan sectores judicialmente precintados.
+- **Fuente:** `temporadas/temporada-01/episodios/17-lo-que-lyra-sabe.md`; revisar duración real de desplazamientos según mapa definitivo.

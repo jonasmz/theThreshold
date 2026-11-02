@@ -107,3 +107,14 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Alternativas legítimas:** desplazamiento de piezas, traslado de un cuerpo distinto, muerte posterior no documentada, fallas de actas y vigilancia no delictivas.
 - **Pago previsto:** 22, 23 y 29; hasta entonces el acceso lateral no equivale a una ruta completamente probada.
 - **Estado:** prueba física y testifical parcial corroborada; paradero y responsabilidad siguen abiertos.
+
+### P-14 — Ruta física comprobada y frontera de conocimiento (episodio 17)
+- **Siembra:** marca y placa antiguas (episodios 06–07), ruta pospuesta por controles y promesa a destinatario (07), triple referencia técnica sin conversión territorial (15).
+- **Soporte/custodia:** contratos y recibos logísticos ordinarios de Lyra/Ema; testimonio de recorrido voluntario de Kael, aviso de paso y mantenimiento de Servicio de Agua; portón técnico permanece cerrado y ajeno a la custodia de Kael.
+- **Hecho:** un sendero municipal conduce hasta una plataforma de inspección sin que ello pruebe continuidad, Anclaje ni destino específico. La entrega médica demuestra una ruta **de mercancías**, distinta de cualquier ruta de Tránsito.
+- **Interpretación de Lyra:** mostrar solo un tramo verificable respeta derecho de Kael a decidir y reduce riesgo de hacerlo operar sistemas desconocidos.
+- **Verdad de autores:** Lyra sabe qué exige un Anclaje y por qué los caminos no equivalen a destinos, sin revelación verbal de otros Dominios antes de episodio 20.
+- **Qué sabe Kael:** un camino público concreto existe; no conoce puerta posterior, seguridad o función final. No se le transmiten expedientes ni se reactivan permisos.
+- **Alternativas:** infraestructura municipal ordinaria, cierre de mantenimiento legítimo, marcas replicadas por equipos comunes. No hay persecución acreditada.
+- **Pago previsto:** conversación de confianza y prueba física posterior en 20–25; consecuencia de la promesa y memoria durante 27.
+- **Estado:** ruta material parcial verificada; destino, continuidad y situación operativa abiertos.
