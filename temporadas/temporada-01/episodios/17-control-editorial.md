@@ -41,7 +41,7 @@
 | E17-D | Observación de Kael acompañada de Lyra en sendero peatonal y señalización pública | Tramo físico accesible hasta plataforma de mantenimiento; puerta técnica cerrada | No identifica Anclaje, destino de calibración, continuidad de pasos ocultos ni derecho a abrir |
 | E17-E | Aviso de inspección por personal municipal competente | Previsión de cierre por daños visibles en zona de obras | No acredita vigilancia deliberada ni conexión con investigación penal |
 
-## Conocimiento de personajes y jurisisdicción
+## Conocimiento de personajes y jurisdicción
 - Lyra conoce operaciones de Anclaje y límites de Tránsito; no posee de memoria todas las rutas ni recuerda de forma íntegra el incidente asociado a la placa. Su recuerdo explícito sigue siendo olor metálico y orden desobedecida, tal como se sembró en ep. 07.
 - Kael **no tiene** credencial de funcionario activo ni adquiere una con esta colaboración. Solo ve camino público, avisos de paso y puerta cerrada. Puede anotar lo presenciado sin recibir nombres de contactos ni soportes privados.
 - Ema y Niva deciden por sí mismas si aceptar traslado y condiciones; el relato no subordina sus decisiones a una «salvadora» omnisciente.
