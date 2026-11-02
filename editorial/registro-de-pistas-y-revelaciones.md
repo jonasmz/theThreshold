@@ -97,3 +97,13 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Alternativas legítimas:** patrón de taller, marco móvil/fijo, código de embalaje o copia de especificación común.
 - **Pago previsto:** ep. 20 (interpretación oral limitada), 21–22 y acto III (comprobación material).
 - **Estado:** pista abierta con concordancia preliminar documentada; lectura y calibración pendientes de validación técnica.
+
+### P-13 — Fase no observada y acceso material (episodio 16)
+- **Siembra:** cámara opaca y señal pública (01), dictamen forense (03), bandeja y rieles (04), cadena comercial y herramienta (14).
+- **Soportes:** declaraciones de Nadia e Ilda en tribunal, hoja externa de eventos, peritaje de Odel, testigo Tomás sobre ensayo previo, libro de guardias y actualización forense de Mara.
+- **Procedencia/custodia:** partes judiciales separados por función; piezas conservadas bajo precintos, nueva muestra bajo sello, fotografías con acta y autorización limitada. Ningún testigo declara haber visto al condenado atravesar el acceso.
+- **Interpretación de Daren:** existe una hipótesis fundada de salida con vida compatible con cronología, dimensiones, vacío de vigilancia y cadáver no identificado como Taren; no es declaración de vida actual.
+- **Verdad de autores:** sustitución mecánica y fuga planeadas, pero el personaje solo conoce y prueba tramos disponibles. Anclaje y operadores no quedan identificados en episodio 16.
+- **Alternativas legítimas:** desplazamiento de piezas, traslado de un cuerpo distinto, muerte posterior no documentada, fallas de actas y vigilancia no delictivas.
+- **Pago previsto:** 22, 23 y 29; hasta entonces el acceso lateral no equivale a una ruta completamente probada.
+- **Estado:** prueba física y testifical parcial corroborada; paradero y responsabilidad siguen abiertos.
