@@ -166,3 +166,24 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden:** después del tramo 16–17, durante una jornada de respuesta y su continuidad de vigilancia al turno nocturno; no hay fecha civil absoluta.
 - **Lugares:** despacho de Custodia → Anexo Occidental (recinto del Concilio, distinto de la parcela judicial de ep. 10) → despacho. Viaje ordinario de horas y medidas bajo control de seguridad.
 - **Fuente:** `temporadas/temporada-01/episodios/18-la-sala-clausurada.md`; tiempos de descarga y escalas del recinto sujetos a revisión de ingeniería.
+
+### Kael Veyran — episodio 19
+- **Meta:** impedir que las copias de su expediente desaparezcan del depósito bajo traslado a destinatario material indeterminado.
+- **Decisión:** admite una falta registral propia y pide recurso legal acotado, con asesoría de Dalia Ferren, sin usar credenciales ni sacar el contenido protegido.
+- **Cambio:** obtiene inmovilización documental provisional y acuse fuera del circuito que programó el traslado, pero **no** recupera funciones ni queda absuelto.
+- **Costo:** complicación de defensa laboral y riesgo de mayor escrutinio sobre su omisión; prepara audiencia con testigos por vía formal.
+- **Qué sabe:** inventarios y actos de su expediente, no contenido de copias ni autores del traslado; no conoce la auditoría del episodio 18.
+- **Consecuencia:** ep. 20 mantiene suspensión; ep. 23 puede trabajar solo con pruebas públicas/legales.
+
+### Inara Vel — episodio 19
+- **Meta:** publicar una conclusión técnica defendible sin comprometer al testigo histórico.
+- **Decisión:** limita titular y cita, ayuda a Belor a documentar lo que personalmente conoce y respeta su reserva antes y después de la salida de la ciudad.
+- **Cambio:** la prueba histórica queda custodiada independientemente del diario; Belor deja habitación y es visto partir en coche interurbano.
+- **Costo:** pierde disponibilidad inmediata de testigo para ratificación o entrevista y renuncia a usar su nombre para una noticia.
+- **Qué sabe:** contenido general permitido de su depósito, documentos públicos ya obtenidos y observaciones acotadas sobre partida; no conoce motivo ni destino.
+- **Consecuencia:** buscar corroboración documental en ep. 23 y recuperación ética de resultados en ep. 29.
+
+### Marca cronológica — episodio 19
+- **Orden:** después del episodio 18, en dos jornadas de recurso, depósito, publicación y confirmación de ausencia, con horas relativas y sin calendario civil cerrado.
+- **Lugares:** oficina de asistencia administrativa y revisión, Archivo bajo custodia institucional (no visitado para consulta por Kael), redacción, taller de encuadernación, oficina privada de constancias, pensión, terminal de pasajeros.
+- **Fuente:** `temporadas/temporada-01/episodios/19-el-precio-del-silencio.md`; plazos y desplazamientos administrativos a revisar en auditoría del bloque 01–20.
