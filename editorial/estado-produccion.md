@@ -11,12 +11,13 @@
 | 14 | Borrador 0.1 (4.121 palabras) | Integrado en `main` desde [PR #29](https://github.com/jonasmz/theThreshold/pull/29) | Control individual; revisión global y lectura cronometrada pendientes |
 | 15 | Borrador 0.1 (4.009 palabras) | Integrado en `main` desde [PR #31](https://github.com/jonasmz/theThreshold/pull/31) | Control editorial individual y registros de continuidad; revisión global y lectura cronometrada pendientes |
 | 16 | Borrador 0.1 (4.296 palabras) | Integrado en `main` desde [PR #33](https://github.com/jonasmz/theThreshold/pull/33) | Control editorial individual y registros de continuidad; revisión global y lectura cronometrada pendientes |
-| 17 | Borrador 0.1 (4.464 palabras) | [PR #35](https://github.com/jonasmz/theThreshold/pull/35) abierto como borrador, sin merge | Control editorial individual y registros de continuidad; revisión global y lectura cronometrada pendientes |
-| 18–30 | No escritos | — | — |
+| 17 | Borrador 0.1 (4.464 palabras) | Integrado en `main` desde [PR #35](https://github.com/jonasmz/theThreshold/pull/35) | Control editorial individual y registros de continuidad; revisión global y lectura cronometrada pendientes |
+| 18 | Borrador 0.1 (~4.880 palabras) | [PR #37](https://github.com/jonasmz/theThreshold/pull/37) abierto como borrador, sin merge | Control editorial individual y registros de continuidad; revisión global y lectura cronometrada pendientes |
+| 19–30 | No escritos | — | — |
 
 ## Hitos
 - [x] Biblia, sinopsis integral, mapa de 30 episodios.
-- [x] Primeros dieciséis borradores integrados.
+- [x] Primeros diecisiete borradores integrados.
 - [x] Confirmado el merge de [PR #16](https://github.com/jonasmz/theThreshold/pull/16).
 - [ ] Episodios 11–20 escritos e integrados.
 - [ ] Auditoría de segundo bloque (01–20) al cerrar episodio 20.
@@ -32,5 +33,5 @@ Agregar una fila o actualizar el bloque con número, estado **borrador / PR abie
 - Duraciones de episodios no cronometradas.
 - Varias escenas de investigación documental en episodios 06–10: diversificar dramaturgia en segundo bloque.
 - Nombres, topónimos, porcentajes y fechas de trabajo no son canon automáticamente.
-- PR #16, #18, #25, #27, #29, #31 y #33 fusionados; PR #35 (episodio 17) abierto como borrador, pendiente de revisión y merge autorizado.
+- PR #16, #18, #25, #27, #29, #31, #33 y #35 fusionados; PR #37 (episodio 18) abierto como borrador, pendiente de revisión y merge autorizado.
 - Existe material secreto de autor en GitHub **público**: no es confidencial.
