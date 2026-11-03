@@ -118,3 +118,14 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Alternativas:** infraestructura municipal ordinaria, cierre de mantenimiento legítimo, marcas replicadas por equipos comunes. No hay persecución acreditada.
 - **Pago previsto:** conversación de confianza y prueba física posterior en 20–25; consecuencia de la promesa y memoria durante 27.
 - **Estado:** ruta material parcial verificada; destino, continuidad y situación operativa abiertos.
+
+### P-15 — Doble versión de informe de estabilidad (episodio 18)
+- **Siembra:** posible uso de circuitos sin autorización (ep. 08), mantenimiento de infraestructura cerrada (10), seguridad técnica sin conformidad (12).
+- **Soporte:** tira continua de telemetría del turno y firmas de retiro, partes originales, versiones históricas con mismo número/recepción e historial del sistema, acta de inspección y fotografía de derivación en recinto del Concilio.
+- **Procedencia/custodia:** lecturas bajo Energía; las dos versiones y la cronología de rectificación son certificadas y entregadas a auditoría de varias competencias; sellos y equipo preservados.
+- **Interpretación de Maelor:** actividad física reciente sin ensayo autorizado localizado y una rectificación que suprimió advertencia crítica. La alteración posterior está documentada; su responsable y finalidad no.
+- **Verdad de autores:** posible conexión con operaciones clandestinas de red; el ep. 18 no demuestra clase V, destino, traslado de personas ni responsables particulares.
+- **Conocimiento:** Maelor y responsables competentes conocen curvas/resultados; no se extiende a tribunal civil ni prensa por conveniencia.
+- **Alternativas que deben probarse:** autorización reservada de otra comisión, error de versión, corrección legítima aún no incorporada; ninguna restaura automáticamente valor a la segunda versión.
+- **Pagos previstos:** eps. 19, 24 y 28; la condición peligrosa de contención conserva consecuencias materiales.
+- **Estado:** pista abierta, sustitución de contenido confirmada por soporte del capítulo; autoría e intención pendientes.

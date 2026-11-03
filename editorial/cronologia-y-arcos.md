@@ -152,3 +152,17 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden relativo:** después de la consulta cartográfica de Kael (15) y de la investigación de Daren (16), en jornadas sucesivas: verificación de ruta, salida/entrega, regreso y paseo con Kael.
 - **Lugares:** muelle tercero, canal sur, compuertas y sendero de sirga público, Ribera Alta, sala pública de cartografía. No se cruzan sectores judicialmente precintados.
 - **Fuente:** `temporadas/temporada-01/episodios/17-lo-que-lyra-sabe.md`; revisar duración real de desplazamientos según mapa definitivo.
+
+### Maelor Thane — episodio 18
+- **Meta inmediata:** contener una perturbación real, distinguir error de licencia de ensayo clandestino y preservar registros completos.
+- **Presión / decisión:** dos competencias discuten reserva y seguridad; Maelor mantiene contención, inmoviliza banco de pruebas, ordena relevo y acepta auditoría colegiada fuera del circuito que emitió la rectificación.
+- **Cambio respecto de ep. 08:** pasa de defender documentación trazable frente a movimiento irregular de carpetas a permitir control cruzado de su propio ámbito por amenaza técnica.
+- **Costo:** presupuesto de turnos, restricciones de producción, conflicto entre asientos y exposición de debilidad institucional.
+- **Qué sabe:** red deteriorada, conocimiento amplio de Tránsito y programas parcialmente clasificados, lecturas de episodio 18 y versiones de informe; ignora los ejecutores concretos y si existe autorización particular ajena a Licencias.
+- **Qué cree erróneamente:** no convierte la semejanza de servicios en identificación de una misma célula.
+- **Consecuencia:** necesidad de asegurar margen y renegociar autoridad en eps. 24–28.
+
+### Marca cronológica — episodio 18
+- **Orden:** después del tramo 16–17, durante una jornada de respuesta y su continuidad de vigilancia al turno nocturno; no hay fecha civil absoluta.
+- **Lugares:** despacho de Custodia → Anexo Occidental (recinto del Concilio, distinto de la parcela judicial de ep. 10) → despacho. Viaje ordinario de horas y medidas bajo control de seguridad.
+- **Fuente:** `temporadas/temporada-01/episodios/18-la-sala-clausurada.md`; tiempos de descarga y escalas del recinto sujetos a revisión de ingeniería.

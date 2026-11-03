@@ -117,3 +117,14 @@ Cada nueva entrada debe incluir:
 - **Consecuencias:** relación Kael–Lyra cambia por consentimiento y riesgo compartido sin revelación multiversal del 20; pérdida de dinero y margen de contactos afecta a Lyra.
 - **Estado/fuente:** borrador `temporadas/temporada-01/episodios/17-lo-que-lyra-sabe.md`; topografía y tiempos de itinerario por armonizar en auditoría global.
 - **Riesgo:** no transformar tramo peatonal en acceso legal a Anclaje ni convertir coste previo en daño mágicamente reparado.
+
+### C-19 — Anexo Occidental: ensayo sin autorización localizada y conservación de informes (episodio 18)
+- **Origen:** Maelor/Talia/Ilse/Elian, episodio 18; antecedente de competencias, ep. 08.
+- **Hecho observado:** registro independiente de esfuerzo muestra perturbación en contención; el banco de ensayo de una sala clausurada tiene trazas materiales de uso reciente y conexión física a circuito de soporte; no aparece una autorización de ensayo en el inventario revisado. Se mantiene contención con aislamiento de demanda de pruebas, sin apagado total.
+- **Prueba documental:** primer informe recibido advertía margen fuera de banda; segunda versión bajo idéntico número y recepción declara estabilidad plena, sin nota técnica de corrección firmada. Historial preservado indica modificación posterior a recepción.
+- **Lo no probado:** quién utilizó la sala, si se realizó Tránsito, si el permiso existe en otra comisión, autor o intención de la modificación, conexiones penales de Arven, relación con traslado irregular de expedientes de ep. 08.
+- **Competencias/custodia:** Energía conserva trazas brutas; Custodia/Licencias inventarían y precintan el laboratorio; Auditoría colegiada recibe copia certificada de ambas versiones e historial; municipio recibe solo información pertinente a suministro. No se abren fondos judiciales.
+- **Conocimiento:** Maelor conoce existencia de Tránsito y programas restringidos, pero no la autoría de este ensayo. Kael, Daren, Inara y Lyra no reciben estos informes de forma automática.
+- **Consecuencia:** conflicto entre asientos, recuperación de margen a ritmo limitado, acceso de investigación supervisado; pagar en eps. 19, 24 y 28.
+- **Estado/fuente:** evidencia preliminar formalizada en borrador `temporadas/temporada-01/episodios/18-la-sala-clausurada.md`; autoría y causalidad definitiva abiertas.
+- **Riesgo:** no confundir alteración constatada con falsificación penal acreditada, ni daño localizado con falla mundial de red.
