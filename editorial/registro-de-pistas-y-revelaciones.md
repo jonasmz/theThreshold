@@ -129,3 +129,14 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Alternativas que deben probarse:** autorización reservada de otra comisión, error de versión, corrección legítima aún no incorporada; ninguna restaura automáticamente valor a la segunda versión.
 - **Pagos previstos:** eps. 19, 24 y 28; la condición peligrosa de contención conserva consecuencias materiales.
 - **Estado:** pista abierta, sustitución de contenido confirmada por soporte del capítulo; autoría e intención pendientes.
+
+### P-16 — Dos vías de conservación, ausencia del testigo (episodio 19)
+- **Siembra:** rueda técnica y referencia parcial de Belor en episodio 05; cautela sobre identificación en 11; copias con traslado genérico y suspensión de Kael en 13; cadena comercial acotada en 14.
+- **Soporte A (institucional):** notificación de traslado a interesado, acta de incidencia previa, escrito de recurso, resolución cautelar de instancia revisora y acuse de recepción que confirma las dos reproducciones en depósito institucional.
+- **Soporte B (personal):** original de finiquito de Rhal legalmente poseído por Belor, acta y declaración depositadas voluntariamente ante fedataria independiente; el alcance para prensa se limita a constatar su existencia.
+- **Soporte C (ausencia):** dueña de pensión atestigua entrega de llave y salida; cobradora identifica a Belor abordando viaje interurbano de salida de Vael-Tir; no hay noticia corroborada de destino, coacción o desaparición forzada.
+- **Custodia:** el Archivo mantiene contenido reservado con nuevo impedimento provisional de traslado; el depósito de Belor queda fuera de circuito empresarial y de redacción con condiciones de acceso legal. Ninguna de las dos pruebas es una copia ilícita.
+- **Interpretaciones:** documentos aún requieren cotejo material; similitudes antiguas no prueban operación moderna; ausencia puede ser decisión propia o motivada por presión no constatada.
+- **Conocimiento:** Kael e Inara no se transmiten expedientes secretos ni conocen quién modificó el informe del 18.
+- **Pago previsto:** episodios 23 y 29, preservación/rendición de cuentas; el episodio 20 continúa el hilo cartográfico independiente.
+- **Estado:** soportes preservados con límites y testigo fuera de la ciudad, sin atribución del motivo.
