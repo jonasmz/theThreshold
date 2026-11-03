@@ -187,3 +187,24 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden:** después del episodio 18, en dos jornadas de recurso, depósito, publicación y confirmación de ausencia, con horas relativas y sin calendario civil cerrado.
 - **Lugares:** oficina de asistencia administrativa y revisión, Archivo bajo custodia institucional (no visitado para consulta por Kael), redacción, taller de encuadernación, oficina privada de constancias, pensión, terminal de pasajeros.
 - **Fuente:** `temporadas/temporada-01/episodios/19-el-precio-del-silencio.md`; plazos y desplazamientos administrativos a revisar en auditoría del bloque 01–20.
+
+### Kael Veyran — episodio 20
+- **Meta:** establecer si la referencia de doble origen describe un destino verificable, sin violar suspensión.
+- **Decisión:** contrasta bibliografía pública, escucha afirmación extraordinaria de Lyra y pide evidencia externa que pueda fallar. No fusiona expediente disciplinario y pesquisa personal.
+- **Cambio:** amplía el marco de preguntas sin aceptar la explicación como resultado probado.
+- **Costo:** nuevas obligaciones de comprobación y confianza condicionada; sus restricciones laborales y audiencia permanecen.
+- **Qué sabe:** triple soporte de ep. 15, sendero limitado de ep. 17, declaración de Lyra y una hoja privada examinada con consentimiento; no conoce Espejo ni puede fijar destino.
+- **Consecuencia:** iniciar contraste astronómico independiente en episodio 21.
+
+### Lyra Saren — episodio 20
+- **Meta:** elegir cuánto conocimiento compartir sin convertirlo en invitación a un cruce peligroso.
+- **Decisión:** muestra documento de tenencia privada con procedencia parcial y comunica explícitamente existencia de otros Dominios; no ofrece ubicación utilizable ni promesas de acceso.
+- **Cambio:** deja de dirigir a Kael por insinuaciones y le permite decidir qué investigar; mantiene control legítimo sobre fuentes de terceros.
+- **Costo:** mayor exposición personal, reducción de capacidad de retractarse y necesidad de rendir cuentas de lo que afirmó.
+- **Qué sabe:** Tránsito y sus límites; no dispone de conexión validada/energía/operadores para una salida segura ni recuerda íntegramente el episodio de ensayo pasado.
+- **Consecuencia:** su información debe someterse a verificación en 21; dilema operativo en 25.
+
+### Marca cronológica — episodio 20
+- **Orden relativo:** después de 19, en una secuencia de consultas públicas, encuentro en vivienda y visita de Lyra a Ema, antes de inicio del contraste en 21.
+- **Lugares:** Sala Pública de Cartografía, muelle tercero, vivienda de Kael y librería pública; ninguna entrada a sala o camino clausurado.
+- **Fuente:** `temporadas/temporada-01/episodios/20-el-mapa-de-ninguna-parte.md`. Fecha civil y disponibilidad de cartografía a armonizar en auditoría 01–20.

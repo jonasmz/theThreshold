@@ -13,14 +13,16 @@
 | 16 | Borrador 0.1 (4.296 palabras) | Integrado en `main` desde [PR #33](https://github.com/jonasmz/theThreshold/pull/33) | Control editorial individual y registros de continuidad; revisión global y lectura cronometrada pendientes |
 | 17 | Borrador 0.1 (4.464 palabras) | Integrado en `main` desde [PR #35](https://github.com/jonasmz/theThreshold/pull/35) | Control editorial individual y registros de continuidad; revisión global y lectura cronometrada pendientes |
 | 18 | Borrador 0.1 (4.880 palabras) | Integrado en `main` desde [PR #37](https://github.com/jonasmz/theThreshold/pull/37) | Control editorial individual y registros de continuidad; revisión global y lectura cronometrada pendientes |
-| 19 | Borrador 0.1 (4.563 palabras) | [PR #39](https://github.com/jonasmz/theThreshold/pull/39) abierto como borrador, sin merge | Control editorial individual y registros de continuidad; revisión global y lectura cronometrada pendientes |
-| 20–30 | No escritos | — | — |
+| 19 | Borrador 0.1 (4.563 palabras) | Integrado en `main` desde [PR #39](https://github.com/jonasmz/theThreshold/pull/39) | Control editorial individual; revisión global y lectura cronometrada pendientes |
+| 20 | Borrador 0.1 (4.312 palabras) | [PR #41](https://github.com/jonasmz/theThreshold/pull/41) abierto como borrador, sin merge | Control editorial individual; auditoría de bloque 01–20 y lectura cronometrada pendientes |
+| 21–30 | No escritos | — | — |
 
 ## Hitos
 - [x] Biblia, sinopsis integral, mapa de 30 episodios.
-- [x] Primeros dieciocho borradores integrados.
+- [x] Primeros diecinueve borradores integrados.
 - [x] Confirmado el merge de [PR #16](https://github.com/jonasmz/theThreshold/pull/16).
-- [ ] Episodios 11–20 escritos e integrados.
+- [x] Borradores 11–20 escritos (episodio 20 aún pendiente de integración).
+- [ ] Episodios 11–20 integrados en `main`.
 - [ ] Auditoría de segundo bloque (01–20) al cerrar episodio 20.
 - [ ] Episodios 21–30 escritos e integrados.
 - [ ] Auditoría global 01–30 y correcciones.
@@ -34,5 +36,5 @@ Agregar una fila o actualizar el bloque con número, estado **borrador / PR abie
 - Duraciones de episodios no cronometradas.
 - Varias escenas de investigación documental en episodios 06–10: diversificar dramaturgia en segundo bloque.
 - Nombres, topónimos, porcentajes y fechas de trabajo no son canon automáticamente.
-- PR #16, #18, #25, #27, #29, #31, #33, #35 y #37 fusionados; PR #39 (episodio 19) abierto como borrador, pendiente de revisión y merge autorizado.
+- PR #16, #18, #25, #27, #29, #31, #33, #35, #37 y #39 fusionados; PR #41 (episodio 20) abierto como borrador, pendiente de revisión y merge autorizado.
 - Existe material secreto de autor en GitHub **público**: no es confidencial.

@@ -138,3 +138,14 @@ Cada nueva entrada debe incluir:
 - **Pagos previstos:** material custodiado puede cotejarse en eps. 23 y 29 **solo con habilitación**; la ausencia del testigo afecta capacidad de ratificación.
 - **Fuente:** `temporadas/temporada-01/episodios/19-el-precio-del-silencio.md`, borrador.
 - **Riesgos:** distinguir metadatos bajo revisión de contenido protegido; no permitir acceso informal de Inara a pruebas judiciales, ni inferir causalidad entre salida de testigo y actividad de Concilio.
+
+### C-21 — Dos marcos y revelación verbal (episodio 20)
+- **Origen:** epis. 07, 15 y 17; cotejo personal y hoja de trabajo privada en episodio 20.
+- **Hecho observado:** Kael consulta reproducciones públicas, una errata y reglas de doble origen; demuestra por qué una proyección territorial sin segundo marco genera posiciones arbitrarias. Lyra permite examinar ante ella una hoja privada con estructura de salida/llegada y campo de orientación celeste, de procedencia incompleta.
+- **Declaración clave del personaje:** Lyra afirma ante Kael que existen otros Dominios y que ciertas rutas podrían conectarlos. **Es testimonio directo para Kael, no comprobación independiente del sistema cosmológico.**
+- **Lo que queda abierto:** autenticidad/procedencia de la hoja, identidad de destino, época de referencia, condiciones actuales del Umbral, existencia de Anclaje seguro, energía, operadores y vínculo con caso penal/red.
+- **Conocimiento:** Kael sabe la afirmación y exige contraste externo; no conoce Espejo ni adquiere permisos. Lyra conoce operaciones y sus limitaciones mnémicas, pero no recuerda la etapa faltante ni recupera memoria de forma espontánea.
+- **Continuidad física:** sendero municipal del episodio 17 está temporalmente cerrado por daño/obra; no se atraviesa. Sector del episodio 18 es otro recinto; no se cruzan cadenas institucionales.
+- **Consecuencia:** episodio 21 debe investigar observaciones celestes con fuente pública, equivalencia temporal y alternativas, sin aceptar la hoja privada como prueba autónoma. La relación entre Kael y Lyra pasa a cooperación bajo prueba exigente.
+- **Estado/fuente:** borrador `temporadas/temporada-01/episodios/20-el-mapa-de-ninguna-parte.md`.
+- **Riesgo:** no declarar la existencia de otros Dominios como conocimiento **demostrado a Kael** hasta su contrastación, ni permitir tránsito clase V antes del 25.
