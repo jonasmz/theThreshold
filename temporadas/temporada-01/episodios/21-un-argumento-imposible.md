@@ -267,7 +267,7 @@ Irena, que acababa de llegar, respondió antes que Kael.
 
 Kael hizo que el ayudante retirara de la esfera las señales que se apoyaban en cifras ilegibles.
 
-Quedaron cuatro distancias entre cinco puntos.
+Quedaron ocho separaciones cruzadas entre los cinco puntos, suficientes para exigir una configuración concreta dentro de los márgenes consignados.
 
 No bastaba para asignar un lugar.
 
