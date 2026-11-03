@@ -383,11 +383,11 @@ Kael había leído referencias históricas al término, aunque muchos manuales p
 
 —He trabajado cerca de instalaciones de ese tipo y conozco los controles. No puedo demostrarle aquí cada trayecto que figura en mis notas. Hay periodos de mi vida cuya secuencia no consigo reconstruir sin documentos que ya no tengo.
 
-—¿Es por eso que busca una Impronta?
+—¿Hay un registro anterior que permita reconstruir esa etapa? —preguntó Kael.
 
-Lyra lo miró con sorpresa. Había hablado delante de él de piezas de calibración y de registros rechazados, no de su búsqueda completa. Tal vez Orven había mencionado el tipo de soporte, o quizá la categoría aparecía en alguna de sus anotaciones.
+Lyra miró la hoja. Hasta entonces le había hablado de calibradores y rutas, nunca de la búsqueda que la había llevado hasta el puerto.
 
-—Busco un registro que pueda decirme qué ocurrió durante una operación —respondió—. No una máquina que me devuelva intactos los recuerdos.
+—Busco una Impronta que pudo registrar parte de esa operación —respondió—. No una máquina que me devuelva intactos los recuerdos.
 
 —¿Y qué sabe con certeza?
 
