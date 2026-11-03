@@ -128,3 +128,13 @@ Cada nueva entrada debe incluir:
 - **Consecuencia:** conflicto entre asientos, recuperación de margen a ritmo limitado, acceso de investigación supervisado; pagar en eps. 19, 24 y 28.
 - **Estado/fuente:** evidencia preliminar formalizada en borrador `temporadas/temporada-01/episodios/18-la-sala-clausurada.md`; autoría y causalidad definitiva abiertas.
 - **Riesgo:** no confundir alteración constatada con falsificación penal acreditada, ni daño localizado con falla mundial de red.
+
+### C-20 — Preservación de copias y testigo fuera de la ciudad (episodio 19)
+- **Origen:** episodio 13 (custodia y suspensión de Kael), 05/11 (Belor e Inara), 19 (acciones legales y partida).
+- **Hechos documentados:** Kael obtiene medida provisional para mantener localizables las dos reproducciones **en el Archivo** bajo control de instancia revisora, sin mover contenidos protegidos. Inara facilita depósito voluntario de comprobante laboral personal y declaración de Belor ante fedataria independiente; el material no se transfiere al periódico ni se publica sin autorización.
+- **Conocimiento:** Kael conoce resolución y acuses **de su procedimiento**, no el fondo reservado; Inara conoce la existencia y alcance permitido del depósito, no puede usar libremente testimonio. No adquieren datos técnicos del anexo del ep. 18.
+- **Consecuencia humana:** la dueña de pensión confirma salida de Belor de su cuarto y una cobradora que lo conocía lo observó tomar un coche interurbano que salió de Vael-Tir; destino y motivos no establecidos. Ausencia real, no secuestro probado.
+- **Estado legal y profesional:** Kael continúa suspendido y sujeto a audiencia. La protección cautelar no equivale a absolución, ni el depósito privado a autenticidad científica total.
+- **Pagos previstos:** material custodiado puede cotejarse en eps. 23 y 29 **solo con habilitación**; la ausencia del testigo afecta capacidad de ratificación.
+- **Fuente:** `temporadas/temporada-01/episodios/19-el-precio-del-silencio.md`, borrador.
+- **Riesgos:** distinguir metadatos bajo revisión de contenido protegido; no permitir acceso informal de Inara a pruebas judiciales, ni inferir causalidad entre salida de testigo y actividad de Concilio.
