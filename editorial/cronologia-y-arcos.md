@@ -208,3 +208,17 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden relativo:** después de 19, en una secuencia de consultas públicas, encuentro en vivienda y visita de Lyra a Ema, antes de inicio del contraste en 21.
 - **Lugares:** Sala Pública de Cartografía, muelle tercero, vivienda de Kael y librería pública; ninguna entrada a sala o camino clausurado.
 - **Fuente:** `temporadas/temporada-01/episodios/20-el-mapa-de-ninguna-parte.md`. Fecha civil y disponibilidad de cartografía a armonizar en auditoría 01–20.
+
+### Kael Veyran — episodio 21
+- **Meta:** contrastar de manera adversarial la descripción celeste de una hoja privada que contradice cartografía de Eryndor.
+- **Decisión:** consulta atlas públicos, obtiene transcripción limitada y consentida de Lyra, verifica alternativas con Irena y conserva resultado académico con reservas. No activa tecnología ni revela identidades.
+- **Cambio:** de pregunta basada en testimonio (20) a evidencia comparativa reproducible con restricciones; se abre una exigencia de atribuir la observación a un autor real.
+- **Costo:** tasas, horas, cansancio y simultaneidad con defensa disciplinaria. Dalia logra que corrija una secuencia de hechos en su propia causa.
+- **Qué sabe:** no coincidencia entre figura y cielo de Eryndor catalogado bajo supuestos explícitos; no conoce autor de hoja, destino real, Umbral activo ni su origen artificial.
+- **Qué cree:** explicación de Lyra resulta plausible, todavía necesita prueba material; no la presenta como hecho público demostrado.
+- **Consecuencia:** arco de validación física y cooperación bajo límites (25–27); no interferir con investigación jurídica de Daren (22).
+
+### Marca cronológica — episodio 21
+- **Orden:** después del 20 y antes del 22; consultas en Escuela de Navegación y muelle durante varias jornadas ordinarias; reunión con Dalia antes de audiencia pendiente.
+- **Lugares:** librería y escuela públicas, muelle tercero, despacho de asesoría disciplinaria, vivienda de Kael. No se visita fondo reservado, Anexo Occidental ni galería penal.
+- **Fuente:** `temporadas/temporada-01/episodios/21-un-argumento-imposible.md`; auditoría 01–20 y calendario civil exacto pendientes.
