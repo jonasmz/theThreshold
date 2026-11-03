@@ -149,3 +149,15 @@ Cada nueva entrada debe incluir:
 - **Consecuencia:** episodio 21 debe investigar observaciones celestes con fuente pública, equivalencia temporal y alternativas, sin aceptar la hoja privada como prueba autónoma. La relación entre Kael y Lyra pasa a cooperación bajo prueba exigente.
 - **Estado/fuente:** borrador `temporadas/temporada-01/episodios/20-el-mapa-de-ninguna-parte.md`.
 - **Riesgo:** no declarar la existencia de otros Dominios como conocimiento **demostrado a Kael** hasta su contrastación, ni permitir tránsito clase V antes del 25.
+
+### C-22 — Comparación astronómica de fuentes abiertas (episodio 21)
+- **Origen:** ep. 20, declaración de Lyra y hoja de origen incompleto; ep. 21, transcripción consensuada y contraste de navegación.
+- **Hecho sustentado:** esquema reducido de cinco luces con ocho relaciones cruzadas, transcrito a vista de Lyra, es geométricamente consistente bajo interpretación definida pero no halla campo equivalente en el atlas público de Eryndor, cuadernos independientes de expediciones y revisión de la Escuela de Navegación dentro de épocas y tolerancias cubiertas.
+- **Autoridad/soporte:** Irena Dalce emite nota académica reproducible con fuentes, supuestos y exclusiones; **no autentica** la hoja de Lyra ni confirma otro Dominio por sí sola. El documento original permanece con Lyra; Kael conserva esquema limitado consentido y nota de consulta.
+- **Alternativas:** transcripción no fiel, simulación deliberada, error de origen/calendario/familia de observación o época no cubierta; latitud y giro por sí solos no explican relaciones angulares distintas.
+- **Personajes:** Kael recibe evidencia independiente del testimonio personal, aumenta confianza condicionada y exige prueba física ulterior. Lyra no revela ubicación utilizable ni nombres de contactos.
+- **Competencia:** consultas civiles pagadas; Kael continúa suspendido y con audiencia pendiente, copias institucionales aún preservadas en Archivo (ep. 19). Daren y Maelor no reciben esta prueba por arte narrativo.
+- **Continuidad de rutas:** camino del 17 sigue cerrado por obras, anexo del 18 y sector penal del 16 no se identifican con el documento celeste.
+- **Consecuencia:** observación no atribuible al cielo conocido exige preguntar quién la registró (posterior investigación); no satisface condiciones operativas de Tránsito para eps. 25–27.
+- **Estado/fuente:** borrador `temporadas/temporada-01/episodios/21-un-argumento-imposible.md`, con revisión técnica de astronomía y auditoría transversal 01–20 pendientes.
+- **Riesgo:** no describir como demostración universal imposible para todo tiempo ni prueba suficiente de existencia/ubicación de Umbral.

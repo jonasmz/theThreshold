@@ -151,3 +151,14 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Custodia:** material histórico público permanece en bibliotecas; hoja personal permanece con Lyra; no hay filtración de Archivo, causa judicial o auditoría de Maelor.
 - **Pago previsto:** episodio 21 (contraste técnico de referencia celeste), 25–27 (prueba/operación material bajo requisitos estrictos); no comprobar Tránsito mediante aparato de bolsillo en 20.
 - **Estado:** declaración cosmológica explícita, evidencia independiente pendiente y revelación pública **no** realizada.
+
+### P-18 — Campo celeste sin correspondencia en Eryndor (episodio 21)
+- **Siembra:** triple patrón material (ep. 15), documento de dos extremos y afirmación de Lyra (20).
+- **Soporte privado:** transcripción parcial consentida de campo celeste con cinco puntos y ocho separaciones, conservada por Kael con validación de lectura hecha por Lyra; hoja de origen incompleto permanece en custodia de ella.
+- **Soportes independientes:** atlas público de Navegación, cuadernos publicados de expediciones norte/sur, índice posterior de campos brillantes y nota firmada por docente Irena Dalce que describe supuestos y pruebas adversas.
+- **Hecho probado condicional:** figura internamente consistente bajo la lectura que sobrevive ensayos, pero sin correspondencia en las observaciones de Eryndor dentro de cobertura, magnitudes, fechas y tolerancias documentadas.
+- **Hipótesis privilegiada por personajes:** la descripción puede provenir de un firmamento externo al catálogo de Eryndor, compatible con declaración de Lyra. **No** prueba origen de hoja, observador, época remota, otro Dominio físico ni ruta utilizable.
+- **Explicaciones que permanecen:** simulación/fabricación, error de transcripción, convención óptica o calendario ausente, fuentes fuera de cobertura histórica; la latitud e inversión ordinarias se prueban y no bastan por sí mismas.
+- **Custodia y conocimiento:** Kael conserva esquema reducido autorizado y nota de consulta, no hoja ni sellos protegidos; Irena no sabe el relato de Tránsito y no autoriza acceso a Anclaje. Daren/Inara/Maelor no participan de la comparación.
+- **Pago previsto:** exploración de infraestructura material por línea jurídica independiente (22); operación clase V solo en 25–27 con condiciones; cierre de continuidad en 30.
+- **Estado:** pista fortalecida por corroboración pública, prueba material final y autenticidad de fuente original pendientes.
