@@ -140,3 +140,14 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Conocimiento:** Kael e Inara no se transmiten expedientes secretos ni conocen quién modificó el informe del 18.
 - **Pago previsto:** episodios 23 y 29, preservación/rendición de cuentas; el episodio 20 continúa el hilo cartográfico independiente.
 - **Estado:** soportes preservados con límites y testigo fuera de la ciudad, sin atribución del motivo.
+
+### P-17 — Marco faltante y afirmación de otros Dominios (episodio 20)
+- **Siembra:** placa con marca antigua de Lyra (ep. 07), tabla de alineación no convertible y triple soporte (15), camino público limitado y cerrado por obras (17).
+- **Soportes:** concordancias públicas y erratas de Topografía, notas de Kael, hoja de trabajo privada mostrada a su vista por Lyra con origen de salida/llegada y campo celeste incompleto; no se extrae ni reproduce contra voluntad de su poseedora.
+- **Resultado verificable:** una transformación sin segundo origen no determina un punto territorial; la hoja privada sugiere una interpretación como ruta entre dos marcos, sin validar destino físico.
+- **Testimonio de Lyra:** conoce que hay otros Dominios y condiciones generales de Tránsito; se lo comunica explícitamente a Kael. Esta información **no es por sí sola una prueba pública ni material**.
+- **Kael sabe/cree:** admite la declaración como hipótesis nueva; insiste en una comparación astronómica independientemente reproducible.
+- **Alternativas a descartar:** dato de taller, error de traducción, escala o fecha, copia de otra fuente, interpretación metafórica del material, observación de otro lugar de Eryndor.
+- **Custodia:** material histórico público permanece en bibliotecas; hoja personal permanece con Lyra; no hay filtración de Archivo, causa judicial o auditoría de Maelor.
+- **Pago previsto:** episodio 21 (contraste técnico de referencia celeste), 25–27 (prueba/operación material bajo requisitos estrictos); no comprobar Tránsito mediante aparato de bolsillo en 20.
+- **Estado:** declaración cosmológica explícita, evidencia independiente pendiente y revelación pública **no** realizada.
