@@ -63,7 +63,7 @@ El viaje hasta el Anexo Occidental les llevó casi toda la mañana.
 
 El carro oficial avanzó entre depósitos y calles donde los talleres habían cerrado sus compuertas para ajustarse a las nuevas restricciones. Maelor vio a un hombre de brazos ennegrecidos por la grasa discutiendo con una supervisora frente a una fábrica. Ella sostenía una hoja de turnos; él señalaba el edificio apagado detrás de la verja.
 
-Los informes distinguían megacargas y márgenes de estabilidad. Nadie podía pagar el alquiler con un margen.
+Los informes distinguían cargas y márgenes de estabilidad. Nadie podía pagar el alquiler con un margen.
 
 Talia iba sentada frente a él, repasando el parte del operador.
 
