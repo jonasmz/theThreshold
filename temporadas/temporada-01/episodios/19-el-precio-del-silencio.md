@@ -477,7 +477,7 @@ No iba a entrar a otra sala por la puerta equivocada.
 
 En la calle, un vendedor anunciaba la edición del periódico que Inara acababa de cerrar. Kael compró un ejemplar para leerlo en el tranvía.
 
-Encontró una noticia sobre trazabilidad de suministros municipales, redactada con cuidado. No conocía a la periodista. Reconoció, sin embargo, la diferencia entre presentar una anomalía y decidir su explicación.
+Encontró una noticia sobre trazabilidad de suministros municipales, redactada con cuidado. No conocía personalmente a la periodista. Reconoció, sin embargo, la diferencia entre presentar una anomalía y decidir su explicación.
 
 Guardó el diario junto a su citación.
 
