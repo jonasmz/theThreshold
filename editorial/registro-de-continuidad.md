@@ -184,3 +184,15 @@ Cada nueva entrada debe incluir:
 - **Costo:** Vera se responsabiliza de haber guardado la prueba y de demorar declaración; el propósito reformista no excusa daño a terceros; Inara renuncia a publicación prematura; Kael sostiene audiencia sin restitución.
 - **Pago previsto:** episodio 29 pericia de autoría, cotejo con instalación/forense y cadena del cadáver; episodio 24 mantiene negociación institucional independiente.
 - **Fuente:** `temporadas/temporada-01/episodios/23-los-que-quisieron-denunciar.md`, `23-control-editorial.md`. Revisión global pendiente.
+
+### C-25 — Reducción escalonada de nodo y acuerdo civil acotado (episodio 24)
+- **Antecedentes:** episodios 08 (Maelor, Neris Daal, competencias de red), 12 (no conformidad de Estación Sur) y 18 (Anexo Occidental, banco clausurado, disipación residual y auditoría sobre doble versión de informe). Episodio 24 **no** identifica estos recintos entre sí.
+- **Hecho material:** en nodo occidental bajo contención, la prueba clausurada permanece aislada; el margen reducido no se recuperó con régimen anterior y nuevos ciclos de demanda externa dejan tensión residual. Talia formula reducción escalonada de entrega externa mientras se preservan potencia y disipación indispensables.
+- **Actos y cadena:** lecturas conservadas por Energía y jefatura de turno, plan técnico firmado por Talia, orden de contención emitida por Maelor, restricciones de Licencias registradas por Elian, prioridad civil suscrita por Dirección municipal de Servicios y conformidad del Consejo Cívico por Neris Daal, cuya negociación tiene mandato acotado.
+- **Ejecución verificada:** primer escalón aplicado al relevo por Ilse con registros, servicios municipales de agua/salud priorizados y respaldo convencional; disminuye inicialmente la tensión, **sin** normalización ni reparación demostrada. Siguientes escalones sujetos a lecturas y criterios de parada.
+- **Costo:** turnos industriales reducidos, combustible y personal de bombas, fabricación demorada, presupuesto temporal y conflicto político. No hay indemnización universal por decreto.
+- **Información/jurisdicción:** municipio ve demanda y límites necesarios para continuidad, no mapas o programas restringidos; Maelor conoce Tránsito/Espejo de modo fragmentario, pero ignora ejecutores de la prueba del Anexo. Se mantiene auditoría del informe alterado.
+- **Conexiones prohibidas:** no identificar nodo occidental con puerta histórica del ep. 22, parcela E-0 del 10 o camino del 17; no transmitir informes de la fiscalía del 23 a Custodia sin cauce formal.
+- **Pago:** efecto económico y maniobra técnica posterior 25–28, estabilización aún pendiente, eventual responsabilidad institucional y decisiones de suministro.
+- **Fuente:** `temporadas/temporada-01/episodios/24-un-pacto-incomodo.md` y `24-control-editorial.md`, borradores sujetos a auditoría global.
+- **Riesgo:** no confundir reducción de carga enviada al sector con corte de contención, ni una curva favorable inicial con restitución de margen.
