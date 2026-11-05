@@ -161,3 +161,15 @@ Cada nueva entrada debe incluir:
 - **Consecuencia:** observación no atribuible al cielo conocido exige preguntar quién la registró (posterior investigación); no satisface condiciones operativas de Tránsito para eps. 25–27.
 - **Estado/fuente:** borrador `temporadas/temporada-01/episodios/21-un-argumento-imposible.md`, con revisión técnica de astronomía y auditoría transversal 01–20 pendientes.
 - **Riesgo:** no describir como demostración universal imposible para todo tiempo ni prueba suficiente de existencia/ubicación de Umbral.
+
+### C-23 — Galería municipal inspeccionada y acceso posterior a reparación (episodio 22)
+- **Antecedentes:** puerta bajo escalera, riel/bandeja y orden judicial acotada (04, 16); trámite estructural pendiente (16).
+- **Hallazgo verificable:** inspección en tramo municipal seguro conforme al informe de Elia y nueva orden judicial. Existe rebaje de guía geométricamente compatible con transporte de cargas y acceso hasta una puerta antigua de competencia aún por identificar. No se abre más allá del límite.
+- **Cronología probatoria:** obra de drenaje aplicada después de la ceremonia; marcas de fricción están sobre mortero; libro del Servicio de Agua registra ingreso extraordinario posterior. No está probado que los visitantes causaran las marcas, ni qué objeto las produjo.
+- **Fuentes/custodia:** mediciones y fotografías de Odel, informe de Elia, libros originales de Agua y Obras consultados bajo acta, copias certificadas de órdenes y traspaso, nueva resolución judicial.
+- **Infraestructura:** plano histórico indica dependencia de compensación transferida a organismo supranacional; no se declara Anclaje ni su actividad. La parcela E-0 de ep. 10 y el Anexo Occidental de ep. 18 siguen distintos, sin conexión demostrada.
+- **Seguridad:** se interrumpe inspección al subir nivel de agua; se confirma maniobra ordinaria, no sabotaje. Bomba municipal continúa operativa con evidencia protegida de forma reversible.
+- **Conocimiento:** Daren conoce posibilidades materiales y autoría pendiente, no destino ni condición actual de Taren; Kael/Lyra/Inara/Maelor no reciben este expediente por casualidad.
+- **Consecuencia:** investigar quién autorizó ingreso extraordinario y quién mantiene la dependencia transferida en eps. 23/29 mediante cauces judiciales, no por acceso libre.
+- **Fuente:** `temporadas/temporada-01/episodios/22-galerias-bajo-vael-tir.md` (borrador), control `22-control-editorial.md`.
+- **Pendientes:** planta/tiempos, cotejo con contratista y causalidad de marcas; revisión global y sonido.

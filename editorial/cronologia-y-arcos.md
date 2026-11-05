@@ -222,3 +222,16 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden:** después del 20 y antes del 22; consultas en Escuela de Navegación y muelle durante varias jornadas ordinarias; reunión con Dalia antes de audiencia pendiente.
 - **Lugares:** librería y escuela públicas, muelle tercero, despacho de asesoría disciplinaria, vivienda de Kael. No se visita fondo reservado, Anexo Occidental ni galería penal.
 - **Fuente:** `temporadas/temporada-01/episodios/21-un-argumento-imposible.md`; auditoría 01–20 y calendario civil exacto pendientes.
+
+### Daren Holt — episodio 22
+- **Meta:** comprobar qué existe tras el acceso inferior de la cámara y construir cadena pericial sin convertir una hipótesis en sentencia.
+- **Presión / decisión:** estudio de estructura limita avance; la encargada de Agua puede suspender por caudal; Daren sale cuando corresponde y obtiene custodia reversible que no sacrifica drenaje urbano.
+- **Cambio desde ep. 16:** confirma un tramo físico examinado y una frontera histórica administrativa; obtiene cronología reciente de marcas sobre mortero e ingreso extraordinario después de la reparación, sin atribuir a la misma persona ambos hechos.
+- **Costo:** tiempo, personal especializado, tasas y mantenimiento de protecciones; frontera jurídica bloquea entrada a dependencia transferida.
+- **Qué sabe:** combinación de ruta parcial, planos, marcas y orden de ingreso; desconoce quién autorizó servicio, qué se movió, qué hay tras puerta y dónde está Taren.
+- **Consecuencia:** peticiones al organismo competente, continuidad del caso penal y preservación de pruebas para 23/29.
+
+### Marca cronológica — episodio 22
+- **Orden:** después del informe del 16, transcurridos varios días para estudio estructural y nueva autorización; inspección y medidas en una jornada, consulta de libros y audiencia judicial a continuación, sin fecha civil explícita.
+- **Lugares:** tribunal municipal, plaza y galería de drenaje municipal, puesto de Servicio de Agua, Obras Públicas; no se accede a Anexo Occidental (18), parcela E-0 (10) ni sendero público cerrado (17).
+- **Fuente:** `temporadas/temporada-01/episodios/22-galerias-bajo-vael-tir.md`; cronometraje y distancias por comprobar en auditoría transversal.
