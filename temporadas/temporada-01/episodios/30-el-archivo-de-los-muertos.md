@@ -153,6 +153,56 @@ Necesitaba su nombre, su firma y la disposición a esperar una respuesta que pod
 
 ***
 
+Daren Holt estaba solo en el café cuando Kael lo encontró junto a la ventana.
+
+Tenía una taza vacía y un ejemplar del periódico doblado por la mitad. Al ver a Kael, apartó una silla con el pie.
+
+—No sé si felicitarte por la resolución del Archivo o preguntarte qué problema encontraste ahora.
+
+—No he venido a traer una denuncia.
+
+—Entonces sentate antes de que cambies de opinión.
+
+Kael se sentó. Habían pasado meses comparando registros, pero nunca habían tenido tanto cuidado con aquello que no podían compartir.
+
+—Leí la resolución pública del tribunal —dijo Kael—. No necesito conocer las actuaciones reservadas.
+
+—Y yo no necesito los documentos del Archivo que todavía estén protegidos. Tal vez hayamos aprendido algo.
+
+—Que no podemos resolver todo por teléfono.
+
+Daren soltó una risa breve.
+
+Un carro pasó por la calle. La carga golpeó dos veces contra la madera y el conductor llamó a su ayudante para que ajustara una correa. Kael observó el trabajo sin dejar de escuchar.
+
+—¿Considerás terminada la investigación? —preguntó.
+
+—Una parte tiene una respuesta que puedo sostener ante un juez. Otras preguntas siguen abiertas. Hay personas que merecen saber qué ocurrió, incluso cuando la respuesta no le conviene a ninguna institución.
+
+Kael miró la portada.
+
+—Pensaba que encontrar un documento correcto acababa con la discusión.
+
+—Yo pensaba que encontrar una puerta bastaba para saber adónde llegaba.
+
+Se quedaron callados.
+
+Daren pidió otra taza y pagó ambas antes de que Kael pudiera ofrecerse.
+
+—¿Vas a volver al Archivo?
+
+—Quizá. Pero quiero hacerlo de una manera distinta.
+
+—Entonces no dejes que te convenzan de que una rectificación es lo mismo que borrar el error.
+
+Kael asintió.
+
+Cuando se despidieron, Daren le estrechó el antebrazo. No hubo promesas de intercambiar expedientes ni de resolver el caso en una semana.
+
+Era, pensó Kael mientras salía, la forma más honesta de amistad que habían encontrado.
+
+***
+
 La fila frente a la Dirección municipal de Servicios alcanzaba la esquina.
 
 Kael había ido a recoger una constancia pública de horarios de suministro para ayudar a Ema a reorganizar una entrega al refugio de Ribera Alta. No tenía relación con su nuevo trámite. Precisamente por eso había decidido hacerlo: no todas las tareas debían conducir a una carpeta misteriosa.
