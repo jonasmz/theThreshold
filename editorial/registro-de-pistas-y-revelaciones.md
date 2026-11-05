@@ -162,3 +162,13 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Custodia y conocimiento:** Kael conserva esquema reducido autorizado y nota de consulta, no hoja ni sellos protegidos; Irena no sabe el relato de Tránsito y no autoriza acceso a Anclaje. Daren/Inara/Maelor no participan de la comparación.
 - **Pago previsto:** exploración de infraestructura material por línea jurídica independiente (22); operación clase V solo en 25–27 con condiciones; cierre de continuidad en 30.
 - **Estado:** pista fortalecida por corroboración pública, prueba material final y autenticidad de fuente original pendientes.
+
+### P-19 — Guía bajo plaza, marcas sobre mortero y autorización de servicio (episodio 22)
+- **Siembra:** dispositivo de ejecución con bandeja y salida lateral (04), testimonios/estudio geométrico (16), infraestructura histórica y órdenes de servicio de distinto origen (10/14).
+- **Soportes:** informe estructural y autorización judicial adicional; fotos y medidas de Odel, mortero fechado por libro municipal original, ingreso extraordinario posterior en registro de Agua, planos públicos y acta de transferencia parcial a organismo supranacional.
+- **Hecho:** continuidad geométrica parcial entre cámara y galería de Agua; fricción sobre reparación posterior a ejecución; un ingreso extraordinario se registró después de obra. La puerta final no se abre, y su interior no se conoce.
+- **Custodia:** fotos con escala y acta, libros originales permanecen en servicios municipales; tribunal recibe copias certificadas, no originals sin orden. Acceso de mantenimiento permanece disponible bajo control.
+- **Alternativas:** transporte ordinario sin registrar en parte específico, equipo de reparación diferente, vieja guía reutilizada, ingreso legítimo de dependencia compartida; no probada autoría ni finalidad criminal.
+- **Conocimiento de Daren:** ruta parcial y frontera de competencia; no ve Tránsito, ni identifica Anclaje, ni prueba vida actual/destino de Taren.
+- **Pagos previstos:** localizar autorización y operadores en 23, documentación y atribución de la causa en 29; el esquema astronómico de Kael (21) permanece investigación distinta.
+- **Estado:** prueba material y documental parcial, frontera no abierta; revisión técnica/jurídica futura.
