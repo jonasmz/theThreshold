@@ -374,3 +374,23 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Lugares:** juzgado, taller de maqueta, oficina de Contralor y taller de Sera, oficina de constancias, pasillo y vestíbulo antiguo junto a plaza, redacción, depósito médico. No se accede a Anexo Occidental, Selivar, estación del ribazo norte ni un Anclaje.
 - **Soportes:** notas municipales, acoplamiento bajo sello, originales y fichas de dependencia supranacional, plan anterior bajo constancia, partes médicos del tribunal, versión pública expurgada y descargos comerciales.
 - **Fuente:** `temporadas/temporada-01/episodios/29-cadena-de-custodia.md`, `29-control-editorial.md`; plan métrico de cámara, horas y competencia de custodia sujetos a auditoría integral.
+
+### Kael Veyran — episodio 30
+- **Meta:** recuperar lugar posible en su profesión, conservar la evidencia sin incumplir la ley y resolver qué significa una fuente desconocida incorporada a su ficha laboral.
+- **Decisión:** reconoce omisión sancionada; no solicita credencial reservada ni copia de dos reproducciones; entra a Personal como interesado, registra solicitud independiente y pide cotejo específico antes de interpretar una referencia de origen.
+- **Cambio desde 01/13/23/28:** deja de confiar en imparcialidad automática del asiento oficial y tampoco lo desecha por sospecha; exige autor, fecha, competencia, procedencia y explicación de límites. Sostiene amistad con Daren sin intercambiar expedientes.
+- **Costo:** sanción real y trayecto profesional por decidir; pérdida mnémica del 26/27 sigue sin reparación. Impronta del 28 y carta doméstica tienen valor humano, no científico universal.
+- **Qué sabe:** hechos de su propio historial y resolución; existencia de serie Índice Espejo y coincidencia exacta de **clave temporal** con partida natal. Ignora finalidad, identidad de titulares, vínculos con ensayo humano del 29 y su propia verdad artificial.
+- **Consecuencia:** solicitud delimitada de contraste personal; pregunta de continuidad para siguientes temporadas, sin desenlace biológico en 30.
+
+### Daren, Inara, Lyra, Maelor — situación al cierre de T1
+- **Daren:** continúa causa penal y búsqueda de Taren sin declarar que esté vivo en presente ni revelar anexos a Kael; comparte solo versión pública, con respeto humano.
+- **Inara:** mantiene publicación sustentada exclusivamente por resolución pública y Contralor; no conoce ensayo humano restringido ni origen de Kael.
+- **Lyra:** recuerda obligaciones presentes, no recupera momento de promesa ni ensayo histórico; respeta salud y contratos reales, trabaja con Ema por logística lícita.
+- **Maelor:** sin escena POV nueva; decisiones del 28 siguen provisionales, contención limitada y obligación pública de explicar costes. No hay reparación total ni reapertura general de rutas.
+
+### Marca de cronología — episodio 30
+- **Orden:** después de resolución pública del 29 y estabilización del 28; notificación de expediente disciplinario de Kael, visita a Personal, conversación con Daren y asuntos de servicios, solicitud externa con dos respuestas separadas; primera respuesta tarda nueve días; segunda llega después. No fijar fecha civil absoluta hasta auditoría.
+- **Lugares:** tranvía y centro público de Vael-Tir, despacho de Dalia, sala ordinaria de Personal del Archivo, café, Dirección municipal de Servicios, muelle tercero y hogar de Kael. Ningún ingreso a recinto estratégico o documento clasificado.
+- **Soportes:** resolución y sellos de copia, ficha laboral propia, solicitud de datos y acuses, metadatos liberados por autoridad distinta, partida civil, seguimiento clínico y documentos privados. No se comunican entre personajes soportes sin competencia.
+- **Fuente:** `temporadas/temporada-01/episodios/30-el-archivo-de-los-muertos.md` y control editorial de 30. Auditoría 01–30 pendiente; primer ciclo de 30 borradores **escritos**, no temporada terminada.
