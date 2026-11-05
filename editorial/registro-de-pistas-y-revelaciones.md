@@ -225,3 +225,15 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Custodia:** clínica guarda síntomas sin detalles íntimos de Kael en informe de operación; asociación y regulador guardan bitácoras; no se remiten rutas a prensa, Archivo o fiscalía sin trámite competente.
 - **Pago:** en 28 la autoridad técnica revisará otros suplementos y posible suspensión de ruta, sin usar memoria humana como certificado de corrección universal.
 - **Estado:** retorno demostrado y costo mnémico limitado; seguimiento médico y revisión de manuales pendientes.
+
+### P-25 — Matriz de procedimientos contrastada y ruta suspendida (episodio 28)
+- **Siembra:** informe central alterado frente a bruto (18); retorno bajo carga y primer escalón (24); manuales de órdenes opuestas de un Anclaje en conservación (25), modelo y reparación verificados (26), audiencia solicitada y cierre de permiso tras retorno (27).
+- **Soporte independiente del nodo:** alerta regulatoria firmada tras audiencia con Sena/Kael/Lyra, fotografías de placa y modelo de la instalación del Anexo, inventario técnico y tiras contemporáneas de Ilse/Talia. El aviso identifica **método de cotejo**, no determina que todos los nodos estén averiados.
+- **Hecho del Anexo:** manual de secuencia citado en mantenimiento corresponde a retorno independiente, mientras equipo local posee retorno común; se verifica unión fatigada. La secuencia local corregida reduce carga y comprueba retorno antes de alineación, con disipación y personal técnico; estabilidad se mantiene en ventanas observadas bajo régimen restringido.
+- **Causas alternativas abiertas:** historial de sobrecargas, materiales fatigados, solicitudes de regulador de origen no identificado, prueba clandestina anterior. No se asigna autor ni se elimina investigación de manipulación del informe del 18.
+- **Actos:** ruta de las Agujas suspendida por competencia bilateral y programación aislada sin apagar contención; registros de control preservados y afectados derivados por medios convencionales. No es la ruta del ribazo norte del 25/27, que solo había agotado su licencia.
+- **Costo:** atraso de repuestos, pérdidas de turno, combustible y reclamaciones; éxito técnico parcial exige restricciones prolongadas.
+- **Indicios personales:** Impronta doméstica familiar con voz antigua de cuidadora aporta información descriptiva a Kael sin restauración subjetiva; no implica consciencia copiada ni identificación Espejo.
+- **Pago:** las solicitudes no identificadas y las reclamaciones de suministros pueden motivar investigación posterior bajo competencias propias; la causa penal de Daren/Inara necesita pruebas independientes en 29.
+- **Custodia:** matrices/registros técnicos en regulador y Energía, originales del Archivo preservados, Impronta privada con Kael; no se filtran rutas a prensa.
+- **Estado:** cotejo local y contención provisional acreditados, reparación definitiva/autoría/compensación pendientes.
