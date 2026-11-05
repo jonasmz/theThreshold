@@ -5,13 +5,13 @@
 
 ***
 
-The woman waiting outside the newspaper office had not come to buy a copy.
+The woman outside the newspaper office had not come to buy a copy.
 
 Inara Vel watched her from across the street as the delivery boy loaded the last bundle of newspapers. She wore an old coat buttoned to the neck despite the heat and held a folded sheet without looking at the front page. Each time someone opened the newsroom door, she took a step back.
 
-Inara recognized that way of waiting.
+Inara recognized the hesitation.
 
-It was not the behavior of someone who wanted to appear in a story.
+She clearly did not want to appear in a story.
 
 She crossed the street.
 
@@ -125,7 +125,7 @@ He had imagined defending his evidence would be easier once he admitted his own 
 
 Inara met Vera in the entrance hall of a labor-assistance center.
 
-She had not come alone. Levan Oris, a volunteer lawyer for the petitioners' committee, was present and wanted to know what the journalist had offered his former colleague.
+She had company. Levan Oris, a volunteer lawyer for the petitioners' committee, was present and wanted to know what the journalist had offered his former colleague.
 
 “Nothing,” Inara replied. “I don't yet know the contents of what she wants to submit.”
 
@@ -135,13 +135,13 @@ Levan looked at Vera.
 
 “I told you she understands the difference between an allegation and proof,” Vera replied.
 
-The woman seemed more tired than she had that morning. She carried a minute book under one arm and an unfastened folder.
+She seemed more tired than that morning. She carried a minute book under one arm and an unfastened folder.
 
 The assistance center occupied rooms in a former school. In one corridor, a man with a bandaged arm waited; in another, a woman tried to persuade a receptionist to accept a statement omitting her employer's name. Inara understood why Vera had chosen the place. An injury here was not necessarily news. It was a reason to ask for help.
 
 Levan led them into a consultation room.
 
-“Before we discuss documents, I need to clarify what kind of committee Vera belonged to,” he said. “It had no authority to inspect laboratories or interrupt operations. It collected complaints from affected people and referred them through the appropriate channels.”
+“Before we discuss documents, I need to clarify what kind of committee Vera belonged to,” he said. “It could neither inspect laboratories nor interrupt operations. It collected complaints from affected people and referred them through the appropriate channels.”
 
 Vera took out a copy of the municipal submissions index. The page bore a date before the execution and a petition number.
 
@@ -193,7 +193,7 @@ In the corridor, someone dropped a box of instruments and several voices rose at
 
 Vera flinched.
 
-Inara could see this was not a confident informant certain of the value of her knowledge. She was sitting opposite someone who had spent far too long dreading the moment she would open a folder.
+Inara could see this was not a confident informant certain of the value of her knowledge. She faced someone who had long dreaded opening that folder.
 
 ***
 
@@ -223,7 +223,7 @@ Kael checked the seal, paid the fee, and left.
 
 The petition mentioned people in testing. It named no subjects. Nor did it directly mention the execution investigation.
 
-It was a coincidence of time and subject, not yet a causal connection.
+It was coincidence, not yet causation.
 
 He sat on a courtyard bench to take notes.
 
@@ -247,15 +247,15 @@ Vera took Inara to Seris Hal's office for a specific reason.
 
 The document had passed through neither the newsroom nor a municipal desk. Before the execution, Vera and another person had deposited a sealed envelope at the private certification office, with instructions for preservation and opening at the request of the depositor or a competent authority.
 
-Inara recognized the building. She had accompanied Belor Sen there when he decided to preserve his employment settlement. Recognition brought a stab of unease: Belor had left the city, and she still did not know why.
+Inara recognized the building. She had accompanied Belor Sen there to preserve his employment settlement. Recognition brought a stab of unease: Belor had left the city, and she still did not know why.
 
 She did not ask about his deposit. Seris had no right to tell her anything more than she had already confirmed.
 
-The certifying officer received them in a small room with a table visible from the doorway. Levan remained as Vera's adviser.
+The certifying officer received them in a room with a table visible from the doorway. Levan remained as Vera's adviser.
 
 “I've located the reference for your deposit,” Seris said. “Before showing you the envelope, we need to verify your identity and the conditions you signed.”
 
-Vera presented her documents. The officer opened the original ledger and read the entry aloud: a date before the ceremony, the exterior description of an envelope holding several sheets, the depositor's signature, and a seal number. A receipt had been issued at the time. The office also held a second confirmation of intake in its daily closing record.
+Vera presented her documents. The officer opened the original ledger and read the entry aloud: a date before the ceremony, the exterior description of an envelope holding several sheets, the depositor's signature, and a seal number. A receipt had been issued at the time. A second intake confirmation appeared in its daily closing record.
 
 “Can you prove no one substituted the contents?” Inara asked.
 
@@ -309,7 +309,7 @@ Now someone would have to answer for what it said.
 
 The newsroom was crowded when Inara returned.
 
-An advertising salesman was arguing with Joren Mal about space in the next edition. Two apprentices were arranging movable type. The smell of fresh ink reached the stairs and mingled with the soup warming in the kitchen.
+An advertising salesman was arguing with Joren Mal about space in the next edition. Two apprentices were arranging movable type. Fresh ink mingled with soup warming in the kitchen.
 
 Joren noticed the closed folder Inara was carrying and put down his pen.
 
@@ -367,7 +367,7 @@ Joren took a card and wrote down the allotted space.
 
 Inara returned to her desk.
 
-The instruction mattered more because it had not come from her.
+It mattered more coming from someone else.
 
 ***
 
@@ -429,7 +429,7 @@ Vera's voluntary submission was not immediate.
 
 The prosecution service required a written application identifying the person appearing, the confidentiality protection requested, and the relationship between the deposit and the case investigating the ceremony. Levan prepared the request. Seris issued a receipt-and-opening certification so the court could assess the packet's provenance without making the depositor hand it to an employee with no acknowledgment.
 
-Inara did not participate in the legal drafting. She waited on a corridor bench beside a mother trying to persuade her son to stop tapping his shoes against the floor.
+Inara stayed out of the legal drafting. She waited on a corridor bench beside a mother trying to persuade her son to stop tapping his shoes against the floor.
 
 Vera came out of the assistance office with Levan.
 
@@ -465,7 +465,7 @@ Vera took a breath.
 
 “Yes. And explain what I did to preserve it without submitting it earlier.”
 
-The answer brought no relief.
+It brought no relief.
 
 Inara thought of the people harmed by the tests and the person whose body had ended up as part of someone else's ceremony. A movement trying to force institutions to look might have used other people as though they were components.
 
@@ -505,7 +505,7 @@ Kael looked at the form in his hand.
 
 “Because institutions can preserve a flawless record of passing a sheet from one desk to another without ever answering the question it contained.”
 
-The journalist did not smile.
+Inara did not smile.
 
 “That we could publish.”
 
@@ -521,9 +521,9 @@ They parted.
 
 Kael left the sheet at the filing desk with a note explaining only its provenance and possible relevance, without mentioning his disciplinary case or his conversation with Lyra.
 
-He received a stamped acknowledgment.
+He received a stamped receipt.
 
-He did not ask which case it would be assigned to or whether the magistrate investigating the ceremony would read it personally. He knew the receipt guaranteed neither.
+He did not ask which case would receive it or whether the magistrate would read it. He knew the receipt guaranteed neither.
 
 Even so, he had taken an action he could defend.
 
@@ -531,7 +531,7 @@ Even so, he had taken an action he could defend.
 
 Vera's statement began behind a closed door.
 
-Inara remained in the waiting room. She could not hear the questions and had agreed not to try. Beside her, a gray-haired woman folded and unfolded a letter until the crease turned white.
+Inara waited outside. She could not hear the questions and had agreed not to try. Beside her, a gray-haired woman folded and unfolded a letter until the crease turned white.
 
 More than an hour passed.
 
@@ -549,7 +549,7 @@ She looked exhausted. She was not carrying the folder; she had left it where Ser
 
 “They asked me why I waited,” she said.
 
-Inara did not know what to say.
+Inara had no answer.
 
 “I told them I was afraid. And that I thought if the plan stayed in storage, the people who proposed it couldn't deny writing it. Then I saw what happened and didn't want to admit how much I had known beforehand.”
 
@@ -577,7 +577,7 @@ As Vera went down the steps, the journalist asked whether she wanted help findin
 
 Inara watched her disappear among vendors and officials.
 
-She did not know whether they would speak again.
+She did not know if they would speak again.
 
 This time she did not try to follow.
 
