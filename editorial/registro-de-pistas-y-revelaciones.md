@@ -192,3 +192,15 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Custodia y conocimiento:** Energía guarda lecturas; Custodia manda en su ámbito; Dirección municipal de Servicios conoce impacto civil, no secretos ni destino. No se incorpora prueba penal de Vera (23) por analogía.
 - **Consecuencia y pago:** segundo/tercer escalón condicionado, costos operativos y necesidad de supervisión de 25–28; prohibido prometer reparación o desactivar toda contención.
 - **Estado:** orden preventiva y primera maniobra acreditadas, resultado definitivo y atribución de daños pendientes.
+
+### P-22 — Incompatibilidad de secuencia y riesgo de retorno (episodio 25)
+- **Siembra:** órdenes de doble origen y referencia incompleta (15, 20), comparación celeste con reservas (21), técnicas de recuperación del margen y reducción sin apagado (18, 24).
+- **Soporte A:** inventario de conservación de la Asociación de Señaleros del Alto, manual de seguridad y suplemento posterior; textos de secuencia **incompatibles**, firma y ámbitos de aplicación no conciliados.
+- **Soporte B:** prueba de diagnóstico bajo orden de seguridad; acumulador pequeño de taller, dos sensores independientemente alimentados y tira de diferencial de retorno, con interrupción registrada antes de activar banco principal.
+- **Resultado:** lectura física confirma una condición de retorno fuera del margen permitido; no hay prueba de causalidad exacta, fraude de suplemento, conexión natural activa o destino verificado. Cualquier alimentación de clase V podría fisurar soporte y liberar carga; Myra ordena detener por riesgo y no autoriza repetir.
+- **Custodia:** libros e instalación permanecen con Ruva/asociación, acta y registros con Galen/Myra y aviso acotado de seguridad. Kael conserva solo referencias y notas permitidas, no una llave ni acceso a expedientes sellados.
+- **Alternativas:** error de edición, procedimiento de otro modelo, suplemento legítimo sin acta localizada, descalibración o material fatigado. Requiere pericia antes de seleccionar secuencia.
+- **Conocimiento:** Lyra conoce reglas de Tránsito y reconoce riesgo pero no recupera memoria completa; Kael identifica contradicción con método documental, no opera ni atribuye autoría. Otro personaje no puede recibir estas pruebas sin contacto y competencia.
+- **Promesa:** nota y acuse de aviso a Sena Vard sobre tabla de retorno permiten pagar pérdida mnémica de Lyra en 27 sin que desaparezcan soportes.
+- **Pago previsto:** 26 necesita resolver condiciones técnicas/jurídicas y comprobar destino antes de viaje, 28 puede cotejar una secuencia documentada sin proclamar reparación universal.
+- **Estado:** diagnóstico interrumpido verificablemente; no hay Tránsito en episodio 25.
