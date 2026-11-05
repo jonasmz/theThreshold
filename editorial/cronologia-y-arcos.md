@@ -309,3 +309,25 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden:** trece días después de la visita abortada del ep. 25, con pericia y permiso durante el intervalo; reconocimiento de reparación, consulta de Kael con Dalia, noche previa y dos ciclos de viaje en jornada autorizada. **El retorno ocurre en 27**, no fuera de escena.
 - **Espacios:** asociación del ribazo norte, despacho de Dalia, vivienda de Kael, estación de origen y Puerto de los Vientos Quietos en Selivar; no galería de plaza, Anexo Occidental ni sala reservada del Archivo.
 - **Fuentes:** `temporadas/temporada-01/episodios/26-la-otra-orilla.md`, control del episodio 26. Calendario civil, reserva, competencias y mediciones por comprobar en revisión técnica.
+
+### Lyra Saren — episodio 27
+- **Meta:** proteger a Kael y regresar con él sin asumir autoridad sobre los operadores ni sobre el derecho del otro a consentir.
+- **Decisión:** espera validación clínica/energética, promete voluntariamente a Sena acompañarla en una audiencia técnica mediante comunicación autorizada y regresa tras el primer ciclo de Kael.
+- **Cambio:** pierde memoria autobiográfica del momento de dar esa **promesa nueva** (hecha antes de retorno), conservando su contenido escrito, la relación con Sena y los motivos de fondo; no es la laguna vieja de 07/25.
+- **Costo:** vuelve a tener que elegir un compromiso cuyos motivos antes sentía directamente. No acepta su firma como coerción; decide verificar aptitud y considerar declarar por hechos propios.
+- **Qué sabe:** regresó de Selivar, los dos ciclos y los límites físicos, pero no puede revivir el momento de responder a Sena. No conoce autores de conspiración penal ni recupera recuerdos antiguos.
+- **Consecuencia:** audiencia de revisión procedimental y riesgo de repercusiones técnicas/institucionales en 28.
+
+### Kael Veyran — episodio 27
+- **Meta:** volver a su vida en Eryndor sin negar que la experiencia del otro Dominio tuvo costo.
+- **Decisión:** acepta examen y riesgo expresamente, regresa en primer ciclo solo tras doble validación y conserva pruebas propias de observación sin divulgar ruta.
+- **Cambio:** el retorno no devuelve la tarde infantil ni sus emociones; acompaña a Lyra sin simular que documentos restauran vivencias. Su defensa disciplinaria sigue separada y pendiente.
+- **Costo:** seguimiento clínico, vacío afectivo irreversible y obligación de custodiar el registro.
+- **Qué sabe:** otro Dominio existe por observación, el retorno fue factible y agotó permiso; no conoce su origen Espejo ni resultados de causas ajenas.
+- **Consecuencia:** una concordancia técnica puede remitirse solo bajo autorización y a la autoridad pertinente en 28; no recibe credencial del Archivo.
+
+### Marca cronológica — episodio 27
+- **Orden:** continuación directa de 26 en Selivar, dentro de ventana de estancia y permiso; examen médico de Kael, promesa de Lyra a Sena en destino, retorno de Kael y luego Lyra tras recuperación de margen, recepción y cierre de la misma operación. Audiencia de Sena prevista tres días desde mensaje, **todavía futura**.
+- **Espacios:** Puerto de los Vientos Quietos/Selivar y estación de señaleros del ribazo norte en Vael-Tir. No hay retorno fuera de escena, acceso a galerías judiciales ni visita al Anexo Occidental.
+- **Documentos:** certificados de ciclos, nota y acuse de promesa, registros clínicos privados, cierre de operación bajo autoridad regional.
+- **Fuente:** `temporadas/temporada-01/episodios/27-lo-que-cuesta-volver.md`, control editorial 27. Ventana temporal y potestades sujetas a auditoría técnica.
