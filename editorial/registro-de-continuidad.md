@@ -196,3 +196,15 @@ Cada nueva entrada debe incluir:
 - **Pago:** efecto económico y maniobra técnica posterior 25–28, estabilización aún pendiente, eventual responsabilidad institucional y decisiones de suministro.
 - **Fuente:** `temporadas/temporada-01/episodios/24-un-pacto-incomodo.md` y `24-control-editorial.md`, borradores sujetos a auditoría global.
 - **Riesgo:** no confundir reducción de carga enviada al sector con corte de contención, ni una curva favorable inicial con restitución de margen.
+
+### C-26 — Estación de Señales del Alto: reconocimiento interrumpido (episodio 25)
+- **Origen:** trazas documentales y hoja privada de Lyra (15, 20), contraste independiente de cielo (21), obligaciones de Ema/refugio y laguna de memoria (07, 17), contención de nodo occidental (24).
+- **Hecho observado:** una asociación custodia la vieja estación de señales del ribazo norte y otorga **solo autorización de reconocimiento de conservación**; Kael entra como lector no acreditado y Lyra como visitante. Galen y Myra, técnicos contratados, realizan diagnóstico de baja energía con acumuladores finitos y banco principal inmovilizado.
+- **Resultado técnico:** dos sensores independientes registran desviación de retorno y el marco responde físicamente; el suministro del sensor se detiene conforme a criterio previo, disipación se conserva. Intento de diagnóstico **interrumpido** por riesgo de fisura/ruptura del soporte bajo cualquier carga superior. No se abre Umbral ni viaja persona alguna; falta autenticación de destino.
+- **Soporte:** constancia de acceso, acta de roles, inventarios, dos ediciones de procedimientos contradictorios con distinta validación, tiras y firmas de corte, acta de clausura y aviso técnico mínimo a competencia reguladora. Documentos protegidos siguen en custodia de asociación.
+- **Conocimiento y atribución:** Kael identifica incompatibilidad de orden de pasos, no atribuye fraude; Lyra reconoce familia técnica pero no su trayecto ni su pasado olvidado. Ruva controla propiedad sin derecho de operar clase V. Daren, Maelor e Inara no reciben informes de forma no justificada.
+- **Geografía:** estación del ribazo norte, accesible por camino de señaleros; **diferente** del sendero municipal cerrado del 17, la galería penal del 22, parcela E-0 del 10 y Anexo Occidental del 18/24. No hay conexión energética documentada con nodo occidental.
+- **Promesa sembrada:** Sena Vard escribe a Lyra sobre fecha de tabla y aviso previo al uso del retorno; Lyra lo anota y responde mediante servicio ordinario, conservando acuse. No recupera recuerdos antiguos por nota.
+- **Costo y consecuencias:** viaje, peritaje, custodio y personal pagos; equipo sin uso, fondo insuficiente para reparar/activar, notificación de seguridad. Eps. 26–28 requieren **nueva evidencia, recursos y autorización explícita**.
+- **Fuente:** `temporadas/temporada-01/episodios/25-la-puerta-que-no-se-abre.md`, control `25-control-editorial.md`. Decisiones nuevas de institución, nombres y permisos son guion revisable.
+- **Riesgo:** no convertir un diagnóstico con dos celdas de taller en operación de Tránsito clase V, ni deducir ruta activa del campo pasivo.
