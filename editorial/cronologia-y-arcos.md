@@ -331,3 +331,24 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Espacios:** Puerto de los Vientos Quietos/Selivar y estación de señaleros del ribazo norte en Vael-Tir. No hay retorno fuera de escena, acceso a galerías judiciales ni visita al Anexo Occidental.
 - **Documentos:** certificados de ciclos, nota y acuse de promesa, registros clínicos privados, cierre de operación bajo autoridad regional.
 - **Fuente:** `temporadas/temporada-01/episodios/27-lo-que-cuesta-volver.md`, control editorial 27. Ventana temporal y potestades sujetas a auditoría técnica.
+
+### Maelor Thane — episodio 28
+- **Meta:** estabilizar sin cortar la contención ni negar al municipio los costos de cerrar una conexión estratégica.
+- **Decisión:** permite auditoría técnica de modelo y documentación regional bajo competencia, autoriza reducción y disipación por etapas, protege derecho de Ilse a detener y consigue suspensión bilateral del ramal de las Agujas, sin cerrar instalaciones ajenas por decreto unilateral.
+- **Cambio desde 24:** de orden y primera reducción insuficiente a estabilidad **provisional por tres ventanas** con carga inferior y costo social visible; asume comunicación pública de límites, no divulga rutas ni causas penales.
+- **Costo:** contratos suspendidos, atrasos, jornales, transporte convencional y protestas; responsabilización política y auditoría del informe del 18 continúan.
+- **Conocimiento:** conoce Dominios, deterioro y ciertas operaciones secretas, pero no autor de prueba concreta ni de solicitudes no identificadas; recibe **solo matriz técnica del regulador**, no experiencia clínica ni destino de Kael.
+- **Consecuencia:** contención limitada y responsabilidad institucional abiertas para episodios 29–30.
+
+### Kael Veyran — episodio 28
+- **Meta:** ayudar a distinguir ediciones técnicas sin saltar su suspensión ni inventarse un acceso al Anexo.
+- **Decisión:** comparece como testigo civil con libros autorizados; ofrece criterio reproducible de comparación de modelos y versiones, no conclusión de dolo ni licencia operativa; recibe acuse sin datos de usuarios o nodos.
+- **Cambio desde 27:** evidencia personal de otro Dominio y secuelas se mantienen reservadas; recibe información familiar privada de una Impronta anterior que no le devuelve su tarde vivida.
+- **Costo:** pérdida mnémica persiste, límites clínicos y trabajo separado de defensa disciplinaria sin resolución definitiva.
+- **Conocimiento:** no sabe qué decisiones ha tomado Maelor ni recibe expedientes del Concilio; desconoce origen Espejo y caso penal.
+- **Consecuencia:** conserva trazas auténticas y reconoce valor y límites de cada prueba para ep. 30.
+
+### Marca cronológica — episodio 28
+- **Orden:** posterior al regreso del ep. 27; audiencia técnica al tercer día aproximadamente desde promesa de Sena en Selivar, y revisión de riesgo/maniobras del nodo en jornadas siguientes, con tres ventanas de observación antes del acto de suspensión final.
+- **Espacios:** oficina regional de seguridad, hogar de Kael, despacho de Custodia/Anexo Occidental y servicios urbanos relacionados; **no** hay ingreso de Kael al Anexo, nueva operación de Tránsito ni acceso a la galería penal.
+- **Fuente:** `temporadas/temporada-01/episodios/28-contencion.md`, `28-control-editorial.md`; fechas/turnos y cambios de carga por verificar en auditoría integral.
