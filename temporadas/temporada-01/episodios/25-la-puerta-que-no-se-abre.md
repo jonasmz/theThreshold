@@ -219,9 +219,63 @@ Galen leyó las páginas junto a él.
 
 Kael miró el arco detrás de la ventana interior.
 
+En el bolsillo llevaba el recibo de la Escuela de Navegación y una nota firmada por Irena Dalce. La docente había comprobado, con catálogos públicos y una lectura consentida de la hoja de Lyra, que una determinada figura celeste no correspondía a las observaciones conocidas de Eryndor. No había escrito que el dibujo fuese auténtico. Tampoco que proviniera de aquel arco.
+
+Kael puso las dos fuentes sobre la mesa sin juntarlas.
+
+—¿Puedo mostrar a Galen el resultado de la escuela? —preguntó a Ruva—. No contiene referencias de ruta, solo el alcance de una comparación académica.
+
+—Si quiere hacerlo, entréguemelo para que conste quién lo vio —respondió ella—. No puedo permitir que el operador incorpore información de procedencia desconocida como si fuera una tabla del recinto.
+
+La respuesta le pareció correcta. Dejó el informe donde estaba.
+
+Un olor a fruta llegó desde la sala de guardia. Alguien había cortado naranjas para los trabajadores, y el aroma lo transportó por un instante a una tarde de infancia. Recordó lluvia golpeando madera, metal y vidrio con tres sonidos distintos, una mesa con gajos de naranja y la mujer que lo había criado moviendo una silla para sentarse a su lado. Conservaba también la emoción de aquel momento: la paciencia de alguien que esperaba a que él terminara de contar lo que veía en la ventana.
+
+No pudo retenerlo sin sentir vergüenza. Estaba frente a una instalación que quizá describiera otros cielos, y una parte de él quería abandonar las preguntas para permanecer en esa cocina.
+
+Escribió la fecha de la consulta y guardó el lápiz.
+
+Había aprendido de pequeño que un recuerdo podía ser verdadero sin explicarlo todo. El documento, en cambio, tenía que poder ser contradicho por alguien más.
+
 Había imaginado que encontrar un documento correcto le permitiría avanzar.
 
 Encontrar dos documentos incompatibles podía resultar más útil si evitaba que alguien hiciera algo irreversible.
+
+***
+
+Lyra recorrió el patio de la estación mientras los técnicos preparaban las hojas de seguridad.
+
+La torre de balizas tenía una escalera exterior que terminaba en una plataforma sin cubierta. Desde allí se veía la ruta por la que habían subido, marcada por las ruedas de los carros. Ruva le había explicado que el techo del almacén necesitaba reparación y que el contrato de inspección no incluía ese trabajo.
+
+—Si el resultado es malo, quizá tengamos que dejarlo cerrado otro año —dijo la custodio al encontrarla junto a la baranda.
+
+—¿La asociación puede sostener la vigilancia?
+
+—Un tiempo. No toda la vida. La propiedad es nuestra, pero hay partes del equipo que pertenecieron a otras administraciones. Nadie ha presentado un título que nos permita desmontarlas sin trámite. Y tampoco queremos que un trabajador se queme por ahorrarnos un trámite.
+
+Lyra observó la ciudad.
+
+—He vivido de saber qué puertas seguían abiertas —dijo—. A veces olvidé preguntar quién pagaba por mantenerlas así.
+
+Ruva se cruzó de brazos.
+
+—¿Sabe de verdad qué hay abajo?
+
+—Sé reconocer una familia de instrumentos. Sé que un Anclaje necesita más que un arco. No sé si aquella estructura puede sostener un Tránsito, ni conozco con certeza su destino.
+
+—Entonces somos dos personas con preguntas. La diferencia es que yo tendré que responder si alguien se lastima en mi edificio.
+
+Lyra aceptó la distinción.
+
+En la parte baja del patio, Kael compartía una taza de agua con el ayudante que había transportado los instrumentos. No parecía un funcionario suspendido ni el hombre que le había pedido un mapa de ninguna parte. Parecía alguien que había subido una ladera y ahora intentaba no estorbar.
+
+Lyra había querido llevarlo allí para que otra persona confirmara su relato. La confirmación que más necesitaba no era que hubiera un aparato antiguo. Era que pudiera aceptar la negativa de un profesional cuando sus propias ganas de avanzar fueran mayores que la seguridad disponible.
+
+—Si Galen dice que paremos, paramos —dijo.
+
+Ruva la miró.
+
+—Quiero oírlo cuando estén encendidas las agujas.
 
 ***
 
@@ -307,6 +361,14 @@ Habían demostrado que ni siquiera una demanda de diagnóstico regresaba como de
 
 Lyra había oído aquel chasquido en otra parte.
 
+En el antiguo ensayo que no conseguía reconstruir completo, había esperado demasiado cerca de un marco y alguien le había ordenado abandonar la línea de trabajo. No tenía un recuerdo continuo de lo sucedido después; solo un olor a metal recalentado, una voz y una mano que tardaba en obedecer. Había buscado una Impronta precisamente porque se negaba a rellenar ese hueco con una historia conveniente.
+
+Cuando Myra cortó la pequeña entrada de diagnóstico, Lyra sintió en la garganta el impulso de pedir otra lectura. Una más, con menos energía. Una que quizá dibujara una coincidencia y justificara todos los viajes, las monedas gastadas y el riesgo de hablar con Kael.
+
+Recordó a Ema preguntándole cuánto peligro permitiría elegir a los demás.
+
+Se acercó solo hasta la línea pintada en el suelo y se detuvo. No pidió nada.
+
 No sabía si el mecanismo era el mismo. Recordaba un olor semejante, una orden de detener un ensayo y el movimiento tardío de una mano. Después empezaba una laguna que ninguna conversación le había devuelto.
 
 No convirtió el parecido en una prueba.
@@ -372,6 +434,18 @@ El operador añadió que también debía verificarse el estado del disipador y d
 Ruva firmó el cierre.
 
 La asociación conservaría el equipo inmovilizado, pediría valoración de la autoridad técnica correspondiente e informaría de la condición de riesgo sin distribuir referencias privadas de llegada. La casa de señales no quedaba abierta por haberla inspeccionado ni quedaba reparada por haber redactado un acta.
+
+Galen calculó que el reconocimiento complementario requeriría personal de regulación y un peritaje de soportes que su contrato no cubría. El presupuesto debía someterse a la asociación, y la eventual autoridad estratégica tendría que definir qué clase de operación, si alguna, era legal y segura. No había una segunda reserva esperando en una habitación secreta; las celdas principales tenían el estado incierto de un equipo antiguo y las pequeñas celdas de prueba solo podían alimentar sensores.
+
+Ruva examinó las cifras.
+
+—Ni siquiera sé si la asociación aceptará ese gasto —dijo.
+
+—Entonces no habrá otra prueba hasta que se resuelva —respondió Myra.
+
+El conductor reclamó el pago de la espera. Ruva pagó la jornada contratada y dejó pendiente la consulta extraordinaria que no había autorizado. Lyra cubrió sus propios gastos. A ninguno se le ofreció trabajar gratis por la importancia del descubrimiento.
+
+Lyra pensó en el refugio de Ribera Alta. Allí, unas horas de retraso habían tenido un precio para personas que necesitaban una pieza pequeña. Ahora podía pasar semanas intentando verificar un arco que tal vez no sirviera para nadie. No quería pagar su obsesión con recursos prometidos a otros.
 
 Lyra recibió una copia del estado de visita y ningún dibujo de ruta.
 
