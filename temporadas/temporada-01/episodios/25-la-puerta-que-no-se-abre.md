@@ -389,7 +389,7 @@ Galen miró el arco.
 
 Myra negó.
 
-—Dos sensores independientes detectaron la desviación. Una prueba nueva antes de identificar la causa puede acumular tensión sobre un retorno que no ha demostrado recuperarse. Recomiendo cancelar el reconocimiento activo.
+—Dos sensores independientes detectaron la desviación. Una prueba nueva antes de identificar la causa puede acumular tensión sobre un retorno que no ha demostrado recuperarse. Si alguien alimentara el banco principal, esa tensión podría fisurar el soporte y liberarse fuera de la contención. No voy a comprobar la posibilidad poniendo a una persona delante del arco. Recomiendo cancelar el reconocimiento activo.
 
 Galen dejó la mano junto al formulario.
 
