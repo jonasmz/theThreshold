@@ -256,3 +256,17 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden:** después de 22, cuando la cámara ya cuenta con inspección y medidas judiciales; audiencia de Kael al término del plazo anunciado en 21; petición de reclamantes y depósito de sobre son **anteriores a ceremonia**, no hechos nuevos retrospectivamente ejecutados.
 - **Espacios:** redacción, asistencia laboral, sala de revisión disciplinaria, registro municipal, oficina privada de Seris y corredor público del tribunal. No se ingresa a galerías, Anexo Occidental ni fondos secretos.
 - **Fuente:** `temporadas/temporada-01/episodios/23-los-que-quisieron-denunciar.md`; revisar intervalos entre deposito previo, fecha exacta del procedimiento y apertura controlada en auditoría de bloque.
+
+### Maelor Thane — episodio 24
+- **Meta inmediata:** evitar degradación de margen del nodo occidental sin apagar contención ni desconocer necesidades civiles.
+- **Presión / decisión:** Licencias teme divulgación de procedimientos, asientos políticos no coinciden y municipio no puede asumir cortes sin aviso. Maelor pacta información de demanda acotada, concede a personal técnico la parada operacional y autoriza reducción por escalones.
+- **Cambio:** de investigación/autopreservación documental en ep. 18 a cooperación verificable entre Custodia/Energía/Licencias/municipio con responsabilidad escrita; cede control de criterios de seguridad a técnicos ejecutores.
+- **Costo:** reducción industrial, dotaciones, presupuesto, tensiones institucionales y responsabilidad pública que sus pares pueden cuestionar.
+- **Qué sabe:** conoce redes/Tránsito, deterioro y programas fragmentarios; sabe que el banco sigue aislado y margen aún débil, pero no quién realizó prueba ni alteró informe. No recibe documentación penal del 23.
+- **Consecuencia:** reducción debe producir efectos medibles y pagos económicos en eps. 25–28; no hay solución integral ni desclasificación amplia.
+
+### Marca cronológica — episodio 24
+- **Orden:** después de inspección del Anexo en 18 y tras actuaciones del 23; jornadas de coordinación y turnos, cierre con primera maniobra programada al relevo.
+- **Lugares:** despacho de Custodia, mesa municipal de suministros, Anexo Occidental del Concilio, bombas y taller civil, reunión de asientos, seguimiento de turno. Sin ingreso a galería de la plaza ni investigación penal.
+- **Competencia nueva:** Neris **Daal**, representante del Consejo Cívico, negocia por mandato escrito de Dirección municipal de Servicios; esa dirección firma el programa civil. Este mandato es decisión de guion revisable.
+- **Fuente:** `temporadas/temporada-01/episodios/24-un-pacto-incomodo.md`; duración de ventanas y distancias por validar en auditoría y lectura sonora.
