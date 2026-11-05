@@ -263,7 +263,7 @@ Le temblaban las rodillas.
 
 ***
 
-En la estación del ribazo norte, Kael despertó de pie.
+En la estación del ribazo norte, Kael reapareció de pie.
 
 Galen y otro técnico lo sostenían por los antebrazos mientras Myra ordenaba dejar libre el corredor de recepción. Había cruzado consciente, pero necesitó sentarse antes de responder las preguntas del médico de Eryndor.
 
