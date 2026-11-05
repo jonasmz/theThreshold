@@ -57,7 +57,7 @@ La mesa municipal de suministros ocupaba el segundo piso de un edificio con las 
 
 Maelor entró sin escolta armada, acompañado solo por Talia y Vessa. Había enviado el perímetro de información que podía compartir: curvas de servicio, impacto sobre los ramales civiles y restricciones de operación. No llevaba el inventario del banco clausurado ni las fotografías de los ensayos no autorizados.
 
-Neris Vahl, responsable municipal de suministros, estaba de pie junto a un mapa de distribución. Sobre él había colocado pequeñas fichas de madera que representaban estaciones de bombeo, talleres, servicios médicos y líneas de transporte.
+Neris Daal, representante del Consejo Cívico ante la mesa de suministros, estaba de pie junto a un mapa de distribución. Traía un mandato escrito de la Dirección municipal de Servicios para negociar prioridades y avisos; la orden de ejecución seguiría correspondiendo a esa dirección. Sobre él había colocado pequeñas fichas de madera que representaban estaciones de bombeo, talleres, servicios médicos y líneas de transporte.
 
 —Su última comunicación ordenó limitar tres talleres —dijo al saludar—. Cerraron cinco.
 
@@ -413,9 +413,9 @@ Faltaba una confirmación.
 
 ***
 
-El operario de guardia del Anexo Occidental se llamaba Ilse Var en todos los documentos importantes, pero esa tarde Maelor no la llamó para leerle una orden.
+Antes de firmar, Maelor no llamó a Ilse Var para leerle una orden.
 
-Pidió que lo comunicaran con ella para escuchar el procedimiento de regreso.
+Pidió que lo comunicaran con la jefa de turno del Anexo Occidental para escuchar el procedimiento de regreso.
 
 La voz llegó con ruido de ventiladores de fondo.
 
@@ -473,7 +473,7 @@ La segunda documentaba el acuerdo con el municipio: prioridades civiles definida
 
 Talia firmó la conformidad técnica del procedimiento.
 
-Neris firmó la distribución civil y el aviso.
+Neris firmó la conformidad del Consejo Cívico; la responsable habilitada de la Dirección municipal de Servicios firmó la distribución civil y el aviso.
 
 Elian firmó la constancia de restricciones de Licencias, sin validar ningún ensayo anterior.
 
