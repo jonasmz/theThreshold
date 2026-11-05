@@ -137,7 +137,7 @@ La encargada se inclinó sobre la hoja.
 
 Kael recordó sus primeras investigaciones.
 
-Una unidad podía conservar un nombre después de cambiar de función. Una casilla podía apontar a una oficina y no a la persona cuyo expediente la mostraba. No podía convertir una referencia heredada en una acusación porque apareciera cerca de sus datos.
+Una unidad podía conservar un nombre después de cambiar de función. Una casilla podía apuntar a una oficina y no a la persona cuyo expediente la mostraba. No podía convertir una referencia heredada en una acusación porque apareciera cerca de sus datos.
 
 —Quiero solicitar el origen del vínculo —dijo.
 
@@ -375,7 +375,7 @@ Seguía sabiendo que alguien le había enseñado a escuchar.
 
 La diferencia entre ambas cosas continuaba doliendo. Ya no intentaba corregirla reproduciendo el cilindro una y otra vez.
 
-Se sentó y escribió a mano una carta a la mujer que lo había criado, aunque ella no pudiera recibirla.
+Se sentó y escribió a mano una carta a la mujer que lo había criado, sin intención de enviársela.
 
 No le preguntó qué secreto había guardado.
 
