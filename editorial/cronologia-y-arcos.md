@@ -291,3 +291,21 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden:** después del primer escalón de reducción del 24; petición/aviso previo a una jornada de inspección, desplazamiento de mañana al ribazo norte, diagnóstico y regreso al atardecer.
 - **Lugares:** tienda de Orven, casa de Kael, muelle tercero, camino de señaleros y estación de la asociación, separada de la plaza bajo precinto y de la ruta del canal clausurada.
 - **Fuente:** `temporadas/temporada-01/episodios/25-la-puerta-que-no-se-abre.md`. Fechas civiles, distancia y tiempo de viaje sujetos a revisión global.
+
+### Kael Veyran — episodio 26
+- **Meta:** obtener una prueba directa, reproducible y limitada de la realidad descrita por Lyra sin abandonar la disciplina de distinguir observación, testimonio y documento.
+- **Elección:** acepta ser segundo voluntario de un ensayo regional clase V con operadores, licencia, destino contrastado, energía finita y facultad de retirada. Conserva su propia causa laboral separada.
+- **Cambio:** presencia físicamente otro cielo y mide un campo coincidente con descripción antes no reproducible en Eryndor. La prueba tiene fecha, instrumentos, reservas y testigos, no es omnisciencia.
+- **Costo irreversible:** pierde recuerdo episódico de la tarde infantil de lluvia, gajos de naranja y la mujer que lo crió; mantiene datos y su cuaderno pero no la experiencia emocional. La pérdida se manifiesta después del cruce, no se repara.
+- **Qué sabe:** existe Selivar y el equipo remoto lo recibió; no sabe identidad artificial propia, papel exacto de célula reformista ni secreto de cadáver.
+- **Obligación:** reportar laguna y seguir procedimiento de retorno en 27; no convertir información restringida de ruta en publicación indiscriminada.
+
+### Lyra Saren — episodio 26 (vista desde Kael)
+- **Meta:** guiar validación de ruta sin usar su hoja como llave y mantener condiciones del equipo a la vista.
+- **Decisión observable:** consiente tránsito como primera viajera solo tras permiso y confirmación, es recibida y observa con Kael después; no abandona su deuda/documentación con Sena.
+- **Costo pendiente:** vieja laguna permanece y un nuevo precio de memoria/compromiso queda para episodio 27. No se describe interioridad propia en esta entrega.
+
+### Marca cronológica — episodio 26
+- **Orden:** trece días después de la visita abortada del ep. 25, con pericia y permiso durante el intervalo; reconocimiento de reparación, consulta de Kael con Dalia, noche previa y dos ciclos de viaje en jornada autorizada. **El retorno ocurre en 27**, no fuera de escena.
+- **Espacios:** asociación del ribazo norte, despacho de Dalia, vivienda de Kael, estación de origen y Puerto de los Vientos Quietos en Selivar; no galería de plaza, Anexo Occidental ni sala reservada del Archivo.
+- **Fuentes:** `temporadas/temporada-01/episodios/26-la-otra-orilla.md`, control del episodio 26. Calendario civil, reserva, competencias y mediciones por comprobar en revisión técnica.
