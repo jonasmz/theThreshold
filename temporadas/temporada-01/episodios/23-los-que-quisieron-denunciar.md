@@ -621,32 +621,38 @@ Porque había elegido un camino para que fuera comprobado sin convertirlo en mer
 
 ***
 
-Antes de cerrar el tribunal, el secretario de la causa de la ejecución recibió una certificación.
+Inara estaba bajando las escaleras de la redacción cuando el mensajero de Levan la alcanzó.
 
-Provenía de la oficina de constancias privadas donde Vera Leth había depositado un sobre antes de la ceremonia. La fiscalía la había remitido con el testimonio de la depositante y una solicitud de incorporación probatoria formal. El documento original seguiría custodiado hasta que la autoridad competente dispusiera su traslado bajo acta.
+Traía un sobre dirigido a ella por su nombre, sin membrete del tribunal. La nota de acompañamiento explicaba que Vera había autorizado comunicarle **un extracto concreto**, exclusivamente para que comprendiera el alcance de lo entregado a la fiscalía. No era una autorización de publicación ni una copia del soporte judicial. El original continuaba en la oficina de Seris, a disposición de un traslado formal bajo acta.
 
-La copia de la certificación incluía fotografías de los sellos anterior y posterior, fecha de depósito, firmas y descripción de las hojas. Una de ellas llevaba un encabezado tan sobrio que resultaba más inquietante que cualquier consigna.
+Inara volvió a su mesa.
 
-*Secuencia de intervención en procedimiento público.*
+Abrió el sobre delante de la lámpara y comprobó primero la procedencia. El extracto llevaba la identificación del depósito, la referencia de apertura controlada, la firma de Vera y la declaración de Levan sobre la transcripción realizada a partir del sobre inventariado. No añadía nombres de operadores ni direcciones.
 
-El secretario leyó la relación de anexos y telefoneó a la fiscal. La recepción no equivalía a considerar probado el contenido, pero exigía preservar su historial, comprobar la fecha y cotejarlo con las diligencias ya practicadas.
+También contenía la constancia de que la fiscalía había recibido esa misma tarde la certificación de custodia y la solicitud de incorporación probatoria.
 
-La fiscal solicitó que se reservara la sala de consulta para el magistrado, con acceso de las partes según correspondiera.
+Inara no confundió la copia que tenía delante con un peritaje de autenticidad. Una hoja depositada antes de un hecho podía incluir un proyecto no ejecutado. Las iniciales de sus autores debían verificarse. Que una notaria hubiera registrado el cierre y la fecha no convertía en verdadero todo lo que alguien decidió escribir antes de sellarlo.
 
-En el sobre existía un dibujo del aparato con una abertura inferior y una relación de funciones, elaborado y depositado antes de que el tribunal ordenara desmontar los paneles exteriores.
+Aun así, la coincidencia le produjo una sensación difícil de nombrar.
 
-El dibujo podía haber sido preparado por alguien que conociera legítimamente la instalación. También podía ser una copia de un proyecto no ejecutado. Todavía faltaban la pericia de autoría, el cotejo material y las declaraciones de quienes habían intervenido.
+El inventario describía un dibujo del aparato, una abertura inferior y una distribución de funciones. El registro de depósito era anterior a la ceremonia. Daren, por su investigación independiente, había hecho preservar piezas que solo fueron examinadas después.
 
-Pero había una frase en la tercera hoja que no describía mantenimiento ni una protesta.
+Al final del extracto figuraba una frase que Vera había autorizado compartir con ella. Pertenecía a la tercera hoja, titulada *Secuencia de intervención en procedimiento público*.
 
-Establecía como parte del procedimiento que, al terminar la fase cerrada, se presentaría ante los testigos un resultado corporal distinto del sujeto que había ingresado, con el fin declarado de forzar una revisión independiente de la identidad y de los antecedentes médicos.
+No hablaba de mantenimiento ni de una protesta.
 
-La frase estaba en un documento depositado antes de la ejecución.
+Preveía que, tras la fase cerrada, se presentara ante los testigos un resultado corporal distinto de la persona que había ingresado. La finalidad escrita era provocar una revisión independiente de identidad y antecedentes médicos.
 
-No probaba todavía quién había realizado la sustitución.
+Inara leyó de nuevo la fecha del asiento de depósito.
 
-Sí demostraba que alguien había **diseñado deliberadamente** un procedimiento que preveía aquella contradicción.
+No sabía quién había realizado la maniobra, ni siquiera si quienes redactaron aquellas instrucciones fueron los que finalmente las llevaron a cabo. El tribunal tendría que comparar el original con el dispositivo y escuchar a quienes pudieran reconocer firmas y órdenes.
 
-Y había tenido tiempo de guardarlo bajo sello antes de que la ciudad escuchara el golpe de la máquina.
+Pero alguien había escrito, antes de la ejecución, **un plan que anticipaba exactamente la contradicción que después obligó a investigar la muerte**.
+
+Inara dobló el extracto y lo guardó fuera de la carpeta de artículos.
+
+Aquella noche no tenía una noticia nueva que pudiera publicar.
+
+Tenía una razón documentada para temer que la verdad que buscaban denunciar hubiera sido convertida, también, en una operación contra otras personas.
 
 ***Fin del episodio 23.***
