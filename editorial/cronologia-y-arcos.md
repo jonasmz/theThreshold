@@ -352,3 +352,25 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden:** posterior al regreso del ep. 27; audiencia técnica al tercer día aproximadamente desde promesa de Sena en Selivar, y revisión de riesgo/maniobras del nodo en jornadas siguientes, con tres ventanas de observación antes del acto de suspensión final.
 - **Espacios:** oficina regional de seguridad, hogar de Kael, despacho de Custodia/Anexo Occidental y servicios urbanos relacionados; **no** hay ingreso de Kael al Anexo, nueva operación de Tránsito ni acceso a la galería penal.
 - **Fuente:** `temporadas/temporada-01/episodios/28-contencion.md`, `28-control-editorial.md`; fechas/turnos y cambios de carga por verificar en auditoría integral.
+
+### Daren Holt — episodio 29
+- **Meta:** cerrar reconstrucción penal con fuentes que demuestren más que posibilidades mecánicas, sin adjudicarse la jurisdicción del Concilio.
+- **Decisión:** obtiene cooperación y visita limitada al vestíbulo, incauta acoplamiento específico bajo orden, somete maqueta a prueba con errores consignados, permite a Nela declarar protegida y presenta prueba conjunta ante juez y defensa.
+- **Cambio desde 22:** continuidad del corredor + ficha y declaración contemporánea del hombre vivo + acto deliberadamente previsto respaldan revisión del certificado de muerte y pesquisa de paradero, sin declaración de que Taren viva actualmente.
+- **Costo:** nuevo trámite, derechos de defensa y protección de terceros; contempla al fallecido como víctima y no mero objeto probatorio.
+- **Qué sabe:** que cuerpo exhibido no era Taren, la operación de ocultación fue materialmente posible y hay indicio clínico de un ensayo humano fatal anterior; no conoce autores completos, ubicación actual de Taren ni origen personal de Kael.
+- **Consecuencia:** causas separadas por delitos/documentos/restos y requerimiento a órgano clasificado; resolución integral de responsabilidades y procedencia queda abierta.
+
+### Inara Vel — episodio 29
+- **Meta:** publicar información legítima de una causa central y una auditoría económica sin exponer testigos ni inventar culpables.
+- **Decisión:** obtiene informe público de Contralor, descargo de Arven y autorización limitada de Sera; después utiliza **solo resolución judicial expurgada** para noticia penal, separada de su pesquisa financiera. No publica depósito privado de Belor ni actuaciones de Vera o Nela.
+- **Cambio desde 23:** de retener documento legítimamente obtenido a publicar por fin hechos oficialmente contrastados, con redacciones y respuesta empresarial.
+- **Costo:** presión del director, plazo de imprenta, desacuerdo comercial, retrasos productivos; no ofrece una solución ficticia a trabajadores perjudicados.
+- **Qué sabe:** hechos públicos de pago/rechazo y alcance público de decisión penal; ignora el anexo de ensayo humano reservado, rutas secretas y conclusiones sobre otros Dominios.
+- **Consecuencia:** escrutinio público verificable sin sustituir a fiscalía y sin borrar la vulnerabilidad de fuentes.
+
+### Marca de cronología — episodio 29
+- **Orden:** actuaciones posteriores a la inspección de galería del 22, plan incorporado desde depósito del 23 y tras la contención limitada del 28 (PR #54, integrado durante revisión del 29). La cooperación y peritajes transcurren en varios días no fijados, antes de audiencia y publicación; respuesta restringida médica llega luego de resolución pública.
+- **Lugares:** juzgado, taller de maqueta, oficina de Contralor y taller de Sera, oficina de constancias, pasillo y vestíbulo antiguo junto a plaza, redacción, depósito médico. No se accede a Anexo Occidental, Selivar, estación del ribazo norte ni un Anclaje.
+- **Soportes:** notas municipales, acoplamiento bajo sello, originales y fichas de dependencia supranacional, plan anterior bajo constancia, partes médicos del tribunal, versión pública expurgada y descargos comerciales.
+- **Fuente:** `temporadas/temporada-01/episodios/29-cadena-de-custodia.md`, `29-control-editorial.md`; plan métrico de cámara, horas y competencia de custodia sujetos a auditoría integral.
