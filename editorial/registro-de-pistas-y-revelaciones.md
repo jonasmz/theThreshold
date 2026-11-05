@@ -183,3 +183,12 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Custodia y conocimiento:** fiscalía puede solicitar formalmente original; Vera queda bajo su decisión de comparecer y protecciones; Inara no revela nombres ni instrucciones; Kael no ve documento privado. Sin vínculo automático a informe alterado de Maelor (18) ni a permiso de obra (22).
 - **Verdad de autores / pago:** la célula reformista concibió la operación, pero el objetivo de poner abusos en conocimiento legal no la exonera; identidad de funciones, cadáver y cadena probatoria se investiga para episodio 29.
 - **Estado:** pista fuerte de intencionalidad, atribución y ejecución material pendientes.
+
+### P-21 — Contención bajo entrega reducida y resultado de primera etapa (episodio 24)
+- **Siembra:** prueba sin orden localizada, sobreesfuerzo, sistema de retorno y versiones incongruentes de informe (18); suministro civil y solicitud de Neris (08).
+- **Soporte:** telemetría independiente de Energía, lecturas y firmas de turno de Ilse, programa de escalones con límites, comunicaciones entre municipios y asiento, acta de restricciones de Licencias, acuses de maniobra.
+- **Hecho:** el banco de prueba continúa inmovilizado y no genera consumo nuevo; las tensiones residuales no recobraron margen normal. Primer escalón de reducción de demanda externa se ejecuta con contención activa y entrega civil restringida; hubo descenso inicial de esfuerzo bajo vigilancia, sin prueba de estabilización completa.
+- **Alternativas:** fatiga material, cargas compartidas, historial de maniobras y desviaciones térmicas todavía por modelar. El episodio no determina responsable clandestino ni causa única.
+- **Custodia y conocimiento:** Energía guarda lecturas; Custodia manda en su ámbito; Dirección municipal de Servicios conoce impacto civil, no secretos ni destino. No se incorpora prueba penal de Vera (23) por analogía.
+- **Consecuencia y pago:** segundo/tercer escalón condicionado, costos operativos y necesidad de supervisión de 25–28; prohibido prometer reparación o desactivar toda contención.
+- **Estado:** orden preventiva y primera maniobra acreditadas, resultado definitivo y atribución de daños pendientes.
