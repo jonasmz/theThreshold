@@ -204,3 +204,13 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Promesa:** nota y acuse de aviso a Sena Vard sobre tabla de retorno permiten pagar pérdida mnémica de Lyra en 27 sin que desaparezcan soportes.
 - **Pago previsto:** 26 necesita resolver condiciones técnicas/jurídicas y comprobar destino antes de viaje, 28 puede cotejar una secuencia documentada sin proclamar reparación universal.
 - **Estado:** diagnóstico interrumpido verificablemente; no hay Tránsito en episodio 25.
+
+### P-23 — Observación de otro Dominio y pérdida autobiográfica (episodio 26)
+- **Siembra:** anomalía astronómica de cinco luces/nota independiente (20–21), hoja privada y soporte antiguo (15/20), diagnóstico de retorno fuera de margen (25), recuerdos familiares de lluvia/naranja (13/15/25).
+- **Fuentes independientes:** inspección física del conductor fisurado y cotejo documental de modelos; validación activa por desafío-respuesta informativo con operador de otro extremo; licencia clase V condicionada, registros de ciclos y recepciones; medición realizada en destino con firma del custodio Eren Mal y de Kael.
+- **Hecho:** dos tránsitos individuales desde Eryndor tras verificación incremental, con Lyra y Kael recibidos. Kael observa físicamente el cielo de Selivar y reproduce concordancia de cinco luces dentro de márgenes, aportando experiencia presencial además de documentos previos.
+- **Evidencia y reservas:** cuaderno e instrumentos no publican ruta; la estación remota conserva originales y firmas; no se conoce por ello la cadena penal de Taren, el origen del Proyecto Espejo ni estado de otros nodos.
+- **Costo documentado:** test escrito previo a cruce permite identificar que Kael ya no puede vivir subjetivamente una tarde concreta con cuidadora, aunque recuerda datos de la escena y conserva conocimientos de otras experiencias. Impronta/archivo externo solo podrán describir, no resucitar la vivencia.
+- **Restricciones:** la señal informativa no transporta personas ni futuro; solo Anclaje con Umbral natural, energía finita y equipo logra Tránsito. Las celdas del 25 no bastaban y nunca se activó entonces. Retorno de ambos queda pendiente para 27.
+- **Lyra:** promesa y aviso a Sena permanecen en soporte externo; pérdida adicional y consecuencias se reservan al 27.
+- **Estado:** revelación material alcanzada y costo personal presente; regreso, estabilidad de reserva y gestión de pruebas para 27–28 sin resolver.
