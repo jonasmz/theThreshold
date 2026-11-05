@@ -214,3 +214,14 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Restricciones:** la señal informativa no transporta personas ni futuro; solo Anclaje con Umbral natural, energía finita y equipo logra Tránsito. Las celdas del 25 no bastaban y nunca se activó entonces. Retorno de ambos queda pendiente para 27.
 - **Lyra:** promesa y aviso a Sena permanecen en soporte externo; pérdida adicional y consecuencias se reservan al 27.
 - **Estado:** revelación material alcanzada y costo personal presente; regreso, estabilidad de reserva y gestión de pruebas para 27–28 sin resolver.
+
+### P-24 — Doble retorno y deuda documentada sin memoria subjetiva (episodio 27)
+- **Siembra:** condiciones de Tránsito y diagnóstico limitado 25; salida efectiva y pérdida de Kael 26; contacto de Sena y laguna antigua de Lyra desde 07/25.
+- **Soportes del retorno:** anexo bilateral clase V, reservas separadas en Selivar/origen, desafíos de conexión informativa con origen y horas de cada ciclo, confirmaciones médicas y de recepción, curvas de disipación y cierre posterior. Dos viajeros regresan en ciclos separados; no existe una tercera operación ni retorno mediante eco.
+- **Resultado físico y jurídico:** se registra regreso a Vael-Tir sin reactivar nodo occidental ni otorgar licencia permanente; operación excepcional completada, instalación en vigilancia bajo custodia y nuevo acceso sujeto a revisión.
+- **Pérdida previa persistente:** Kael conserva conocimiento factual y anotación de la tarde infantil, no la experiencia.
+- **Pérdida nueva de Lyra:** antes de volver, responde mediante canal autorizado a solicitud de Sena Vard prometiendo acompañarla en audiencia técnica en tres días; copia y acuse independientes del recuerdo. Tras regresar, reconoce firma y obligación, pero no revive el instante de respuesta ni su emoción. Es distinta de la vieja laguna del ensayo y la advertencia ya atendida.
+- **Autonomía y alternativa:** no suponer falsificación por mera ausencia de recuerdo; la comparación cronológica entre mensaje, acuse, observación de Kael y entrevista clínica sustenta el cambio. Sena le permite decidir otra vez, sin coacción, y declaración se limita a hechos presenciados.
+- **Custodia:** clínica guarda síntomas sin detalles íntimos de Kael en informe de operación; asociación y regulador guardan bitácoras; no se remiten rutas a prensa, Archivo o fiscalía sin trámite competente.
+- **Pago:** en 28 la autoridad técnica revisará otros suplementos y posible suspensión de ruta, sin usar memoria humana como certificado de corrección universal.
+- **Estado:** retorno demostrado y costo mnémico limitado; seguimiento médico y revisión de manuales pendientes.
