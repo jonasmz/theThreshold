@@ -235,3 +235,24 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Orden:** después del informe del 16, transcurridos varios días para estudio estructural y nueva autorización; inspección y medidas en una jornada, consulta de libros y audiencia judicial a continuación, sin fecha civil explícita.
 - **Lugares:** tribunal municipal, plaza y galería de drenaje municipal, puesto de Servicio de Agua, Obras Públicas; no se accede a Anexo Occidental (18), parcela E-0 (10) ni sendero público cerrado (17).
 - **Fuente:** `temporadas/temporada-01/episodios/22-galerias-bajo-vael-tir.md`; cronometraje y distancias por comprobar en auditoría transversal.
+
+### Inara Vel — episodio 23
+- **Meta:** proteger una denuncia anterior que podría tener consecuencias penales sin repetir su error de prensa y sin convertir la fuente en instrumento.
+- **Decisión:** escucha a Vera, reconoce límites del testimonio, acompaña sin recoger el original, permite apertura por fedataria y declaración a fiscalía, publica solo reclamaciones verificables y guarda el extracto con autorización restringida.
+- **Cambio respecto del 19:** de fuente histórica ausente y documentación privada preservada a nueva testigo que elige declarar con cadena previa a ceremonia. Inara conoce planificación probable pero no todo el mecanismo.
+- **Costo:** renuncia a una primicia; la periodista y su director deben justificar una nota menos sensacional mientras una autoridad incorpora prueba.
+- **Qué sabe:** asiento público de peticiones, existencia y trazabilidad del sobre, extracto limitado que anticipa discordancia de resultado; no conoce autoría plena ni ubicaciones de Tránsito.
+- **Consecuencia:** riesgo moral de quienes buscaron denunciar y sus métodos; pericias y publicación responsable en 29.
+
+### Kael Veyran — episodio 23
+- **Meta:** responder por falta de registro sin ocultarla; actuar como ciudadano cuando encuentra una petición pública con posible relevancia.
+- **Decisión:** declara su propia omisión en audiencia y solicita valoración proporcionada; Tessa testimonia hechos propios; obtiene copia pública de asiento de peticiones y la remite como **aviso** sin atribuir prueba de abuso.
+- **Cambio respecto del 21:** mantiene el método de hipótesis limitadas, ahora frente a posible abuso institucional humano; **no** fusiona conclusión astronómica ni fondos de Archivo con investigación penal.
+- **Costo:** continúa suspendido y no recupera credencial; afronta una resolución todavía pendiente.
+- **Qué sabe:** recepción/remisión previa de petición; no conoce contenido privado del sobre, autores de intervención ni prueba física del caso.
+- **Consecuencia:** trabajo de fuentes y métodos que deberá validar en actos ulteriores sin convertirse en investigador con poderes ilimitados.
+
+### Marca de cronología — episodio 23
+- **Orden:** después de 22, cuando la cámara ya cuenta con inspección y medidas judiciales; audiencia de Kael al término del plazo anunciado en 21; petición de reclamantes y depósito de sobre son **anteriores a ceremonia**, no hechos nuevos retrospectivamente ejecutados.
+- **Espacios:** redacción, asistencia laboral, sala de revisión disciplinaria, registro municipal, oficina privada de Seris y corredor público del tribunal. No se ingresa a galerías, Anexo Occidental ni fondos secretos.
+- **Fuente:** `temporadas/temporada-01/episodios/23-los-que-quisieron-denunciar.md`; revisar intervalos entre deposito previo, fecha exacta del procedimiento y apertura controlada en auditoría de bloque.

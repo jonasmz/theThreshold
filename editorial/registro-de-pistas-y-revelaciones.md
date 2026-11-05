@@ -172,3 +172,14 @@ Documento **interno para autores**, sujeto al mapa y la sinopsis de temporada. E
 - **Conocimiento de Daren:** ruta parcial y frontera de competencia; no ve Tránsito, ni identifica Anclaje, ni prueba vida actual/destino de Taren.
 - **Pagos previstos:** localizar autorización y operadores en 23, documentación y atribución de la causa en 29; el esquema astronómico de Kael (21) permanece investigación distinta.
 - **Estado:** prueba material y documental parcial, frontera no abierta; revisión técnica/jurídica futura.
+
+### P-20 — Plan previo depositado y finalidad de denuncia (episodio 23)
+- **Siembra:** peticiones vulnerables de trabajadores y testigo histórico (05/11/19), contratistas de ejecución (14), fase opaca y retirada mecánica posible (04/16), galería preservada con usos posteriores (22).
+- **Primer soporte:** asiento público previo a ceremonia sobre registros de ensayos humanos, con remisión entre competencias pero sin respuesta de fondo acreditada. Kael obtiene copia pública de forma independiente; Inara recibe testimonio de una exsecretaria de mesa de reclamantes.
+- **Segundo soporte:** depósito **anterior al acto**, original retenido por Seris Hal, acuse inicial y cierre diario, fotos del primer sello, apertura controlada, sobre nuevo e inventario, petición de incorporación por fiscalía; Vera declara participación limitada.
+- **Contenido comunicado con límites:** diagrama y secuencia prevista de intervención durante la ceremonia, con previsión escrita de presentar un resultado corporal distinto del sujeto ingresado para forzar revisión documental. Inara recibe un extracto consentimiento limitado **después** de declaración, sin copia libre para prensa.
+- **Nivel de prueba:** hay evidencia documental de **diseño deliberado anterior** a la ceremonia que converge con anomalías posteriores; no prueba por sí solo autoría material, autenticidad de cada firma, uso de un cadáver concreto, estado actual de Taren ni ruta completa hasta Anclaje.
+- **Alternativas legítimas:** plan redactado pero nunca ejecutado por sus autores; soporte que incorporó material no atribuible a depositante; relación entre formato del dibujo y mecanismos comunes; todas requieren pericia, no se descartan por proximidad narrativa.
+- **Custodia y conocimiento:** fiscalía puede solicitar formalmente original; Vera queda bajo su decisión de comparecer y protecciones; Inara no revela nombres ni instrucciones; Kael no ve documento privado. Sin vínculo automático a informe alterado de Maelor (18) ni a permiso de obra (22).
+- **Verdad de autores / pago:** la célula reformista concibió la operación, pero el objetivo de poner abusos en conocimiento legal no la exonera; identidad de funciones, cadáver y cadena probatoria se investiga para episodio 29.
+- **Estado:** pista fuerte de intencionalidad, atribución y ejecución material pendientes.

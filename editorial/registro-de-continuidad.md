@@ -173,3 +173,14 @@ Cada nueva entrada debe incluir:
 - **Consecuencia:** investigar quién autorizó ingreso extraordinario y quién mantiene la dependencia transferida en eps. 23/29 mediante cauces judiciales, no por acceso libre.
 - **Fuente:** `temporadas/temporada-01/episodios/22-galerias-bajo-vael-tir.md` (borrador), control `22-control-editorial.md`.
 - **Pendientes:** planta/tiempos, cotejo con contratista y causalidad de marcas; revisión global y sonido.
+
+### C-24 — Petición de reclamantes y plan anterior a la ejecución (episodio 23)
+- **Origen:** entrevistas de Inara con Vera Leth, registro municipal de peticiones, depósito privado fechado y audiencia de Kael. Antecedentes de Inara (05/11/14/19), suspensión de Kael (13/19/21) y ruta material de Daren (04/16/22).
+- **Hecho comprobable:** existe petición civil **anterior a la ceremonia** de conservación de registros de ensayos sobre personas; la oficina municipal la registró/remitió, sin constancia de investigación sustantiva. Una testigo relacionada con los reclamantes depositó antes de la ceremonia un sobre de planificación, abierto bajo acta en 23. El inventario y extracto autorizado describen una intervención proyectada cuya fase final anticipa presentación de un cuerpo distinto del ingresado.
+- **Prueba vs. inferencia:** el depósito y texto previo acreditan **planificación intencional** de una discordancia; no identifican automáticamente a todos los ejecutores, no demuestran la ejecución exacta de cada instrucción ni la culpabilidad penal de Vera o de empresas concretas. Su fecha y firma requieren cotejo pericial contradictorio antes de imputaciones.
+- **Custodia y derechos:** documento original sigue sellado con Seris Hal hasta orden y traslado documentados; fiscalía recibe constancia y testimonio voluntario; Inara ve solo extracto de alcance autorizado, no puede publicarlo; Kael presenta únicamente extracto de índice público como aviso civil. Los expedientes de protección y pacientes permanecen privados.
+- **Estado de Kael:** audiencia disciplinaria realizada con Tessa como testigo; reconoce omisión, sigue suspendido y las dos reproducciones permanecen en Archivo bajo medida provisional. No recupera poderes documentales.
+- **Conocimiento separado:** Inara conoce extracto protegido y petición; Kael solo registro público y su expediente. Daren puede conocer formalmente soporte de fiscalía, no por conversación. Maelor/Lyra no tienen acceso espontáneo a él.
+- **Costo:** Vera se responsabiliza de haber guardado la prueba y de demorar declaración; el propósito reformista no excusa daño a terceros; Inara renuncia a publicación prematura; Kael sostiene audiencia sin restitución.
+- **Pago previsto:** episodio 29 pericia de autoría, cotejo con instalación/forense y cadena del cadáver; episodio 24 mantiene negociación institucional independiente.
+- **Fuente:** `temporadas/temporada-01/episodios/23-los-que-quisieron-denunciar.md`, `23-control-editorial.md`. Revisión global pendiente.
