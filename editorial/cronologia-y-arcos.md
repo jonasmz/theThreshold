@@ -270,3 +270,24 @@ Para cada episodio nuevo, registrar cuando resulte necesario:
 - **Lugares:** despacho de Custodia, mesa municipal de suministros, Anexo Occidental del Concilio, bombas y taller civil, reunión de asientos, seguimiento de turno. Sin ingreso a galería de la plaza ni investigación penal.
 - **Competencia nueva:** Neris **Daal**, representante del Consejo Cívico, negocia por mandato escrito de Dirección municipal de Servicios; esa dirección firma el programa civil. Este mandato es decisión de guion revisable.
 - **Fuente:** `temporadas/temporada-01/episodios/24-un-pacto-incomodo.md`; duración de ventanas y distancias por validar en auditoría y lectura sonora.
+
+### Lyra Saren — episodio 25
+- **Meta:** encontrar una infraestructura material que permita avanzar en su pesquisa y comprobar si existe una ruta real sin poner a otro viajero en riesgo.
+- **Decisión:** acepta permiso limitado de conservación, personal técnico y suspensión definitiva de diagnóstico cuando falla el retorno, en lugar de exigir más carga. Responde a la advertencia de Sena por vía ordinaria.
+- **Cambio:** su antigua tentación de imponer rutas queda confrontada por responsabilidad de técnicos, custodio y terceros; comunica límites a Kael sin ejercer autoridad que no tiene.
+- **Costo:** gastos, demora y cierre temporal de posibilidad; memoria del antiguo ensayo sigue incompleta. Nota y respuesta a Sena registran promesa para 27.
+- **Qué sabe:** condiciones de Tránsito, familia de soporte y que respuesta física es peligrosa; no sabe si Umbral está activo, destino certificado o autor de suplemento.
+- **Consecuencia:** sin nueva autorización técnica, energía y pruebas no puede proceder en 26.
+
+### Kael Veyran — episodio 25
+- **Meta:** comprobar la materialidad de una posible ruta con datos lícitos sin suplantar ingenieros ni usar credenciales archivísticas.
+- **Decisión:** examina libros públicos de asociación, identifica dos órdenes de pasos incompatibles sin atribuir dolo, y acepta corte de diagnóstico antes de nueva carga.
+- **Cambio:** evidencia de un riesgo físico y un procedimiento en disputa, no prueba de Tránsito efectivo; refuerza agencia al decir que no sin convertir la suspensión en excusa.
+- **Costo:** desplazamiento y una posibilidad que permanece cerrada; resguarda su causa laboral separada.
+- **Qué sabe:** ausencia de secuencia válida y salida de disipación no probada; desconoce identidad de autor, destino y registros secretos.
+- **Consecuencia:** su análisis deberá tener nueva fuente/contrastación antes de servir en 26–28.
+
+### Marca de cronología — episodio 25
+- **Orden:** después del primer escalón de reducción del 24; petición/aviso previo a una jornada de inspección, desplazamiento de mañana al ribazo norte, diagnóstico y regreso al atardecer.
+- **Lugares:** tienda de Orven, casa de Kael, muelle tercero, camino de señaleros y estación de la asociación, separada de la plaza bajo precinto y de la ruta del canal clausurada.
+- **Fuente:** `temporadas/temporada-01/episodios/25-la-puerta-que-no-se-abre.md`. Fechas civiles, distancia y tiempo de viaje sujetos a revisión global.
