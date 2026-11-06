@@ -47,3 +47,17 @@ Agregar una fila o actualizar el bloque con número, estado **borrador / PR abie
 - Nombres, topónimos, porcentajes y fechas de trabajo no son canon automáticamente.
 - PR #16, #18, #25, #27, #29, #31, #33, #35, #37, #39, #41, #43, #45, #46, #48, #50, #52, #53, #54 y #55 fusionados; PR #57 (episodio 30) abierto como borrador, pendiente de revisión y merge autorizado. Los 30 primeros borradores están escritos, no revisados globalmente.
 - Existe material secreto de autor en GitHub **público**: no es confidencial.
+
+## Temporada 2 — bloque inicial (06/11/2026)
+
+**Formato aprobado:** 60 episodios de 8–9 minutos de duración objetivo, con guiones de 1.100–1.300 palabras sujeto a cronometría. **Estado editorial:** primeros borradores, no piezas listas para locución ni publicación.
+
+| Episodio T2 | Borrador | Palabras narrativas | Rama / PR | Revisión pendiente |
+|---|---|---:|---|---|
+| 01 | 0.1 | 1.296 | [PR #59](https://github.com/jonasmz/theThreshold/pull/59), borrador sin merge | Continuidad, duración, legalidad documental |
+| 02 | 0.1 | 1.124 | [PR #59](https://github.com/jonasmz/theThreshold/pull/59), borrador sin merge | Cronometría, cooperación judicial |
+| 03 | 0.1 | 1.182 | [PR #59](https://github.com/jonasmz/theThreshold/pull/59), borrador sin merge | Pericia técnica, audio |
+| 04 | 0.1 | 1.285 | [PR #59](https://github.com/jonasmz/theThreshold/pull/59), borrador sin merge | Condensar escenas, cronología comercial |
+| 05 | 0.1 | 1.279 | [PR #59](https://github.com/jonasmz/theThreshold/pull/59), borrador sin merge | Mensajería, jurisdicción, audio |
+
+**Archivos:** cinco relatos, cinco controles editoriales y continuidad de T2 01–05. **Próximo bloque:** T2-06–10 tras revisión y merge autorizado del PR. La auditoría integral y la edición sonora de T1 siguen siendo actividades separadas y pendientes.
