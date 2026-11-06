@@ -61,3 +61,18 @@ Agregar una fila o actualizar el bloque con número, estado **borrador / PR abie
 | 05 | 0.1 | 1.279 | [PR #59](https://github.com/jonasmz/theThreshold/pull/59), borrador sin merge | Mensajería, jurisdicción, audio |
 
 **Archivos:** cinco relatos, cinco controles editoriales y continuidad de T2 01–05. **Próximo bloque:** T2-06–10 tras revisión y merge autorizado del PR. La auditoría integral y la edición sonora de T1 siguen siendo actividades separadas y pendientes.
+
+
+## Temporada 2 — segundo bloque (06/11/2026)
+
+**Estado:** primeros borradores 06–10 escritos, con control editorial por episodio y continuidad del bloque. **PR #61** en borrador, contra la rama de **PR #59** (01–05), aún no incorporado a `main`.
+
+| Episodio T2 | Borrador | Palabras narrativas | Estado de integración | Pendientes |
+|---|---|---:|---|---|
+| 06 | 0.1 | 1.164 | [PR #61](https://github.com/jonasmz/theThreshold/pull/61) apilado, sin merge | Jurisdicción, técnicas y audio |
+| 07 | 0.1 | 1.212 | [PR #61](https://github.com/jonasmz/theThreshold/pull/61) apilado, sin merge | Semántica de migración, audio |
+| 08 | 0.1 | 1.214 | [PR #61](https://github.com/jonasmz/theThreshold/pull/61) apilado, sin merge | Contabilidad sanitaria, audio |
+| 09 | 0.1 | 1.203 | [PR #61](https://github.com/jonasmz/theThreshold/pull/61) apilado, sin merge | Cooperación judicial y audio |
+| 10 | 0.1 | 1.257 | [PR #61](https://github.com/jonasmz/theThreshold/pull/61) apilado, sin merge | Cadena de custodia, audio |
+
+**Total bloque:** 6.050 palabras de narración en 20 escenas. La temporada 2 tiene **10 borradores narrativos escritos**, con edición literaria, jurídica, técnica y lectura cronometrada aún pendientes. Integrar primero #59; entonces retarget #61 a `main` y, tras la revisión/merge autorizado, continuar con T2-11–15.
