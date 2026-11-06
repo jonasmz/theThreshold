@@ -76,3 +76,18 @@ Agregar una fila o actualizar el bloque con número, estado **borrador / PR abie
 | 10 | 0.1 | 1.257 | [PR #61](https://github.com/jonasmz/theThreshold/pull/61) apilado, sin merge | Cadena de custodia, audio |
 
 **Total bloque:** 6.050 palabras de narración en 20 escenas. La temporada 2 tiene **10 borradores narrativos escritos**, con edición literaria, jurídica, técnica y lectura cronometrada aún pendientes. Integrar primero #59; entonces retarget #61 a `main` y, tras la revisión/merge autorizado, continuar con T2-11–15.
+
+
+## Temporada 2 — tercer bloque (episodios 11–15; 06/11/2026)
+
+**Estado:** borradores narrativos 0.1 creados en `story/season02-episodes11-15`. [PR #64](https://github.com/jonasmz/theThreshold/pull/64) en borrador, basado en la rama del bloque 06–10 para evitar integración desordenada y preservar los cambios previos. **No está fusionado en `main`.**
+
+| Episodio T2 | Narración (palabras) | Escenas | Entrega | Revisión pendiente |
+|---|---:|---:|---|---|
+| 11 | 1.217 | 4 | PR #64 | Técnica de refrigeración y coordinación sanitaria; audio |
+| 12 | 1.234 | 4 | PR #64 | Procedencia civil, tutela documental; audio |
+| 13 | 1.113 | 4 | PR #64 | Consentimiento, datos sanitarios y ritmo de locución |
+| 14 | 1.215 | 4 | PR #64 | Competencias de comisión, tutela documental; audio |
+| 15 | 1.251 | 4 | PR #64 | Cronología de carretera, actas de transporte y testigo; audio |
+
+**Total del bloque:** 6.030 palabras de narración en 20 escenas. Cinco relatos, cinco controles editoriales individuales y registro `temporadas/temporada-02/continuidad-11-15.md`. **Avance de escritura:** 15/60 episodios de T2 como primeros borradores existentes en ramas o `main`; el nivel de integración debe verificarse por separado. Antes de avanzar a T2-16–20 se recomienda revisar la dependencia de PR anteriores y el contenido de los registros de continuidad, sin asumir aprobación final de ningún guion.
