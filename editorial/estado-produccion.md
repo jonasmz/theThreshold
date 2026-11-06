@@ -91,3 +91,19 @@ Agregar una fila o actualizar el bloque con número, estado **borrador / PR abie
 | 15 | 1.251 | 4 | PR #64 | Cronología de carretera, actas de transporte y testigo; audio |
 
 **Total del bloque:** 6.030 palabras de narración en 20 escenas. Cinco relatos, cinco controles editoriales individuales y registro `temporadas/temporada-02/continuidad-11-15.md`. **Avance de escritura:** 15/60 episodios de T2 como primeros borradores existentes en ramas o `main`; el nivel de integración debe verificarse por separado. Antes de avanzar a T2-16–20 se recomienda revisar la dependencia de PR anteriores y el contenido de los registros de continuidad, sin asumir aprobación final de ningún guion.
+
+
+## Temporada 2 — cuarto bloque (episodios 16–20, 06/11/2026)
+
+**Estado:** relatos 16–20 redactados como borradores 0.1 en la rama `story/season02-episodes16-20`. [PR #66](https://github.com/jonasmz/theThreshold/pull/66) **draft**, apilado sobre `story/season02-episodes11-15`, sin merge automático. La integración con `main` requiere ordenar las ramas anteriores y revisar los cambios pendientes.
+
+| Episodio | Palabras narrativas | Escenas | Entrega | Pendientes principales |
+|---|---:|---:|---|---|
+| 16 | 1.154 | 4 | PR #66 | Protección laboral/judicial, audio |
+| 17 | 1.125 | 4 | PR #66 | Registros civiles y ritmo de audio |
+| 18 | 1.161 | 4 | PR #66 | Conservación material y pericia |
+| 19 | 1.187 | 4 | PR #66 | Precisión jurídica de documentación contractual |
+| 20 | 1.249 | 4 | PR #66 | Resguardo de información y revisión técnica/ética |
+| **Bloque** | **5.876** | **20** | PR #66 | Edición literaria, continuidad, sonido |
+
+**Avance de escritura T2:** 20/60 episodios con primeros borradores (en ramas y/o `main`). La revisión general de T1 y la aprobación de guiones T2 para producción sonora permanecen pendientes. Ver `temporadas/temporada-02/continuidad-16-20.md` y controles individuales. Los datos de palabras excluyen cabeceras y marca de cierre; la duración 8–9 minutos no fue cronometrada.
