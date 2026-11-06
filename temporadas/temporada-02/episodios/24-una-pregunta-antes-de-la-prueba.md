@@ -9,7 +9,7 @@ La primera persona que rechazó integrar el dictamen no era enemiga del Concilio
 
 Era una médica que había pasado veinte años atendiendo a sus operadores.
 
-—No voy a firmar un informe cuya pregunta ya esté respondida —dijo Ada Rehn, sentada frente a Maelor Thane—. Su oficio parece pedir que determinemos cómo continuar el procedimiento. Antes tenemos que decidir si alguien tenía derecho a iniciarlo.
+—No voy a firmar un informe cuya pregunta ya esté respondida —dijo Mira Desen, sentada frente a Maelor Thane—. Su oficio parece pedir que determinemos cómo continuar el procedimiento. Antes tenemos que decidir si alguien tenía derecho a iniciarlo.
 
 Maelor volvió a leer el documento que había preparado.
 
@@ -17,7 +17,7 @@ Había solicitado una revisión ética de los métodos de continuidad humana vin
 
 —Tiene razón —dijo—. Reformularé el encargo.
 
-Ada dejó el texto sobre la mesa.
+Mira dejó el texto sobre la mesa.
 
 —También necesito saber quién puede detener un ensayo mientras deliberamos.
 
@@ -33,7 +33,7 @@ En el pasillo, una alarma breve anunció una variación de carga. Maelor escuch�
 
 —No podemos detener la vigilancia —añadió.
 
-—No se lo pido —respondió Ada—. Le pido que no la usen como excusa para repetir un ensayo.
+—No se lo pido —respondió Mira—. Le pido que no la usen como excusa para repetir un ensayo.
 
 ***
 
@@ -57,7 +57,7 @@ La presidenta de Continuidad señaló la lista.
 
 El representante técnico pidió que la comisión de ética pudiera observar una operación controlada.
 
-Ada, presente con autorización, lo interrumpió.
+Mira, presente con autorización, lo interrumpió.
 
 —No autorizaremos ensayos sobre personas para averiguar si fueron éticos los ensayos anteriores. Hay bancos técnicos, procedimientos en frío y simulaciones limitadas que pueden estudiarse primero.
 
