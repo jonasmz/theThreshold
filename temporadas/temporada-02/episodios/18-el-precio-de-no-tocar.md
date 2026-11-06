@@ -85,6 +85,12 @@ Afuera, un camión con juntas esperaba su turno. El conductor reclamó que habí
 
 Sera lo escuchó sin defenderse.
 
+—¿Hay una reclamación que pueda firmar? —preguntó al conductor.
+
+—Me descontarán la demora si llego tarde al siguiente muelle.
+
+El encargado le entregó un justificante con la hora de entrada y de salida del camión. No era una indemnización automática, pero permitiría reclamar el perjuicio dentro del contrato. Sera pidió que se registrara también el consumo extraordinario del acumulador de luz y el salario del relevo. Si alguien revisaba la decisión, debía ver el costo entero, no únicamente la fotografía de una caja intacta.
+
 Conservar una prueba también podía hacerle daño a quien no tenía relación con ella.
 
 ***
