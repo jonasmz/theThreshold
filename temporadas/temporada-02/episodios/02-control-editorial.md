@@ -8,7 +8,7 @@ La causa penal de T1-29 adquiere una protección procesal concreta frente a un c
 ## Procedencia y jurisdicción
 - **E2-02-A:** oficio de reorganización del órgano emisor; no presume destrucción o alteración de prueba.
 - **E2-02-B:** informe restringido y muestras con precintos de T1-29; compatibilidad física/temporal, no identificación absoluta.
-- **E2-02-C:** decisión judicial limitada sobre copia, acceso contradicctorio y petición de cooperación; tribunal **no** allana instalaciones supranacionales por decreto.
+- **E2-02-C:** decisión judicial limitada sobre copia, acceso contradictorio y petición de cooperación; tribunal **no** allana instalaciones supranacionales por decreto.
 - **E2-02-D:** acuse externo de conservación y referencia separada a registro de entregas/contratista; no identifica autor de la orden ni demuestra relación comercial con otros suministros.
 - Nela consulta por cauce de asesoría y conserva protección de domicilio, identidad y datos no públicos.
 
