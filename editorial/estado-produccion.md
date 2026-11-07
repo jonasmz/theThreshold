@@ -107,3 +107,21 @@ Agregar una fila o actualizar el bloque con número, estado **borrador / PR abie
 | **Bloque** | **5.876** | **20** | PR #66 | Edición literaria, continuidad, sonido |
 
 **Avance de escritura T2:** 20/60 episodios con primeros borradores (en ramas y/o `main`). La revisión general de T1 y la aprobación de guiones T2 para producción sonora permanecen pendientes. Ver `temporadas/temporada-02/continuidad-16-20.md` y controles individuales. Los datos de palabras excluyen cabeceras y marca de cierre; la duración 8–9 minutos no fue cronometrada.
+
+
+## Temporada 2 — quinto bloque (episodios 21–25, 06/11/2026)
+
+**Estado:** episodios 21–25 redactados como primeros borradores 0.1. [PR #69](https://github.com/jonasmz/theThreshold/pull/69) en **draft**, basado en `story/season02-episodes16-20`. Este bloque y su antecesor todavía no constan fusionados en `main`; no realizar merge hasta reconciliar las ramas anteriores y obtener autorización.
+
+| Episodio T2 | Narración (palabras) | Escenas | Entrega | Revisiones pendientes |
+|---|---:|---:|---|---|
+| 21 | 1.138 | 4 | PR #69 | Garantías de acceso a datos, locución |
+| 22 | 1.146 | 4 | PR #69 | Testimonio y audio protegido, locución |
+| 23 | 1.143 | 4 | PR #69 | Cotejo judicial y consentimiento, locución |
+| 24 | 1.156 | 4 | PR #69 | Competencias éticas y técnica, locución |
+| 25 | 1.278 | 4 | PR #69 | Fuentes contables y privacidad, locución |
+| **Total** | **5.861** | **20** | PR #69 | Edición literaria y sonora |
+
+**Avance de escritura:** 25/60 episodios de T2 en borradores existentes en ramas y/o `main`; la integración es una fase separada. Se entregan cinco narraciones, cinco controles editoriales y `temporadas/temporada-02/continuidad-21-25.md`. Objetivo de **8–9 minutos**, no verificado por lectura cronometrada. No presentar estos relatos como finales para producción de audio.
+
+**Siguiente bloque previsto:** T2-26–30, después de inspeccionar continuidad y estado de PR anteriores. Preservar los umbrales de revelación y requerir procedencia independiente de pruebas.
