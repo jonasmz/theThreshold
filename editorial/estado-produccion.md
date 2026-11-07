@@ -125,3 +125,19 @@ Agregar una fila o actualizar el bloque con número, estado **borrador / PR abie
 **Avance de escritura:** 25/60 episodios de T2 en borradores existentes en ramas y/o `main`; la integración es una fase separada. Se entregan cinco narraciones, cinco controles editoriales y `temporadas/temporada-02/continuidad-21-25.md`. Objetivo de **8–9 minutos**, no verificado por lectura cronometrada. No presentar estos relatos como finales para producción de audio.
 
 **Siguiente bloque previsto:** T2-26–30, después de inspeccionar continuidad y estado de PR anteriores. Preservar los umbrales de revelación y requerir procedencia independiente de pruebas.
+
+
+## Temporada 2 — sexto bloque (episodios 26–30, 06/11/2026)
+
+**Estado:** cinco borradores narrativos 0.1 redactados en `story/season02-episodes26-30`; [PR #70](https://github.com/jonasmz/theThreshold/pull/70) en **draft**, basado en la rama anterior `story/season02-episodes21-25`. **No fusionado a `main`** y sin autorización de merge automático.
+
+| Episodio | Palabras narrativas | Escenas | Entrega | Revisión pendiente |
+|---|---:|---:|---|---|
+| T2-26 | 1.188 | 4 | PR #70 | Técnica de banco/energía; audio |
+| T2-27 | 1.215 | 4 | PR #70 | Jurisdicción civil y cuidado; audio |
+| T2-28 | 1.152 | 4 | PR #70 | Rectificación y archivo público; audio |
+| T2-29 | 1.175 | 4 | PR #70 | Fedataria y voces personales; audio |
+| T2-30 | 1.499 | 4 | PR #70 | Cotejo de fuentes y duración extendida; audio |
+| **Total** | **6.229** | **20** | PR #70 | Auditoría transversal y edición |
+
+Se han añadido cinco controles individuales de prueba/competencia, archivo `temporadas/temporada-02/continuidad-26-30.md` y revisión de cumplimiento de 4 escenas por relato. **Avance de primeros borradores:** **30/60 (50 %)** de T2, contando archivos en ramas y/o `main`; integración, revisión final y sonido siguen **pendientes**. Duración objetivo 8–9 minutos no verificada, con posible extensión de T2-30. Próximo bloque: T2-31–35, previa revisión de la arquitectura y de las PR pendientes. La auditoría global de T1 y del primer tramo T2 debe preceder la publicación sonora.
