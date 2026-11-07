@@ -1,0 +1,17 @@
+# T2 · Episodio 30 — Control editorial
+
+**Estado:** borrador narrativo 0.1. **POV:** Kael Veyran, tercera persona limitada. **Narración:** 1.499 palabras. **Escenas:** 4. **Duración objetivo:** 8–9 minutos; por extensión y peso dramático **es imprescindible cronometraje y eventual recorte o decisión formal de episodio largo**.
+
+## Umbral dramático y decisión
+Se revela a Kael, **en procedimiento confidencial**, su procedencia artificial como individuo del Proyecto Espejo, dato de autor aprobado (D-014) y hito de T2-30. La revelación se funda en **tres soportes de procedencias distinguibles**: serie original de creación/control de desarrollo del programa con peritaje archivístico; cadena civil y sanitaria de recepción del niño por la mujer que lo crio, autenticadas y ajenas a Personal; y análisis voluntario de material biológico actual comparado con matriz antigua auténtica por laboratorio independiente. En conjunto permiten vinculación de identidad actual con individuo documentado, no dos fotocopias de una sola afirmación.
+
+## Salvaguardas y límites probatorios
+- **T2-30-A:** apelación de T2-21 permite examen *in camera* de datos atribuibles al titular, preservando terceros y con respuesta motivada. El custodio de Comisión conserva originales Espejo; revisora habilitada verifica actuaciones.
+- **T2-30-B:** historial de desarrollo bajo programa corresponde a un **individuo** sin afirmar número total de sujetos, nombre de la matriz, autor de abusos ni que toda opción profesional fue programada.
+- **T2-30-C:** prueba clínica actual es voluntaria, no prueba de credenciales, energía o Impronta; la muestra se conserva/destruye bajo consentimiento y cadena de custodia con controles, y no basta por sí sola para demostrar biografía o creación.
+- **T2-30-D:** expediente civil/sanitario con firma de cuidadora y registro de recepción documenta continuidad de vida real y crecimiento, independiente del metadato laboral Espejo; peritaje de procedencia de fuente **no** sustituye vínculo físico, por ello tercera fuente.
+- **T2-30-E:** Kael autoriza copia **expurgada personal**, reserva su identidad y consiente solo aviso no nominal de preservación de derechos a órganos competentes. No opera la Red ni recibe conocimientos antiguos, Impronta completa, recuerdos recuperados ni obligación de ser «llave».
+- **T2-30-F:** la mujer cuidadora puede conocer la conclusión por decisión de Kael, no por publicación pública; no se cambia filiación civil con un golpe de pluma.
+
+## Continuidad con 26–29 y hacia 31–40
+T2-26 no validó simulación completa ni uso humano; no hay solución técnica de red. T2-27 obtuvo referencia civil auténtica a entrega de cuidado, T2-29 preservó cuadernos privados sin convertirlos en laboratorio, y T2-30 usa una cadena externa con peritaje y consentimiento. Maelor conoce existencia/propósito Espejo por T2-20 pero **no** accede al expediente particular de Kael ni lo identifica automáticamente; Daren no identifica cadáver, Taren Oss sigue desaparecido, Inara no obtiene registros reservados. La identidad de Kael se acredita **solo para él y revisores autorizados**: no anticipar revelación pública universal en 31. La muestra histórica debe tener mantenimiento de refrigeración/Vinculación con consumo, no integridad milagrosa. **Pendientes:** diseñar ficha de autenticación pericial de matriz, compatibilidad biológica sin sobreprometer determinismo de ADN, precisión del tribunal de garantías y revisión crítica del objetivo sonoro. **Decisiones revisables:** forma del dictamen, laboratorio y asesoría.
