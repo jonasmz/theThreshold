@@ -83,9 +83,7 @@ Talia dejó el índice sobre la mesa.
 
 Las palabras pesaron en la sala.
 
-La decisión histórica aprobada por el creador de aquel mundo, si hubiera existido un cronista con acceso a todas sus voluntades, quizá habría tenido una línea sencilla. Maelor solo tenía documentos, responsabilidades heredadas y una institución que había pasado generaciones llamando mantenimiento a sobrevivir.
-
-Apartó ese pensamiento. Su tarea no era imaginar lo que ya sabía el lector imposible. Era declarar lo que las fuentes permitían sostener.
+La Fractura admitía ya demasiadas explicaciones cómodas. Maelor solo tenía documentos, responsabilidades heredadas y una institución que había pasado generaciones llamando mantenimiento a sobrevivir. Su tarea era declarar lo que las fuentes permitían sostener.
 
 Dos advertencias auténticas habían sido emitidas.
 
