@@ -177,3 +177,21 @@ Se incluyen cinco controles individuales y `temporadas/temporada-02/continuidad-
 **Formato:** meta 8–9 minutos por episodio, **sin lectura cronometrada**. El episodio 40 tiene longitud más elevada y podrá requerir condensación posterior. **Pendientes:** auditar coherencia transversal T1/T2, rigor de jurisdicción/evidencias, edición literaria y sonora, y cronometrar capítulos; no presentar los borradores como finalizados para producción de audio.
 
 **Siguiente bloque:** T2-41–45, previa revisión de ramas, PR anteriores, continuidad y reglas técnicas.
+
+
+## Temporada 2 — noveno bloque (episodios 41–45, 08/11/2026)
+
+**Estado:** cinco borradores narrativos 0.1 escritos en `story/season02-episodes41-45`, con [PR #77](https://github.com/jonasmz/theThreshold/pull/77) abierto en **draft**, apilado sobre `story/season02-episodes36-40`. **No se integró a `main` en esta tarea** y no hubo merge automático.
+
+| Episodio T2 | Narración (palabras) | Escenas | Entrega | Revisiones pendientes |
+|---|---:|---:|---|---|
+| 41 | 1.169 | 4 | PR #77 | Instrumentación/energía y audio |
+| 42 | 1.277 | 4 | PR #77 | Logística/consentimiento y audio |
+| 43 | 1.238 | 4 | PR #77 | Seguridad/competencias y audio |
+| 44 | 1.129 | 4 | PR #77 | Testimonios/garantías y audio |
+| 45 | 1.205 | 4 | PR #77 | Privacidad laboral/consentimiento y audio |
+| **Total bloque** | **6.018** | **20** | PR #77 | Auditoría editorial/sonora |
+
+Se incluyen cinco controles individuales y `temporadas/temporada-02/continuidad-41-45.md`. **Avance de primeros borradores de T2: 45/60 (75 %)** distribuidos en ramas y/o `main`. Integración, revisión transversal, edición literaria y sonora, y prueba de voz quedan por hacer. Meta sonora de 8–9 minutos **no cronometrada**; T2-44 está en el extremo inferior de longitud.
+
+**Siguiente bloque:** episodios T2-46–50, previo cotejo del estado de las ramas apiladas y continuidad. Estos borradores no son versiones finales para producción sonora.
