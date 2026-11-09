@@ -195,3 +195,23 @@ Se incluyen cinco controles individuales y `temporadas/temporada-02/continuidad-
 Se incluyen cinco controles individuales y `temporadas/temporada-02/continuidad-41-45.md`. **Avance de primeros borradores de T2: 45/60 (75 %)** distribuidos en ramas y/o `main`. Integración, revisión transversal, edición literaria y sonora, y prueba de voz quedan por hacer. Meta sonora de 8–9 minutos **no cronometrada**; T2-44 está en el extremo inferior de longitud.
 
 **Siguiente bloque:** episodios T2-46–50, previo cotejo del estado de las ramas apiladas y continuidad. Estos borradores no son versiones finales para producción sonora.
+
+
+## Temporada 2 — décimo bloque (episodios 46–50, 08/11/2026)
+
+**Estado:** cinco borradores narrativos 0.1 en `story/season02-episodes46-50`; [PR #78](https://github.com/jonasmz/theThreshold/pull/78) en **draft**, apilado sobre `story/season02-episodes41-45`. No hubo merge en esta operación.
+
+| Episodio | Narración (palabras) | Escenas | Entrega | Revisiones pendientes |
+|---|---:|---:|---|---|
+| T2-46 | 1.179 | 4 | PR #78 | Derecho de reparación y privacidad; audio |
+| T2-47 | 1.227 | 4 | PR #78 | Seguridad de banco y energía; audio |
+| T2-48 | 1.281 | 4 | PR #78 | Testimonio, custodia y autorización; audio |
+| T2-49 | 1.289 | 4 | PR #78 | Competencias de supervisión; audio |
+| T2-50 | 1.494 | 4 | PR #78 | Cotejo y reproducción técnica; audio |
+| **Total bloque** | **6.470** | **20** | PR #78 | Auditoría y edición |
+
+Se incorporan cinco archivos de control editorial y `temporadas/temporada-02/continuidad-46-50.md`. **Avance de primeros borradores de T2: 50/60 (83,3 %)** considerando narraciones escritas en ramas y/o `main`, sin equiparar escritura con integración editorial.
+
+**Objetivo sonoro:** 8–9 minutos por episodio, no cronometrado. Episodio 50 de extensión superior, priorizar revisión de duración; el 46–49 también requieren lectura en voz alta. No considerar estos borradores listos para producción sonora hasta auditoría integral T1/T2, revisión de competencias, continuidad, voz y edición literaria.
+
+**Siguiente bloque previsto:** T2-51–55, previa inspección de ramas, PR y continuidad, sin spoilers en comunicaciones.
