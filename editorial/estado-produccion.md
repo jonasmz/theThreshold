@@ -157,3 +157,23 @@ Se han añadido cinco controles individuales de prueba/competencia, archivo `tem
 | **Bloque** | **5.985** | **20** | PR #72 | Auditoría y edición |
 
 Se añaden cinco controles editoriales individuales y `temporadas/temporada-02/continuidad-31-35.md`. **Avance T2:** 35/60 primeros borradores escritos en ramas y/o `main` (58,3 %); la fusión de cada bloque, la auditoría transversal y edición para audio son etapas distintas. Objetivo 8–9 minutos por episodio todavía sin lectura cronometrada. Siguiente bloque previsto: T2-36–40, previa revisión de dependencias y fuentes. No calificar estos textos de finales.
+
+
+## Temporada 2 — octavo bloque (episodios 36–40, 08/11/2026)
+
+**Estado:** cinco borradores narrativos 0.1 redactados en la rama `story/season02-episodes36-40`; [PR #76](https://github.com/jonasmz/theThreshold/pull/76) en **draft** y basado en `story/season02-episodes31-35`. **No integrado en `main` por esta operación**, sin merge automático.
+
+| Episodio | Narración (palabras) | Escenas | Entrega | Revisiones pendientes |
+|---|---:|---:|---|---|
+| T2-36 | 1.177 | 4 | PR #76 | Custodia y peritaje; audio |
+| T2-37 | 1.132 | 4 | PR #76 | Material de archivo y derechos; audio |
+| T2-38 | 1.180 | 4 | PR #76 | Competencia institucional; audio |
+| T2-39 | 1.147 | 4 | PR #76 | Contraste de fuentes; audio |
+| T2-40 | 1.391 | 4 | PR #76 | Corroboración documental y duración; audio |
+| **Bloque** | **6.027** | **20** | PR #76 | Auditoría y edición |
+
+Se incluyen cinco controles individuales y `temporadas/temporada-02/continuidad-36-40.md`. **Avance de primeros borradores de T2: 40 de 60 (66,7 %)** contando archivos en ramas y/o `main`, independientemente de su situación de merge.
+
+**Formato:** meta 8–9 minutos por episodio, **sin lectura cronometrada**. El episodio 40 tiene longitud más elevada y podrá requerir condensación posterior. **Pendientes:** auditar coherencia transversal T1/T2, rigor de jurisdicción/evidencias, edición literaria y sonora, y cronometrar capítulos; no presentar los borradores como finalizados para producción de audio.
+
+**Siguiente bloque:** T2-41–45, previa revisión de ramas, PR anteriores, continuidad y reglas técnicas.
