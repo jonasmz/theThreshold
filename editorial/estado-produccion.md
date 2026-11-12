@@ -284,3 +284,20 @@ Se incorporan cinco controles y `temporadas/temporada-02/continuidad-51-55.md`. 
 | **Total** | **6.010** | **20** | Cinco POV | Revisión integral y audio pendientes |
 
 **Comprobación:** conteo automatizado de narración, excluidas cabeceras y cierre, realizado sobre los archivos de la rama. No confundir extensión con duración cronometrada. Próximo bloque: T3-06–10, previa verificación de estado de PR y reglas.
+
+## Temporada 3 — segundo bloque (episodios 06–10, 12/11/2026)
+
+**Estado editorial:** cinco nuevos borradores narrativos 0.1, cinco controles individuales y `temporadas/temporada-03/continuidad-06-10.md` en la rama `story/season03-episodes06-10`. El bloque anterior 01–05 se verificó integrado en `main` mediante PR #83 antes de crear esta rama. Entrega por PR a `main` sin merge automático.
+
+| Episodio | Palabras de narración | Escenas | Focalización | Estado de revisión |
+|---|---:|---:|---|---|
+| T3-06 | 1.185 | 4 | Maelor | Controles de seguridad, jurisdicción y audio pendientes |
+| T3-07 | 1.224 | 4 | Sera | Ensayo/contención, abastecimiento y audio pendientes |
+| T3-08 | 1.163 | 4 | Inara | Derechos, consentimiento y audio pendientes |
+| T3-09 | 1.244 | 4 | Daren | Audiencia limitada, competencias y audio pendientes |
+| T3-10 | 1.292 | 4 | Maelor | Auditoría, observadores, presupuesto y audio pendientes |
+| **Total 06–10** | **6.108** | **20** | Cuatro POV | Auditoría transversal pendiente |
+
+**Verificación editorial:** mapa T3 06–10 cotejado, reglas de Pulso/Tránsito y restricciones T2/T3 preservadas, último par de guiones y controles de T3-01–05 leídos, narración contada sobre archivos de rama, cierre de primer bloque articulado sin atribución automática de culpa histórica. Formato objetivo 8–9 minutos **sin cronometría**. Borradores disponibles 10 de 60 (16,7 %), no editados para locución.
+
+**Próxima etapa:** T3-11–15, investigar fuentes sin romper cadena de custodia ni independencia de jurisdicciones. Confirmar merge/PR antes de abrir siguiente rama.
