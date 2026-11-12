@@ -269,3 +269,18 @@ Se incorporan cinco controles y `temporadas/temporada-02/continuidad-51-55.md`. 
 **La escritura inicial está terminada, NO la temporada editorial/sonora.** Permanecen pendientes la auditoría completa de continuidad y causalidad T1–T2, la edición literaria y de voces, el cronometraje del objetivo 8–9 minutos y la preparación de la versión integral para el creador.
 
 **Mantenimiento de ramas:** la consolidación de contenido en `main` está confirmada, pero la eliminación remota de las ramas `story/season02-*` continúa pendiente de una herramienta o acción de GitHub que permita borrar referencias. No confundir incorporación al historial con borrado físico de ramas.
+
+## Temporada 3 — bloque de apertura (episodios 01–05, 11/11/2026)
+
+**Estado:** cinco borradores 0.1 y cinco controles editoriales en la rama `story/season03-episodes01-05`, propuestos a `main` por PR. **No integrar automáticamente**. Se añade `temporadas/temporada-03/continuidad-01-05.md`. El arco de 60 episodios conserva estado de propuesta editorial; **sí** está decidido el formato 60 × 8–9 min.
+
+| Episodio | Narración (palabras) | Escenas | POV | Revisión |
+|---|---:|---:|---|---|
+| T3-01 | 1.243 | 4 | Sera | Técnica civil, comprensión sonora y cronometría |
+| T3-02 | 1.184 | 4 | Inara | Fuentes, cifras, confidencialidad y cronometría |
+| T3-03 | 1.195 | 4 | Daren | Competencia y preservación; cronometría |
+| T3-04 | 1.199 | 4 | Kael | Procedencia, cronología documental y cronometría |
+| T3-05 | 1.189 | 4 | Lyra | Logística, seguridad, costos y cronometría |
+| **Total** | **6.010** | **20** | Cinco POV | Revisión integral y audio pendientes |
+
+**Comprobación:** conteo automatizado de narración, excluidas cabeceras y cierre, realizado sobre los archivos de la rama. No confundir extensión con duración cronometrada. Próximo bloque: T3-06–10, previa verificación de estado de PR y reglas.
