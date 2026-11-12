@@ -15,11 +15,11 @@ Joren Mal dejó junto a ellos la síntesis histórica que las escuelas habían r
 
 —Eso dice la síntesis —respondió Inara.
 
-La nueva auditoría había autorizado publicar resultados descriptivos sobre las fechas y el recorrido administrativo de ciertos avisos. Dos custodios independientes acababan de certificar extremos diferentes de un mismo envío: la oficina emisora conservaba un registro de salida; una oficina receptora, un asiento de entrada. Las certificaciones excluían el contenido técnico y los datos personales que seguían protegidos.
+La auditoría autorizaba publicar fechas y recorridos administrativos de avisos. Dos custodios independientes acababan de certificar extremos diferentes de un mismo envío: la oficina emisora conservaba un registro de salida; una oficina receptora, un asiento de entrada. Las certificaciones excluían el contenido técnico y los datos personales que seguían protegidos.
 
 La fecha de ambas operaciones era anterior al inicio que la síntesis atribuía a la circulación de advertencias formales.
 
-No bastaba leer dos números. Algunas oficinas cerraban libros al terminar un ciclo; otras asentaban entregas a la jornada siguiente. Inara pidió una tercera comprobación de la equivalencia calendárica mediante una fuente pública ajena a ambos depósitos. El perito había utilizado un calendario de ferias y un libro de turnos civiles para comprobar los cambios de ciclo.
+No bastaba leer dos números. Algunas oficinas cerraban libros por ciclo; otras registraban entregas después. Inara pidió una tercera comprobación de la equivalencia calendárica mediante una fuente pública ajena a ambos depósitos. El perito había utilizado un calendario de ferias y un libro de turnos civiles para comprobar los cambios de ciclo.
 
 Su conclusión era acotada: ni el corrimiento por cambio de año ni el retraso normal de registro permitían desplazar aquel despacho hasta después del comienzo declarado en la síntesis.
 
@@ -107,7 +107,7 @@ La portada decía: «La primera fecha no fue la primera».
 
 Al poco tiempo empezaron las reacciones.
 
-Una asociación de trabajadores pidió que la corrección histórica se acompañara de medidas de abastecimiento. Licencias objetó que el título podía inducir a pensar en una reapertura inmediata; Inara publicó la aclaración de que las restricciones técnicas seguían vigentes. La oficina de la síntesis anunció una revisión pública de su cronología, sin aceptar todavía las consecuencias que otros extraían de ella.
+Una asociación pidió medidas de abastecimiento junto a la corrección. Licencias objetó que el título podía inducir a pensar en una reapertura inmediata; Inara publicó la aclaración de que las restricciones técnicas seguían vigentes. La oficina de la síntesis anunció una revisión pública de su cronología, sin aceptar todavía las consecuencias que otros extraían de ella.
 
 Joren dejó un mensaje abierto en la pantalla.
 
@@ -115,7 +115,7 @@ Joren dejó un mensaje abierto en la pantalla.
 
 —La recibió una oficina —dijo Inara—. Encontrar a una persona exige otra prueba.
 
-El mensaje siguiente venía de un antiguo depósito de coordinación. Ofrecía localizar, bajo solicitud competente, la relación de distribución interna correspondiente a aquella recepción temprana. El catálogo no identificaba a los lectores; señalaba que existía una serie de remisiones entre oficinas.
+El mensaje siguiente venía de un antiguo depósito de coordinación. Ofrecía localizar, bajo solicitud competente, la relación de distribución interna correspondiente a aquella recepción temprana. El catálogo no identificaba lectores; señalaba remisiones entre oficinas.
 
 Inara no solicitó abrirla por su cuenta. Envió la referencia a la coordinación de la auditoría, con copia pública del acuse de presentación.
 
