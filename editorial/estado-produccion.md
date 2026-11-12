@@ -321,7 +321,7 @@ Se incorporan cinco controles y `temporadas/temporada-02/continuidad-51-55.md`. 
 
 ## Temporada 3 — cuarto bloque (episodios 16–20, 12/11/2026)
 
-**Estado de entrega:** cinco borradores narrativos 0.1, cinco controles editoriales, `temporadas/temporada-03/continuidad-16-20.md` y revisión de producción en rama `story/season03-episodes16-20`, nacida de `story/season03-episodes11-15`. PR #86 se fusionó sobre rama anterior, no sobre `main`, y por eso se abrió PR de integración pendiente #87 a `main` para 11–15. Nuevo PR 16–20 será apilado sobre la rama 11–15 hasta resolver #87. No fusionar automáticamente.
+**Estado de entrega:** cinco borradores narrativos 0.1, cinco controles editoriales, `temporadas/temporada-03/continuidad-16-20.md` y revisión de producción en rama `story/season03-episodes16-20`, nacida de `story/season03-episodes11-15`. PR #86 se había fusionado sobre rama anterior; el PR de integración #87 **se fusionó a `main` durante esta redacción** y se verificaron T3-15 y continuidad en `main`. El nuevo PR T3-16–20 se abre directamente contra `main` (solo cambios 16–20). No fusionar automáticamente.
 
 | Episodio | Palabras narrativas | Escenas | Focalización | Estado |
 |---|---:|---:|---|---|
