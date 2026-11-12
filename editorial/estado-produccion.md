@@ -301,3 +301,20 @@ Se incorporan cinco controles y `temporadas/temporada-02/continuidad-51-55.md`. 
 **Verificación editorial:** mapa T3 06–10 cotejado, reglas de Pulso/Tránsito y restricciones T2/T3 preservadas, último par de guiones y controles de T3-01–05 leídos, narración contada sobre archivos de rama, cierre de primer bloque articulado sin atribución automática de culpa histórica. Formato objetivo 8–9 minutos **sin cronometría**. Borradores disponibles 10 de 60 (16,7 %), no editados para locución.
 
 **Próxima etapa:** T3-11–15, investigar fuentes sin romper cadena de custodia ni independencia de jurisdicciones. Confirmar merge/PR antes de abrir siguiente rama.
+
+## Temporada 3 — tercer bloque (episodios 11–15, 12/11/2026)
+
+**Estado:** cinco borradores narrativos 0.1 y cinco controles editoriales en la rama `story/season03-episodes11-15`. Se incluye `temporadas/temporada-03/continuidad-11-15.md`. Al iniciarse este bloque, PR #85 (T3-06–10) seguía abierto; por eso la nueva rama y su PR están **apilados sobre** `story/season03-episodes06-10`, no directamente sobre `main`. No integrar automáticamente.
+
+| Episodio | Palabras narrativas | Escenas | POV | Revisión pendiente |
+|---|---:|---:|---|---|
+| T3-11 | 1.191 | 4 | Kael | Procedencia cronológica y audio |
+| T3-12 | 1.173 | 4 | Lyra | Custodia de transporte y audio |
+| T3-13 | 1.190 | 4 | Sera | Calibración, límites de energía y audio |
+| T3-14 | 1.168 | 4 | Inara | Testimonio, corroboración y audio |
+| T3-15 | 1.246 | 4 | Maelor | Competencias y conservación archivística |
+| **Total 11–15** | **5.968** | **20** | Cinco POV | Auditoría global y lectura cronometrada |
+
+**Verificación:** narración contada automáticamente, escenas verificadas, mapas T3 y continuidad 06–10 cotejados, sin avance prematuro de revelaciones. 15/60 episodios en `main` y/o ramas (25 % escritos como borrador), **no** todos fusionados. Extensión de 1.100–1.300 palabras es punto de partida para 8–9 minutos, sin medida real de audio.
+
+**Próximo bloque:** T3-16–20, previa comprobación de integración del PR anterior; mantener continuidad de custodias, límites técnicos y derechos individuales.
