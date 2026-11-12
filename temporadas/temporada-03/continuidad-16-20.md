@@ -3,7 +3,7 @@
 > **SOLO EQUIPO EDITORIAL / SPOILERS.** Narrativa 0.1; propuesta pendiente de edición, cronometría, evaluación legal, física y narrativa. No divulgar estos hechos en descripciones públicas de PR ni respuestas de avance al creador.
 
 ## Estado al crear esta rama
-- PR #85 (T3-06–10): `closed/merged`. PR #86 (T3-11–15): `closed/merged` **sobre la rama** `story/season03-episodes06-10`, no `main`; se verificó en GitHub que `main` sí contenía T3-10 y **no** contenía T3-15. Para evitar extravío del bloque 11–15 se abrió el PR de integración a `main` **#87** desde `story/season03-episodes11-15`. Esta rama T3-16–20 parte de dicha rama; el PR nuevo debe basarse en `story/season03-episodes11-15`, no en `main`, hasta completar la integración.
+- PR #85 (T3-06–10) está fusionado. El PR #86 (T3-11–15) había sido fusionado **sobre la rama** anterior, no sobre `main`; se abrió el PR correctivo #87 de integración y **quedó fusionado a `main` durante la preparación de T3-16–20**. Se verificó que `main` contiene ya T3-15 y su continuidad. Esta rama nació de `story/season03-episodes11-15`, pero el PR T3-16–20 puede y debe tener ahora base **`main`**, mostrando solo los 12 archivos nuevos.
 - T2-60: recepción y circulación administrativa anteriores a Fractura no acreditaban destinatario individual, lectura ni voto. Kael conserva expediente de identidad artificial bajo Garantías separado de índices laborales.
 - T3-04/10/11/17: discrepancias de bultos, fechas, catálogo y nueve referencias **posibles**; evitar multiplicar fuentes por reproducciones de un mismo origen.
 - T3-12/18: Lyra solo usa transportes ordinarios con permisos, energía y presupuestos limitados; obligaciones del refugio y del valle abiertas.
