@@ -231,3 +231,32 @@ Se incorporan cinco archivos de control editorial y `temporadas/temporada-02/con
 | **Total** | **5.549** | **20** | PR #80 | Auditoría/edición |
 
 Se incorporan cinco controles y `temporadas/temporada-02/continuidad-51-55.md`. **Avance de primeros borradores:** 55/60 (91,7 %), en ramas y/o `main` independientemente de merge. Formato 8–9 minutos **no cronometrado**; 51–52 pueden requerir ampliación. Pendiente edición literaria, sonora y auditoría integral. Siguiente y último bloque: T2-56–60.
+
+
+## Temporada 2 — duodécimo y último bloque de escritura (episodios 56–60, 11/11/2026)
+
+**Estado:** primeros borradores narrativos 0.1 de la temporada **01–60 ESCRITOS (60/60 = 100 % de fase de escritura)**, distribuidos en ramas y/o `main`; **no equivale a integración completa, edición literaria terminada, revisión integral, entrega de lectura ni audio listo**.
+
+[PR #80 — T2-51–55](https://github.com/jonasmz/theThreshold/pull/80) y [PR #81 — T2-56–60](https://github.com/jonasmz/theThreshold/pull/81) están abiertos como **draft** encadenados. No hay merge automático. Se conservan las dependencias con los bloques anteriores, que deben reconciliarse antes de integrar a `main`.
+
+| Episodio T2 | Palabras narrativas | Escenas | Entrega | Revisión pendiente |
+|---|---:|---:|---|---|
+| 56 | 1.171 | 4 | PR #81 | Alcance documental, voces y audio |
+| 57 | 1.157 | 4 | PR #81 | Método de laboratorio y audio |
+| 58 | 1.092 | 4 | PR #81 | Debido proceso y audio |
+| 59 | 1.147 | 4 | PR #81 | Fuentes, privacidad y audio |
+| 60 | 1.459 | 4 | PR #81 | Cierre de arco, longitud y audio |
+| **Total bloque** | **6.026** | **20** | PR #81 | Auditoría y edición |
+
+**Últimos diez capítulos (T2-51–60):** **11.575 palabras narrativas**, diez episodios completos, **40 escenas**, diez controles editoriales individuales y dos registros de continuidad: `continuidad-51-55.md` y `continuidad-56-60.md`.
+
+**Duración objetivo:** 8–9 minutos, **no medida en voz alta**. T2-60 es más largo que el promedio y 51, 52, 58 son breves en comparación; revisar cronometraje, ritmo y respiraciones antes de aceptar la extensión.
+
+### Etapas aún abiertas (NO declarar temporada finalizada para audio)
+1. Verificar integración de las ramas PR de T2 contra `main`, actualizar bases si cambian y evitar pérdida de aportes externos o divergencias históricas.
+2. Auditoría global T1–T2: estructura, trama, revelaciones, fuentes y custodia de evidencia, autonomía de personajes, magia/energía, cronología, geografía, jurisdicciones y riesgos de contradicción.
+3. Edición literaria de 60 episodios, diferenciación de voces y reducción de escenas administrativas redundantes.
+4. Lectura cronometrada por episodio y edición sonora al objetivo 8–9 minutos; efectos de sonido, pausas y transiciones.
+5. Preparar versión de lectura integral para creador después de superar revisión, sin spoilers en mensajes de avance previos; publicación/contrato son etapas independientes.
+
+**Producción narrativa siguiente:** no quedan episodios sin primer borrador dentro de T2. La próxima fase es revisión, integración y preparación editorial de la temporada; no asumir apertura de T3 sin encargo.
