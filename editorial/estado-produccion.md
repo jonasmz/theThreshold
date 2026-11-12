@@ -318,3 +318,20 @@ Se incorporan cinco controles y `temporadas/temporada-02/continuidad-51-55.md`. 
 **Verificación:** narración contada automáticamente, escenas verificadas, mapas T3 y continuidad 06–10 cotejados, sin avance prematuro de revelaciones. 15/60 episodios en `main` y/o ramas (25 % escritos como borrador), **no** todos fusionados. Extensión de 1.100–1.300 palabras es punto de partida para 8–9 minutos, sin medida real de audio.
 
 **Próximo bloque:** T3-16–20, previa comprobación de integración del PR anterior; mantener continuidad de custodias, límites técnicos y derechos individuales.
+
+## Temporada 3 — cuarto bloque (episodios 16–20, 12/11/2026)
+
+**Estado de entrega:** cinco borradores narrativos 0.1, cinco controles editoriales, `temporadas/temporada-03/continuidad-16-20.md` y revisión de producción en rama `story/season03-episodes16-20`, nacida de `story/season03-episodes11-15`. PR #86 se fusionó sobre rama anterior, no sobre `main`, y por eso se abrió PR de integración pendiente #87 a `main` para 11–15. Nuevo PR 16–20 será apilado sobre la rama 11–15 hasta resolver #87. No fusionar automáticamente.
+
+| Episodio | Palabras narrativas | Escenas | Focalización | Estado |
+|---|---:|---:|---|---|
+| T3-16 | 1.196 | 4 | Daren | Borrador, control individual |
+| T3-17 | 1.215 | 4 | Kael | Borrador, control individual |
+| T3-18 | 1.157 | 4 | Lyra | Borrador, control individual |
+| T3-19 | 1.178 | 4 | Sera | Borrador, control individual |
+| T3-20 | 1.283 | 4 | Inara | Borrador, control individual |
+| **Total 16–20** | **6.029** | **20** | Cinco POV | Revisión integral pendiente |
+
+**Controles efectuados:** narración contada sobre contenidos de rama, separación por cuatro escenas, arquitectura y mapa T3 16–20 cotejados, continuidad 11–15 y final T2 revisados, límites energéticos, de tránsito, fuentes y competencias preservados. Se cierra el arco 11–20 en escala documental sin anticipar atribuciones reservadas al 21–30.
+
+**Estado global:** 20 de 60 episodios redactados como borradores (33,3 %); no significa 20 fusionados en `main`. 8–9 minutos es **objetivo editorial**, sin cronometraje. Pendiente revisión literaria y de audio, derecho, física interna y recepción de fuentes. Siguiente paso: T3-21–25 tras comprobación de ramas y PR de integración.
