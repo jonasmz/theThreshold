@@ -260,3 +260,12 @@ Se incorporan cinco controles y `temporadas/temporada-02/continuidad-51-55.md`. 
 5. Preparar versión de lectura integral para creador después de superar revisión, sin spoilers en mensajes de avance previos; publicación/contrato son etapas independientes.
 
 **Producción narrativa siguiente:** no quedan episodios sin primer borrador dentro de T2. La próxima fase es revisión, integración y preparación editorial de la temporada; no asumir apertura de T3 sin encargo.
+
+
+## Integración consolidada de T2 en `main` (11/11/2026)
+
+**Estado constatado:** la temporada 2 cuenta en `main` con los **60 primeros borradores narrativos originales**, **60 controles editoriales individuales** y **12 matrices de continuidad por bloques de cinco**. La integración se efectuó mediante el merge commit [`11567923dda3f059e6429f96145561317a570bbb`](https://github.com/jonasmz/theThreshold/commit/11567923dda3f059e6429f96145561317a570bbb), conservando simultáneamente el historial de redacción y los cambios existentes en `main`, incluidas las traducciones en inglés que ya estaban presentes. Los PR apilados #80 y #81 se cerraron como incorporados mediante dicho merge consolidado.
+
+**La escritura inicial está terminada, NO la temporada editorial/sonora.** Permanecen pendientes la auditoría completa de continuidad y causalidad T1–T2, la edición literaria y de voces, el cronometraje del objetivo 8–9 minutos y la preparación de la versión integral para el creador.
+
+**Mantenimiento de ramas:** la consolidación de contenido en `main` está confirmada, pero la eliminación remota de las ramas `story/season02-*` continúa pendiente de una herramienta o acción de GitHub que permita borrar referencias. No confundir incorporación al historial con borrado físico de ramas.
