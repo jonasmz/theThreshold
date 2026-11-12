@@ -215,3 +215,19 @@ Se incorporan cinco archivos de control editorial y `temporadas/temporada-02/con
 **Objetivo sonoro:** 8–9 minutos por episodio, no cronometrado. Episodio 50 de extensión superior, priorizar revisión de duración; el 46–49 también requieren lectura en voz alta. No considerar estos borradores listos para producción sonora hasta auditoría integral T1/T2, revisión de competencias, continuidad, voz y edición literaria.
 
 **Siguiente bloque previsto:** T2-51–55, previa inspección de ramas, PR y continuidad, sin spoilers en comunicaciones.
+
+
+## Temporada 2 — undécimo bloque (episodios 51–55, 11/11/2026)
+
+**Estado:** cinco primeros borradores 0.1 redactados en `story/season02-episodes51-55`; [PR #80](https://github.com/jonasmz/theThreshold/pull/80) en **draft**, apilado sobre `story/season02-episodes46-50`. **No fusionado a `main` por esta operación.**
+
+| Episodio | Narración (palabras) | Escenas | Entrega | Revisiones pendientes |
+|---|---:|---:|---|---|
+| T2-51 | 1.093 | 4 | PR #80 | Prueba contradictoria y audio |
+| T2-52 | 1.064 | 4 | PR #80 | Privacidad y audio |
+| T2-53 | 1.129 | 4 | PR #80 | Medición independiente y audio |
+| T2-54 | 1.145 | 4 | PR #80 | Logística y audio |
+| T2-55 | 1.118 | 4 | PR #80 | Competencia y audio |
+| **Total** | **5.549** | **20** | PR #80 | Auditoría/edición |
+
+Se incorporan cinco controles y `temporadas/temporada-02/continuidad-51-55.md`. **Avance de primeros borradores:** 55/60 (91,7 %), en ramas y/o `main` independientemente de merge. Formato 8–9 minutos **no cronometrado**; 51–52 pueden requerir ampliación. Pendiente edición literaria, sonora y auditoría integral. Siguiente y último bloque: T2-56–60.
