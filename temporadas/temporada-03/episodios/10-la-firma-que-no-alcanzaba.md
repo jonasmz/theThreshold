@@ -9,9 +9,7 @@ Maelor Thane no había dejado en blanco la casilla de observadores.
 
 Había pedido que nadie escribiera un nombre hasta decidir quién podía elegirlos.
 
-El borrador de auditoría descansaba sobre una mesa demasiado larga. A un extremo estaban los delegados de Seguridad y Licencias. Al otro, representantes de la administración civil y una oficina de garantías. Sobre un atril habían colocado el resumen de la audiencia del día anterior, con reclamaciones externas, preservaciones temporales y gastos documentados.
-
-Un consejero de Licencias deslizó la propuesta hacia Maelor.
+El borrador de auditoría descansaba sobre una mesa demasiado larga. A un extremo estaban los delegados de Seguridad y Licencias. Al otro, representantes de la administración civil y una oficina de garantías. Un consejero de Licencias deslizó la propuesta hacia Maelor.
 
 —Si usted firma, podremos empezar mañana.
 
@@ -49,7 +47,7 @@ Era una perita de un laboratorio que había intervenido en las mediciones aislad
 
 —Y entonces tendríamos una observadora que no puede mirar parte del material central —dijo Maelor.
 
-La perita envió una declaración por escrito y pidió quedar como consultora de contexto, sin votar conclusiones. Maelor aceptó la reserva y ordenó conservarla.
+La perita pidió quedar como consultora de contexto, sin votar conclusiones.
 
 El segundo candidato era un técnico de mantenimiento municipal con experiencia en seguridad de turnos. No tenía autorización para examinar configuraciones estratégicas y tampoco debía adquirirla automáticamente por conocer un sistema civil. Podía evaluar costos operativos y riesgos laborales, no parámetros de Anclajes.
 
@@ -79,7 +77,7 @@ Maelor examinó la tabla. Su propia oficina podía renunciar a una adquisición 
 
 —No voy a financiar observadores apagando la contención —dijo—. Sí puedo diferir la renovación de mobiliario y aportar personal de registro con cargo autorizado.
 
-La propuesta obligaba a cada administración a publicar la fuente de sus fondos y a señalar qué obligaciones quedaban sin atender. Se estableció una revisión del presupuesto a mitad de auditoría: si los gastos de vigilancia aumentaban o faltaba representación de afectados, el programa tendría que reducir alcance o buscar autorización suplementaria, no inventar dinero.
+Cada administración debía publicar el origen de sus fondos y las obligaciones pendientes. Se estableció una revisión del presupuesto a mitad de auditoría: si los gastos de vigilancia aumentaban o faltaba representación de afectados, el programa tendría que reducir alcance o buscar autorización suplementaria, no inventar dinero.
 
 Uno de los consejeros se negó a firmar la versión íntegra. Aceptaba comprobar seguridad actual, pero consideraba que el examen de correspondencia anterior a la Fractura podía abrir disputas sin relación con los cierres presentes.
 
