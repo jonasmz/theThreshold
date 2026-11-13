@@ -369,3 +369,20 @@ Se incorporan cinco controles y `temporadas/temporada-02/continuidad-51-55.md`. 
 **Control efectuado:** estructura 4 escenas por episodio, punto de vista según mapa T3 26–30, referencias de continuidad T2/T3 y regla de energía/tránsito verificadas. El bloque cierra el arco intermedio conforme arquitectura, sin sustituir procesos de atribución individual ni difundir detalles técnicos en comunicaciones al creador. **30/60 episodios redactados como borradores (50 %)**, no significa todos fusionados ni aptos para locución.
 
 **Revisión pendiente:** ajuste de oralidad y ritmos, validación de facultades históricas, sustentación física de modelos en banco aislado, privacidad y prueba contradictoria, lectura cronometrada para objetivo 8–9 minutos, consistencia transversal de serie. Próximo bloque T3-31–35 tras comprobar rama y PR.
+
+## Temporada 3 — séptimo bloque (episodios 31–35, 13/11/2026)
+
+**Estado:** cinco borradores narrativos 0.1 en `story/season03-episodes31-35`, cinco controles editoriales individuales, matriz `temporadas/temporada-03/continuidad-31-35.md` y actualización del presente registro. Rama nacida de `main` después de verificar que el PR #102 (T3-26–30) quedó fusionado; pendiente revisión y PR contra `main` sin fusión automática.
+
+| Episodio | Palabras narrativas | Escenas | POV | Estado |
+|---|---:|---:|---|---|
+| T3-31 | 1.181 | 4 | Inara | Borrador + control, audio pendiente |
+| T3-32 | 1.168 | 4 | Daren | Borrador + control, audio pendiente |
+| T3-33 | 1.153 | 4 | Maelor | Borrador + control, audio pendiente |
+| T3-34 | 1.175 | 4 | Kael | Borrador + control, audio pendiente |
+| T3-35 | 1.246 | 4 | Lyra | Borrador + control, audio pendiente |
+| **Total 31–35** | **5.923** | **20** | Cinco POV | Revisión global pendiente |
+
+**Verificación:** cuerpos de narración contados sobre archivos reales de rama, cuatro escenas en cada uno, focalización acorde al mapa 31–60, continuidad con 29–30 y matriz 26–30 comprobada, derechos y límites técnicos documentados. 35/60 episodios redactados como borradores (58,3 %), sin afirmar que estos cinco estén integrados.
+
+**Pendientes antes de locución:** lectura cronometrada para 8–9 min, edición de oralidad y ritmo, revisión jurídico-técnica y de competencia histórica, auditoría de continuidad transversal y voces. **Siguiente bloque:** T3-36–40, tras comprobar estado e integración del PR de esta entrega.
