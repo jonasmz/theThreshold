@@ -335,3 +335,20 @@ Se incorporan cinco controles y `temporadas/temporada-02/continuidad-51-55.md`. 
 **Controles efectuados:** narración contada sobre contenidos de rama, separación por cuatro escenas, arquitectura y mapa T3 16–20 cotejados, continuidad 11–15 y final T2 revisados, límites energéticos, de tránsito, fuentes y competencias preservados. Se cierra el arco 11–20 en escala documental sin anticipar atribuciones reservadas al 21–30.
 
 **Estado global:** 20 de 60 episodios redactados como borradores (33,3 %); no significa 20 fusionados en `main`. 8–9 minutos es **objetivo editorial**, sin cronometraje. Pendiente revisión literaria y de audio, derecho, física interna y recepción de fuentes. Siguiente paso: T3-21–25 tras comprobación de ramas y PR de integración.
+
+## Temporada 3 — quinto bloque (episodios 21–25, 13/11/2026)
+
+**Estado:** cinco borradores narrativos 0.1, cinco controles editoriales, `temporadas/temporada-03/continuidad-21-25.md` y actualización de producción, rama `story/season03-episodes21-25` creada desde `main`. PR #89 (T3-16–20) verificado fusionado antes de iniciar el bloque; se confirmó episodio 20 y continuidad en `main`. Nuevo PR apunta a `main` sin merge automático.
+
+| Episodio | Palabras de narración | Escenas | POV | Revisión |
+|---|---:|---:|---|---|
+| T3-21 | 1.180 | 4 | Maelor | Métodos de distribución, jurisdicciones, audio |
+| T3-22 | 1.188 | 4 | Kael | Datación de ensayo, custodia y audio |
+| T3-23 | 1.149 | 4 | Daren | Facultades legales antiguas y audio |
+| T3-24 | 1.140 | 4 | Sera | Reproducción de modelo y seguridad de audio |
+| T3-25 | 1.185 | 4 | Lyra | Metadatos externos, costos y audio |
+| **Total 21–25** | **5.842** | **20** | Cinco POV | Revisión integral pendiente |
+
+**Control realizado:** recuento de narración sin título/cierre, cuatro escenas por entrega, cada POV conforme a mapa 21–25, causalidad y registros de T2/T3 previos cotejados, diferencias entre recepción, conocimiento, evaluación, decisión y autorización preservadas. No se atribuyen culpabilidades individuales ni se levantan vetos. 25/60 episodios T3 **redactados como borradores** (41,7 %), pero los últimos cinco siguen en rama, no en `main`.
+
+**Pendientes:** revisión literaria y técnica transversal, consistencia de denominaciones, cronología de calendarios y registros, seguridad de ensayos, lectura cronometrada para 8–9 minutos, edición de guion de audio. Próximo bloque proyectado T3-26–30 tras comprobar integración.
