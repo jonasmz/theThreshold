@@ -9,7 +9,7 @@ The second floodgate had the same defect as the first, but it hadn't caused an a
 
 It took Neria Calden nearly an hour to admit it.
 
-The North Brine station had been built over a narrow canal between fish warehouses and a pottery workshop. Unlike the eastern dike, its gate leaves weren't exposed to the full pressure of the basin. They regulated the exchange with an elevated reservoir that supplied industrial water to the factories. Under normal conditions, maneuvers were slow and could be scheduled in advance.
+The Salmuera Norte station had been built over a narrow canal between fish warehouses and a pottery workshop. Unlike the eastern dike, its gate leaves weren't exposed to the full pressure of the basin. They regulated the exchange with an elevated reservoir that supplied industrial water to the factories. Under normal conditions, maneuvers were slow and could be scheduled in advance.
 
 She had gone there to examine a calibration request listed among the Mareval Consortium's maintenance orders. Its date matched the repair carried out months earlier on the gauge at the eastern dike.
 
