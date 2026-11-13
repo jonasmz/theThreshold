@@ -221,4 +221,5 @@ Un accidente hidráulico en un puerto de Seleris revela desviaciones de energía
 - **150** · Cuando suene la boya — La precuela cierra su conflicto y deja una huella discreta en el mundo principal.
 
 ## Estado real de avance
-Planificados: **150/150**. Redactados: **iniciales según archivos en `capitulos/`**. La meta de 225.000 palabras es **proyectada**, no entregada; actualizar esta línea al finalizar cada bloque.
+**Planificados:** 150/150. **Redactados:** 5/150 (001–005). **Palabras narrativas verificadas:** 7.327. **Pendientes:** 145 capítulos. **Meta estimada:** 225.000; **mínimo obligatorio:** 210.000. El objetivo global sigue **pendiente**, no debe describirse como entregado.
+**Control del bloque:** `control-editorial-001-005.md`. La prosa excluye títulos, metadatos y notas editoriales.
