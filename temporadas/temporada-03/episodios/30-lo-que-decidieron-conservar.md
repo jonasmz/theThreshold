@@ -127,7 +127,7 @@ Durante generaciones, el desastre había parecido una oscuridad sin manos.
 
 Ahora había un acto al que dirigir preguntas.
 
-La siguiente temporada de la historia no tendría que descubrir si alguien eligió.
+La segunda mitad de la historia ya no tendría que descubrir si alguien eligió.
 
 Tendría que decidir cómo responder a esa elección sin repetirla.
 
