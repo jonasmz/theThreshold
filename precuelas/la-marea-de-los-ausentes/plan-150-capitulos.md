@@ -221,7 +221,7 @@ Un accidente hidráulico en un puerto de Seleris revela desviaciones de energía
 - **150** · Cuando suene la boya — La precuela cierra su conflicto y deja una huella discreta en el mundo principal.
 
 ## Estado real de avance
-**Planificados:** 150/150. **Redactados:** 30/150 (001–030). **Palabras narrativas verificadas:** 42.750. **Pendientes:** 120 capítulos. **Meta estimada:** 225.000; **mínimo obligatorio:** 210.000. El objetivo total todavía no está alcanzado; falta revisión literaria y sonora global.
-**Arco I (001–015):** primer borrador completo, integrado en `main`. **Arco II (016–030):** primer borrador completo; capítulos 016–025 ya integrados en `main` y el bloque 026–030 se propone mediante PR nuevo sin fusión automática.
-**Controles de bloque:** `control-editorial-001-005.md` (7.327); `control-editorial-006-010.md` (6.959); `control-editorial-011-015.md` (7.212); `control-editorial-016-020.md` (7.070); `control-editorial-021-025.md` (7.072); `control-editorial-026-030.md` (7.110). Conteo narrativo excluye encabezados y metadatos.
-**Integración:** capítulos 001–025 en `main` por PR #92, #94, #96, #98 y #105. La rama `story/precuela-la-marea-026-030` incluye los capítulos 026–030 y la actualización editorial, para PR independiente contra `main`.
+**Planificados:** 150/150. **Redactados:** 35/150 (001–035). **Palabras narrativas verificadas:** 50.219. **Pendientes:** 115 capítulos. **Meta estimada:** 225.000; **mínimo obligatorio:** 210.000. El objetivo de novela completa continúa pendiente; también la revisión literaria y sonora global.
+**Arco I (001–015):** primera redacción completa. **Arco II (016–030):** primera redacción completa. **Arco III (031–045):** 5/15 capítulos redactados (031–035), primeros borradores.
+**Controles editoriales:** `control-editorial-001-005.md` (7.327); `control-editorial-006-010.md` (6.959); `control-editorial-011-015.md` (7.212); `control-editorial-016-020.md` (7.070); `control-editorial-021-025.md` (7.072); `control-editorial-026-030.md` (7.110); `control-editorial-031-035.md` (7.469). Conteos solo de prosa, excluyendo metadatos.
+**Integración:** 001–030 integrados en `main` mediante PR #92, #94, #96, #98, #105 y #107. El bloque 031–035 está en rama `story/precuela-la-marea-031-035`, para PR separado sin fusión automática.
