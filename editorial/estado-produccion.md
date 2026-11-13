@@ -352,3 +352,20 @@ Se incorporan cinco controles y `temporadas/temporada-02/continuidad-51-55.md`. 
 **Control realizado:** recuento de narración sin título/cierre, cuatro escenas por entrega, cada POV conforme a mapa 21–25, causalidad y registros de T2/T3 previos cotejados, diferencias entre recepción, conocimiento, evaluación, decisión y autorización preservadas. No se atribuyen culpabilidades individuales ni se levantan vetos. 25/60 episodios T3 **redactados como borradores** (41,7 %), pero los últimos cinco siguen en rama, no en `main`.
 
 **Pendientes:** revisión literaria y técnica transversal, consistencia de denominaciones, cronología de calendarios y registros, seguridad de ensayos, lectura cronometrada para 8–9 minutos, edición de guion de audio. Próximo bloque proyectado T3-26–30 tras comprobar integración.
+
+## Temporada 3 — sexto bloque (episodios 26–30, 13/11/2026)
+
+**Estado editorial:** cinco borradores narrativos 0.1, cinco controles individuales, `temporadas/temporada-03/continuidad-26-30.md` y registro de producción en rama `story/season03-episodes26-30`, creada desde `main`. Antes de iniciar, se confirmó que el PR #99 (T3-21–25) estaba fusionado y el episodio 25 y su continuidad existían en `main`. No hay merge automático.
+
+| Episodio | Palabras narrativas | Escenas | Focalización | Estado |
+|---|---:|---:|---|---|
+| T3-26 | 1.158 | 4 | Inara | Borrador y control individual; audio pendiente |
+| T3-27 | 1.163 | 4 | Maelor | Borrador y control individual; audio pendiente |
+| T3-28 | 1.162 | 4 | Kael | Borrador y control individual; audio pendiente |
+| T3-29 | 1.133 | 4 | Sera | Borrador y control individual; audio pendiente |
+| T3-30 | 1.278 | 4 | Daren | Borrador y control individual; audio pendiente |
+| **Total 26–30** | **5.894** | **20** | Cinco POV | Auditoría global pendiente |
+
+**Control efectuado:** estructura 4 escenas por episodio, punto de vista según mapa T3 26–30, referencias de continuidad T2/T3 y regla de energía/tránsito verificadas. El bloque cierra el arco intermedio conforme arquitectura, sin sustituir procesos de atribución individual ni difundir detalles técnicos en comunicaciones al creador. **30/60 episodios redactados como borradores (50 %)**, no significa todos fusionados ni aptos para locución.
+
+**Revisión pendiente:** ajuste de oralidad y ritmos, validación de facultades históricas, sustentación física de modelos en banco aislado, privacidad y prueba contradictoria, lectura cronometrada para objetivo 8–9 minutos, consistencia transversal de serie. Próximo bloque T3-31–35 tras comprobar rama y PR.
