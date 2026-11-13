@@ -221,7 +221,7 @@ Un accidente hidráulico en un puerto de Seleris revela desviaciones de energía
 - **150** · Cuando suene la boya — La precuela cierra su conflicto y deja una huella discreta en el mundo principal.
 
 ## Estado real de avance
-**Planificados:** 150/150. **Redactados:** 15/150 (001–015). **Palabras narrativas verificadas:** 21.498. **Pendientes:** 135 capítulos. **Meta estimada:** 225.000; **mínimo obligatorio:** 210.000. El objetivo total no está alcanzado: los capítulos escritos son todavía borradores.
-**Arco I, capítulos 001–015:** redacción inicial completa, pendiente de revisión literaria y sonora global.
-**Controles:** `control-editorial-001-005.md` (7.327 palabras), `control-editorial-006-010.md` (6.959 palabras), `control-editorial-011-015.md` (7.212 palabras). Se excluyen encabezados y metadatos del cómputo.
-**Integración:** 001–005 y 006–010 integrados en `main` (PR #92 y #94). 011–015 en rama `story/precuela-la-marea-011-015`, propuestos para PR separado sin integración automática.
+**Planificados:** 150/150. **Redactados:** 20/150 (001–020). **Palabras narrativas verificadas:** 28.568. **Pendientes:** 130 capítulos. **Meta estimada:** 225.000; **mínimo obligatorio:** 210.000. La novela completa no está terminada y sigue pendiente la edición sonora y literaria global.
+**Arco I, capítulos 001–015:** primer borrador completo e integrado en `main`. **Arco II, capítulos 016–030:** 5/15 redactados (016–020), sin integración automática.
+**Controles de bloques:** `control-editorial-001-005.md` (7.327); `control-editorial-006-010.md` (6.959); `control-editorial-011-015.md` (7.212); `control-editorial-016-020.md` (7.070). Se excluyen títulos, metadatos y controles del conteo narrativo.
+**Integración:** 001–015 ya en `main` (PR #92, #94 y #96). 016–020 en rama `story/precuela-la-marea-016-020`, propuestos por PR separado y sin fusión autónoma.
