@@ -85,6 +85,8 @@ Solicitó a la oficina de síntesis histórica una entrevista con atribución. S
 
 Inara publicó esa respuesta junto a una nota sobre los gastos actuales del comedor de Ada Venn, verificados con recibos agregados y consentimiento renovado. Los dos asuntos compartían una historia, pero no una causalidad demostrada: el daño presente exigía reparación y vigilancia aunque la responsabilidad antigua siguiera bajo examen.
 
+Antes de enviar la página a imprenta, Joren le mostró una tabla que comparaba gastos de dos comunidades. Una de ellas había calculado personas atendidas; la otra, raciones distribuidas. Sumarlas habría duplicado parte del perjuicio. Inara llamó a cada representante y rehízo la columna con unidades separadas. Perdieron el espacio destinado a un comentario editorial, pero conservaron las cifras que cada comunidad podía defender ante su propia autoridad. La corrección actual no necesitaba esperar siglos para ser útil.
+
 Al atardecer, Ada la llamó.
 
 —Esta vez explicaste las cuentas sin utilizar nuestro sufrimiento para decir quién tuvo la culpa.
