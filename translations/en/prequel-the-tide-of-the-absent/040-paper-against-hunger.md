@@ -99,6 +99,8 @@ Denor returned that afternoon, before taking the cart back to the port.
 
 Talia handed him a copy of the agreement. It included quantities, the distribution method, and a proposal for independent verification. The original book remained at the shelter.
 
+The official read it beside the shed.
+
 “I can't commit the supplier to a system it hasn't approved,” he said.
 
 “You can forward it to whoever makes that decision. The municipality is still responsible for the program.”
