@@ -9,15 +9,15 @@ Neria Calden had prepared two maps of the marshes. One showed pipes, water level
 
 On the municipal office table, both maps occupied the same space. On the first, a mechanical failure could be identified without revealing anything about the people who needed water. On the second, every path ended beside a home, a kitchen, or a school.
 
-The Civic Council had called a hearing to present preliminary findings from the flood investigation. The news had drawn merchants demanding accountability, skippers seeking compensation, and relatives of people still missing.
+The Civic Council had called a hearing to present preliminary findings from the flood investigation. The news drew merchants demanding accountability, skippers seeking compensation, and relatives of the missing.
 
 The chair asked for every map and list obtained during the investigation to be published.
 
 “The city has a right to know what happened,” the lead representative said.
 
-Neria shared that demand. She'd spent weeks showing that readings couldn't be replaced by convenient statements, and that contracts had to reflect work actually performed.
+Neria agreed. For weeks she'd shown that readings couldn't be replaced by convenient statements and contracts had to reflect work performed.
 
-However, publishing everything could reveal the shelter's entrances, the location of its water stores, and the routes used by people who feared retaliation from their employers.
+But full publication could reveal the shelter's entrances, water stores, and routes used by people fearing employer retaliation.
 
 “I propose presenting the hydraulic data without identifying private residences,” she replied. “The personal-protection annexes can be reviewed under judicial supervision.”
 
@@ -27,7 +27,7 @@ However, publishing everything could reveal the shelter's entrances, the locatio
 
 Fara Nel took notes. Beside him, Amiel Rusk remained silent, the railway transport file under his arm.
 
-Neria knew the inspector could explain the legal limits better than she could. Her responsibility was different: to say which of those data were essential to repair the canal and which were not.
+The inspector could explain the legal limits. Neria's job was to identify which data were essential to repair the canal.
 
 ***
 
@@ -53,7 +53,7 @@ Amiel then presented the railway documents. A train had run, and a carriage had 
 
 Neria saw Dalia, Erven Tal's sister, clutch a folder against her chest.
 
-There was no easy answer she could offer her.
+She had no easy answer.
 
 ***
 
@@ -67,13 +67,13 @@ Talia was present as a representative of the shelter assembly. She stood before 
 
 “Then explain who needs which information and for what decision. Don't put our children on a list beside the access routes.”
 
-Neria looked at Fara. The councilor asked that the annex reading be suspended until its legal status could be determined.
+Fara asked to suspend the annex until its legal status was clear.
 
 A man from Mareval objected. He argued that the company needed to know which structures stood within the maintenance strip in order to plan the works.
 
 “You can receive the route plan and the technical restrictions,” Neria replied. “You don't need each resident's employment history to calculate a pipe section.”
 
-The representative insisted that construction without removing obstacles was impossible.
+The representative insisted the works required removing obstacles.
 
 Neria unfolded the first map.
 
@@ -119,7 +119,7 @@ Breda, who was taking part in the accounting review, had documented several actu
 
 Amiel confirmed that the magistrate had provided for that separation.
 
-Neria understood that they'd found a partial way forward. Not a guarantee of justice, but a way to prevent new harm while the investigation continued.
+They'd found a partial way forward: not justice guaranteed, but a way to prevent new harm while the investigation continued.
 
 ***
 
@@ -134,6 +134,8 @@ The Mareval representative announced that he would seek a review of the deadline
 As they left, Dalia approached her.
 
 “Does this help find Erven?” she asked.
+
+Neria held her gaze.
 
 “It helps ensure the records can be investigated without putting other people in danger. I don't have any confirmed news about your brother.”
 
@@ -165,7 +167,7 @@ Irsa read the final gauge.
 
 The level was within the permitted range.
 
-A boat crossed toward Costa Interior without stopping. Neria didn't know who was aboard and didn't try to find out.
+A boat crossed toward Costa Interior without stopping. She didn't know who was aboard and didn't ask.
 
 In the inspection notebook, she wrote: “Passage operational; provisional supply secured; residents not enumerated under this procedure.”
 
