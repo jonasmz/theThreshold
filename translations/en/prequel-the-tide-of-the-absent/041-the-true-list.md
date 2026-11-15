@@ -117,8 +117,6 @@ The director turned toward her.
 
 “I disclosed that to the court. That fact doesn't make the missing checks complete.”
 
-The director returned his gaze to Sema.
-
 Yuna closed the discussion. The Mutual would have an opportunity to submit relevant originals, but it couldn't impose an accounting conclusion on the court.
 
 Back at the table, Sema discovered a pattern Breda hadn't noticed: four wage claims from different crews referred to the same transport order number. The beneficiaries and amounts didn't match; the document used to justify the service did.
