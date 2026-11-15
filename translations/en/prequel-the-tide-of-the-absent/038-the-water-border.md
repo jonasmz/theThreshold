@@ -83,6 +83,8 @@ The carpenter agreed to have his testimony recorded and to keep a copy.
 
 The second person was a woman who'd worked as a cook for temporary crews. Her name was Marael Din, and she'd arrived at the border with a twelve-year-old boy who wasn't her son. The boy's mother was still at a dispensary, she explained.
 
+Rendal had denied the crossing because no valid authorization established that Marael could travel with him.
+
 “He asked me to take him,” the woman said. “He was conscious when he said it.”
 
 “Is there anyone who witnessed that request?” Amiel asked.
