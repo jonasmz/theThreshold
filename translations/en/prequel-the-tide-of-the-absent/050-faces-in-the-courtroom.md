@@ -93,7 +93,9 @@ During the recess, Dalia went out into the courtyard. A journalist recognized he
 
 The man insisted that the public needed a clear answer.
 
-“So do I,” Dalia thought.
+Dalia thought of her three questions.
+
+“So do I.”
 
 She went back inside before the interview could become a headline she'd never wanted to say aloud.
 
