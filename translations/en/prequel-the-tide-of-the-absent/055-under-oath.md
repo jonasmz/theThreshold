@@ -7,7 +7,7 @@
 
 Breda Lin asked for the question to be read to her a second time.
 
-The hearing had resumed after the blackout, with a different recorder and a technician assigned to certify the equipment. Magistrate Yuna Tor had ordered the internal clock checked, the medium's serial number recorded, and a backup copy preserved before they continued. No one wanted to discover at the end of a statement that the device had stopped working.
+The hearing had resumed after the blackout, with a different recorder and a technician assigned to certify it. Yuna Tor had ordered the internal clock checked, the medium's serial number recorded, and a backup copy preserved. No one wanted to discover afterward that the device had stopped working.
 
 Breda had sworn to tell the truth. She did not need to be reminded; she needed to understand exactly what she was being asked.
 
@@ -31,11 +31,11 @@ The magistrate noted the answer. Breda had learned that a late correction could 
 
 ***
 
-Expert Sema Ordel was seated beside the clerk. She had received the original documents under limited custody and prepared a table separating five stages: order, dispatch, receipt, payment, and subsequent reconciliation.
+Expert Sema Ordel sat beside the clerk. She had received the originals under limited custody and prepared a table separating five stages: order, dispatch, receipt, payment, and reconciliation.
 
 Breda asked for the entire table to be displayed, not just the page containing the four references.
 
-“An order shows that someone requested a service,” she explained. “A dispatch note may show that a load or vehicle left. A destination receipt establishes delivery if it is signed by an identifiable, authorized person. A bank or cash entry proves that a payment was made, but not necessarily that the service was performed. Reconciliation has to connect each stage.”
+“An order shows that someone requested a service,” she explained. “A dispatch note may show that a load or vehicle left. A destination receipt establishes delivery if signed by an identifiable, authorized person. A bank or cash entry proves that a payment was made, but not necessarily that the service was performed. Reconciliation has to connect each stage.”
 
 The lawyer asked whether a company could use a single reference for several jobs.
 
@@ -45,9 +45,9 @@ The lawyer asked whether a company could use a single reference for several jobs
 
 “Because the amounts were settled as completed services, but not all of them had individual receipts of delivery. The shared reference justified reviewing the group. It did not prove that four improper charges had been made.”
 
-The answer did not satisfy the workers' representative, who had come with a folder of complaints. Breda saw him shake his head.
+The answer did not satisfy the workers' representative, who had brought a folder of complaints. Breda saw him shake his head.
 
-She understood the frustration. If every qualification became another way to delay payment, the workers would keep waiting. But if she called a discrepancy fraud when it might be explained by a bundled contract, she would destroy the ability to distinguish a legitimate claim from a false one.
+She understood the frustration. If every qualification delayed payment, the workers would keep waiting. But calling a discrepancy fraud when a bundled contract might explain it would make legitimate claims harder to distinguish from false ones.
 
 “Can you say how many services have been substantiated?” Yuna asked.
 
@@ -83,13 +83,13 @@ Breda drew a slow breath.
 
 “I acknowledge that my verification was insufficient for the breadth of the statement I signed. I cannot legally characterize my own conduct. I can explain what I did and what I failed to do.”
 
-The Mutual's representative lowered his eyes. The answer did not absolve Breda. Nor did it give the company a confession that could be extended to every document in the audit.
+The Mutual's representative lowered his eyes. The answer did not absolve Breda or give the company a confession to extend to every document in the audit.
 
 ***
 
 The prosecutor asked her to explain how her method had changed after reviewing the crews' receipts.
 
-Breda showed a worksheet with three new columns: confirmed information, pending information, and contradictory information. Each entry included the reference of the supporting document and the name of the person who had provided it, except in copies intended for public circulation, where unnecessary personal details were concealed.
+Breda showed a worksheet with three columns: confirmed, pending, and contradictory information. Each entry cited its supporting document and source; copies for public circulation concealed unnecessary personal details.
 
 “Before, we used a single category called ‘settled,’” she said. “Now we distinguish between money advanced, money paid to an intermediary, and money received by the final recipient.”
 
@@ -115,7 +115,7 @@ Yuna looked up.
 
 “Why didn't you submit this table earlier?”
 
-“Because it didn't exist when I signed the original report. It was built after we obtained receipts, interviewed workers, and compared cashbooks. The new documentation lets us review the earlier record; it doesn't let us pretend the new material was always available.”
+“It didn't exist when I signed the original report. We built it after obtaining receipts, interviewing workers, and comparing cashbooks. The new documentation lets us review the earlier record; it doesn't mean the material was always available.”
 
 ***
 
@@ -145,7 +145,7 @@ Nimo seemed disappointed.
 
 “I used to confuse spotting a pattern with understanding it.”
 
-She asked him to submit the document through the custody procedure, not directly to her. Their former working relationship could make any informal receipt of the paper vulnerable to challenge. Nimo agreed and left.
+She asked him to submit the document through the custody procedure, not directly to her. Their former working relationship could make an informal handover vulnerable to challenge. Nimo agreed and left.
 
 Breda returned to the room with a copy of the notice, not the original receipt.
 
@@ -179,7 +179,7 @@ She nodded.
 
 The man put away his folder and walked toward the square.
 
-Breda remained by the door for a few moments. She had lost the comfort of appearing infallible, if she had ever possessed it. She had kept something more fragile: a method that allowed her to correct her mistakes without erasing the evidence that still needed examination.
+Breda remained by the door. She had lost the comfort of appearing infallible, if she had ever possessed it. She had kept something more fragile: a method for correcting mistakes without erasing evidence that still needed examination.
 
 She did not know whether that would be enough to preserve everyone's trust.
 
