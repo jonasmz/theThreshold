@@ -171,6 +171,12 @@ When Vela stood, she saw Peran waiting in the corridor.
 
 “That's what I told them.”
 
+Peran looked at the folder.
+
+“Are they going to use the comparison sheet?”
+
+“I don't know. I prepared it for myself, not for the court.”
+
 Vela returned to the tower with the folder under her arm. At the copying desk she found an archive note: someone had requested a new reproduction of the working sheet before the hearing, but the log did not say who had authorized it.
 
 She filed it with the other records.
